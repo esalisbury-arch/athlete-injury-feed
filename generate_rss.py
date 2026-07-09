@@ -9,7 +9,7 @@ from injury_data import BASE_DIR, load_valid_records
 RSS_FILE = BASE_DIR / "feed.xml"
 
 CHANNEL_TITLE = "High-Profile Athlete Injury Report"
-CHANNEL_LINK = "https://www.oromuscles.com/injury-report"
+CHANNEL_LINK = "https://esalisbury-arch.github.io/athlete-injury-feed/"
 CHANNEL_DESCRIPTION = (
     "Daily-updated feed of high-profile athlete injuries across NFL, NBA, WNBA, MLB, NHL, "
     "top soccer leagues, tennis, golf, F1, boxing/UFC, cricket, Olympic sports, and NCAA D1."
