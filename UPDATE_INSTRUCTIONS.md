@@ -24,4 +24,5 @@ On each run:
 6. Run `python3 generate_csv.py` to regenerate `injuries.csv` from the updated `injuries.json`.
 7. Run `python3 generate_rss.py` to regenerate `feed.xml` (RSS 2.0) from the updated `injuries.json`.
 8. Run `python3 generate_opml.py` to regenerate `injuries.opml` (a standalone outline of injuries grouped by sport, built directly from `injuries.json` — independent of `feed.xml`, no `xmlUrl`).
-9. Optionally prune records older than ~30 days from `injuries.json` to keep the outputs a manageable size, unless the injury is still actively affecting a team (e.g. long-term ACL recovery).
+9. Commit and push (`git add injuries.json injury_report.xlsx injuries.csv feed.xml injuries.opml && git commit -m "..." && git push`) so the public feed at https://esalisbury-arch.github.io/athlete-injury-feed/feed.xml stays current. The repo is https://github.com/esalisbury-arch/athlete-injury-feed, hosted via GitHub Pages.
+10. Optionally prune records older than ~30 days from `injuries.json` to keep the outputs a manageable size, unless the injury is still actively affecting a team (e.g. long-term ACL recovery).
