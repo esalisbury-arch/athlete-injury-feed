@@ -1350,5 +1350,44 @@
     "date_reported": "2026-07-13",
     "source_title": "European Aquatics - Marchand withdraws from rest of French Championships to continue treatment on leg muscle injury",
     "source_url": "https://europeanaquatics.org/marchand-withdraws-from-rest-of-french-championships-to-continue-treatment-on-leg-muscle-injury/"
+  },
+  {
+    "guid": "rugby-penaud-2026-07-13",
+    "athlete": "Damian Penaud",
+    "org": "France national team (Rugby Union)",
+    "sport": "Rugby Union",
+    "injury_context": "Calf injury",
+    "duration": "Ruled out of France's remaining Nations Championship matches vs. Australia (July 13, Brisbane) and Japan (July 18, Tokyo)",
+    "financial_impact": "Not disclosed in available reporting",
+    "team_impact": "France loses a starting winger for the rest of its Nations Championship campaign",
+    "date_reported": "2026-07-13",
+    "source_title": "NBC Sports - Injured Damian Penaud to miss France games against Australia and Japan in Nations Championship",
+    "source_url": "https://www.nbcsports.com/rugby/news/injured-damian-penaud-to-miss-france-games-against-australia-and-japan-in-nations-championship"
+  },
+  {
+    "guid": "rugby-delany-2026-07-13",
+    "athlete": "Caleb Delany",
+    "org": "Hurricanes (Super Rugby Pacific)",
+    "sport": "Rugby Union",
+    "injury_context": "Concussion, sustained in the semi-final",
+    "duration": "Availability for the Super Rugby Pacific Grand Final uncertain pending return-to-play protocols",
+    "financial_impact": "Not disclosed in available reporting",
+    "team_impact": "Hurricanes risk being without a forward for the Grand Final",
+    "date_reported": "2026-07-13",
+    "source_title": "Super Rugby Pacific - Casualty Ward Super Rugby Pacific Grand Final",
+    "source_url": "https://blog.draftrugby.com/p/casualty-ward-super-rugby-pacific-094"
+  },
+  {
+    "guid": "rugby-wild-2026-07-13",
+    "athlete": "Drew Wild",
+    "org": "Chiefs (Super Rugby Pacific)",
+    "sport": "Rugby Union",
+    "injury_context": "Shoulder injury",
+    "duration": "Listed as a doubt for the Super Rugby Pacific Grand Final despite hopes of being available",
+    "financial_impact": "Not disclosed in available reporting",
+    "team_impact": "Chiefs risk being without a forward for the Grand Final",
+    "date_reported": "2026-07-13",
+    "source_title": "Super Rugby Pacific - Casualty Ward Super Rugby Pacific Grand Final",
+    "source_url": "https://blog.draftrugby.com/p/casualty-ward-super-rugby-pacific-094"
   }
 ]
