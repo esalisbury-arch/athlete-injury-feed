@@ -934,5 +934,70 @@
     "date_reported": "2026-07-06",
     "source_title": "Golf Digest - Lexi Thompson withdraws from KPMG Women's PGA Championship",
     "source_url": "https://www.golfdigest.com/story/lexi-thompson-withdraws-kpmg-womens-pga-championship"
+  },
+  {
+    "guid": "mma-mcgregor-2026-07-11",
+    "athlete": "Conor McGregor",
+    "org": "UFC",
+    "sport": "Mixed Martial Arts",
+    "injury_context": "Suspected torn ACL in the right knee, sustained throwing a kick just 69 seconds into his UFC 329 return bout; official diagnosis pending further medical evaluation",
+    "duration": "Fight stopped by the referee at 1:09 of round one; no recovery timeline given pending formal diagnosis",
+    "financial_impact": "Not disclosed in available reporting",
+    "team_impact": "Ends McGregor's much-hyped comeback fight against Max Holloway almost immediately and casts doubt on any near-term return to competition",
+    "date_reported": "2026-07-11",
+    "source_title": "NBC News - Conor McGregor suffers early knee injury in return, loses to Max Holloway at UFC 329",
+    "source_url": "https://www.nbcnews.com/sports/ufc/conor-mcgregor-suffers-early-knee-injury-return-loses-max-holloway-ufc-rcna552729"
+  },
+  {
+    "guid": "wnba-magbegor-2026-07-11",
+    "athlete": "Ezi Magbegor",
+    "org": "Seattle Storm (WNBA)",
+    "sport": "Basketball",
+    "injury_context": "Facial fracture",
+    "duration": "Ruled out of the Storm's game vs. the Washington Mystics; to be reevaluated in the next couple of weeks",
+    "financial_impact": "Not disclosed in available reporting",
+    "team_impact": "Storm without their starting center/forward for at least the near term",
+    "date_reported": "2026-07-11",
+    "source_title": "Seattle Times - Ezi Magbegor to miss Seattle Storm's game vs. Washington Mystics with face injury",
+    "source_url": "https://www.seattletimes.com/sports/storm/ezi-magbegor-to-miss-seattle-storms-game-vs-washington-mystics-with-face-injury/"
+  },
+  {
+    "guid": "mlb-griffin-2026-07-11",
+    "athlete": "Konnor Griffin",
+    "org": "Pittsburgh Pirates (MLB)",
+    "sport": "Baseball",
+    "injury_context": "Torn tendon (sagittal band) in the left ring finger, sustained diving for a ball; initially placed on the 10-day IL and now transferred to the 60-day IL",
+    "duration": "8-10 week recovery timeline; ineligible to return until at least September 4; team opted for a non-operative approach, splinting the hand for about six weeks before resuming baseball activities",
+    "financial_impact": "Not disclosed in available reporting",
+    "team_impact": "Pirates lose their rookie starting shortstop (the No. 1 overall pick in the 2024 draft) for an extended stretch, his second significant injury of the season after an earlier forearm strain",
+    "date_reported": "2026-07-11",
+    "source_title": "CBS Sports - Pirates' Konnor Griffin: Moved to 60-day IL",
+    "source_url": "https://www.cbssports.com/fantasy/baseball/news/pirates-konnor-griffin-moved-to-60-day-il/"
+  },
+  {
+    "guid": "wnba-bell-2026-07-13",
+    "athlete": "Kierstan Bell",
+    "org": "Las Vegas Aces (WNBA)",
+    "sport": "Basketball",
+    "injury_context": "Right leg injury (specific diagnosis not disclosed in available reporting)",
+    "duration": "Ruled out for the Aces' July 13 game vs. the Indiana Fever; no return timeline given",
+    "financial_impact": "Not disclosed in available reporting",
+    "team_impact": "Aces without a rotation forward who had recently moved into the starting lineup, adding to the team's list of unavailable players",
+    "date_reported": "2026-07-13",
+    "source_title": "Yahoo Sports - Final Injury Report for Fever-Aces: Will Caitlin Clark Play?",
+    "source_url": "https://sports.yahoo.com/articles/final-injury-report-fever-aces-210000827.html"
+  },
+  {
+    "guid": "golf-smylie-2026-07-08",
+    "athlete": "Elvis Smylie",
+    "org": "LIV Golf (Ripper GC) / DP World Tour",
+    "sport": "Golf",
+    "injury_context": "Rib injury",
+    "duration": "Withdrew from the Genesis Scottish Open and The Open Championship at Royal Birkdale; announced an extended break from golf for rehabilitation, with no firm return timeline given",
+    "financial_impact": "Forfeits prize money and Race to Dubai/world ranking points from both events",
+    "team_impact": "Removes the Australian, who had qualified for his third Open Championship appearance, from the year's final men's major",
+    "date_reported": "2026-07-08",
+    "source_title": "Today's Golfer - LIV Golf star withdraws on the eve of The Open",
+    "source_url": "https://www.todays-golfer.com/news-and-events/majors/the-open-championship/elvis-smylie-liv-golf-withdrawal/"
   }
 ]

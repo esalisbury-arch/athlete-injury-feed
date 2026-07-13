@@ -5,7 +5,15 @@
   <link>https://esalisbury-arch.github.io/athlete-injury-feed/</link>
   <description>Daily-updated feed of high-profile athlete injuries across NFL, NBA, WNBA, MLB, NHL, top soccer leagues, tennis, golf, F1, boxing/UFC, cricket, Olympic sports, and NCAA D1.</description>
   <language>en-us</language>
-  <lastBuildDate>Sun, 12 Jul 2026 23:40:26 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 13 Jul 2026 14:50:42 +0000</lastBuildDate>
+  <item>
+    <title>Kierstan Bell (Basketball) — Right leg injury (specific diagnosis not disclosed in available reporting)</title>
+    <link>https://sports.yahoo.com/articles/final-injury-report-fever-aces-210000827.html</link>
+    <guid isPermaLink="false">wnba-bell-2026-07-13</guid>
+    <pubDate>Mon, 13 Jul 2026 00:00:00 +0000</pubDate>
+    <category>Basketball</category>
+    <description>Kierstan Bell (Las Vegas Aces (WNBA)) — Right leg injury (specific diagnosis not disclosed in available reporting). Expected duration: Ruled out for the Aces' July 13 game vs. the Indiana Fever; no return timeline given. Financial impact: Not disclosed in available reporting. Team impact: Aces without a rotation forward who had recently moved into the starting lineup, adding to the team's list of unavailable players.</description>
+  </item>
   <item>
     <title>Satou Sabally (Basketball) — Concussion protocol after being elbowed in the face by Aces forward NaLyssa Smith while contesting a rebound; symptoms had delayed onset</title>
     <link>https://sports.yahoo.com/articles/liberty-injury-report-star-forward-satou-sabally-in-concussion-protocol-224647068.html</link>
@@ -77,6 +85,30 @@
     <pubDate>Sat, 11 Jul 2026 00:00:00 +0000</pubDate>
     <category>Baseball</category>
     <description>Bo Bichette (New York Mets (MLB)) — General leg soreness and right ankle soreness, aggravated by fouling balls off his legs during a series in Atlanta. Expected duration: Held out of the lineup for a second straight game and available only off the bench; expected to use the following day and the All-Star break for a full reset rather than go on the injured list. Financial impact: Not disclosed in available reporting. Team impact: Mets manage his workload during a productive stretch (.320 avg, .788 OPS over his last 25 games) heading into the All-Star break.</description>
+  </item>
+  <item>
+    <title>Conor McGregor (Mixed Martial Arts) — Suspected torn ACL in the right knee, sustained throwing a kick just 69 seconds into his UFC 329 return bout; official diagnosis pending further medical evaluation</title>
+    <link>https://www.nbcnews.com/sports/ufc/conor-mcgregor-suffers-early-knee-injury-return-loses-max-holloway-ufc-rcna552729</link>
+    <guid isPermaLink="false">mma-mcgregor-2026-07-11</guid>
+    <pubDate>Sat, 11 Jul 2026 00:00:00 +0000</pubDate>
+    <category>Mixed Martial Arts</category>
+    <description>Conor McGregor (UFC) — Suspected torn ACL in the right knee, sustained throwing a kick just 69 seconds into his UFC 329 return bout; official diagnosis pending further medical evaluation. Expected duration: Fight stopped by the referee at 1:09 of round one; no recovery timeline given pending formal diagnosis. Financial impact: Not disclosed in available reporting. Team impact: Ends McGregor's much-hyped comeback fight against Max Holloway almost immediately and casts doubt on any near-term return to competition.</description>
+  </item>
+  <item>
+    <title>Ezi Magbegor (Basketball) — Facial fracture</title>
+    <link>https://www.seattletimes.com/sports/storm/ezi-magbegor-to-miss-seattle-storms-game-vs-washington-mystics-with-face-injury/</link>
+    <guid isPermaLink="false">wnba-magbegor-2026-07-11</guid>
+    <pubDate>Sat, 11 Jul 2026 00:00:00 +0000</pubDate>
+    <category>Basketball</category>
+    <description>Ezi Magbegor (Seattle Storm (WNBA)) — Facial fracture. Expected duration: Ruled out of the Storm's game vs. the Washington Mystics; to be reevaluated in the next couple of weeks. Financial impact: Not disclosed in available reporting. Team impact: Storm without their starting center/forward for at least the near term.</description>
+  </item>
+  <item>
+    <title>Konnor Griffin (Baseball) — Torn tendon (sagittal band) in the left ring finger, sustained diving for a ball; initially placed on the 10-day IL and now transferred to the 60-day IL</title>
+    <link>https://www.cbssports.com/fantasy/baseball/news/pirates-konnor-griffin-moved-to-60-day-il/</link>
+    <guid isPermaLink="false">mlb-griffin-2026-07-11</guid>
+    <pubDate>Sat, 11 Jul 2026 00:00:00 +0000</pubDate>
+    <category>Baseball</category>
+    <description>Konnor Griffin (Pittsburgh Pirates (MLB)) — Torn tendon (sagittal band) in the left ring finger, sustained diving for a ball; initially placed on the 10-day IL and now transferred to the 60-day IL. Expected duration: 8-10 week recovery timeline; ineligible to return until at least September 4; team opted for a non-operative approach, splinting the hand for about six weeks before resuming baseball activities. Financial impact: Not disclosed in available reporting. Team impact: Pirates lose their rookie starting shortstop (the No. 1 overall pick in the 2024 draft) for an extended stretch, his second significant injury of the season after an earlier forearm strain.</description>
   </item>
   <item>
     <title>Collin Murray-Boyles (Basketball) — Sprained thumb/finger, diagnosed after exiting a Summer League game against the Lakers</title>
@@ -261,6 +293,14 @@
     <pubDate>Wed, 08 Jul 2026 00:00:00 +0000</pubDate>
     <category>Tennis</category>
     <description>Taylor Fritz (ATP Tour) — Knee tendinitis flare-up, a recurring issue, three games into his Wimbledon quarterfinal. Expected duration: Played through the flare-up but lost the quarterfinal 6-4, 6-4, 6-2 to Alexander Zverev; no absence or further tournament withdrawal reported. Financial impact: Not disclosed in available reporting. Team impact: Eliminated from Wimbledon; dropped to No. 10 in the ATP Live Rankings.</description>
+  </item>
+  <item>
+    <title>Elvis Smylie (Golf) — Rib injury</title>
+    <link>https://www.todays-golfer.com/news-and-events/majors/the-open-championship/elvis-smylie-liv-golf-withdrawal/</link>
+    <guid isPermaLink="false">golf-smylie-2026-07-08</guid>
+    <pubDate>Wed, 08 Jul 2026 00:00:00 +0000</pubDate>
+    <category>Golf</category>
+    <description>Elvis Smylie (LIV Golf (Ripper GC) / DP World Tour) — Rib injury. Expected duration: Withdrew from the Genesis Scottish Open and The Open Championship at Royal Birkdale; announced an extended break from golf for rehabilitation, with no firm return timeline given. Financial impact: Forfeits prize money and Race to Dubai/world ranking points from both events. Team impact: Removes the Australian, who had qualified for his third Open Championship appearance, from the year's final men's major.</description>
   </item>
   <item>
     <title>Jalen Brunson (Basketball) — Surgery to repair a left wrist injury that he played through during the Knicks' championship playoff run</title>
