@@ -11,9 +11,9 @@ OUTLINE_TITLE = "High-Profile Athlete Injury Report"
 
 
 def injury_outline(record: dict) -> str:
-    text = f"{record['athlete']} — {record['injury_context']} ({record['date_reported']})"
+    text = f"{record['athlete']} ({record['location']}) — {record['injury_context']} ({record['date_reported']})"
     return (
-        f'    <outline text="{escape(text)}" type="link" '
+        f'      <outline text="{escape(text)}" type="link" '
         f'url="{escape(record["source_url"])}" '
         f'description="{escape(record["team_impact"])}"/>'
     )
@@ -23,15 +23,20 @@ def main() -> None:
     records, total = load_valid_records()
     records.sort(key=lambda r: r["date_reported"], reverse=True)
 
-    by_sport = defaultdict(list)
+    by_sport_league = defaultdict(lambda: defaultdict(list))
     for record in records:
-        by_sport[record["sport"]].append(record)
+        by_sport_league[record["sport"]][record["league"]].append(record)
 
     sport_blocks = []
-    for sport in sorted(by_sport):
-        items = "\n".join(injury_outline(r) for r in by_sport[sport])
+    for sport in sorted(by_sport_league):
+        league_blocks = []
+        for league in sorted(by_sport_league[sport]):
+            items = "\n".join(injury_outline(r) for r in by_sport_league[sport][league])
+            league_blocks.append(
+                f'    <outline text="{escape(league)}">\n{items}\n    </outline>'
+            )
         sport_blocks.append(
-            f'  <outline text="{escape(sport)}">\n{items}\n  </outline>'
+            f'  <outline text="{escape(sport)}">\n{chr(10).join(league_blocks)}\n  </outline>'
         )
 
     xml = f"""<?xml version="1.0" encoding="UTF-8"?>

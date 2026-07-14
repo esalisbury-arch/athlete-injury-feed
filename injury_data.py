@@ -8,7 +8,7 @@ BASE_DIR = Path(__file__).parent
 DATA_FILE = BASE_DIR / "injuries.json"
 
 REQUIRED_FIELDS = (
-    "guid", "athlete", "org", "sport", "injury_context", "duration",
+    "guid", "athlete", "org", "sport", "location", "league", "injury_context", "duration",
     "financial_impact", "team_impact", "date_reported", "source_title", "source_url",
 )
 

@@ -14,6 +14,8 @@ COLUMNS = [
     ("Athlete", "athlete", 20),
     ("Organization", "org", 30),
     ("Sport", "sport", 14),
+    ("Location", "location", 30),
+    ("League", "league", 22),
     ("Injury", "injury_context", 40),
     ("Expected duration", "duration", 30),
     ("Financial impact", "financial_impact", 30),

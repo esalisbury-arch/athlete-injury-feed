@@ -15,6 +15,8 @@ On each run:
    - `athlete`: full name
    - `org`: team/club and league (and national team if relevant)
    - `sport`
+   - `location`: the team's home city/region (e.g. "Minneapolis, Minnesota"), or the country for a national team, or `"N/A — individual tour athlete, no fixed team location"` for tour-based sports (tennis, golf, UFC), or `"N/A — individual fighter, not tied to a team location"` for UFC specifically
+   - `league`: the specific league/competition (e.g. "MLB", "Premier League", "NBA Summer League", "International Cricket", "UCI WorldTeam / Tour de France") — more granular than `sport`
    - `injury_context`: the specific medical nature of the injury (e.g. "ACL reconstruction", "grade 2 hamstring strain") — be as specific as the source allows
    - `duration`: expected time out / recovery timeline
    - `financial_impact`: the **prorated sunk cost of salary** paid to the athlete while injured (salary the team/employer pays but gets no on-field value for), computed as `(annual salary / 365) × estimated days out`. Method:

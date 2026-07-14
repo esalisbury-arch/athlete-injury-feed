@@ -24,6 +24,7 @@ def rfc822(date_str: str) -> str:
 def item_xml(record: dict) -> str:
     description = (
         f"{record['athlete']} ({record['org']}) — {record['injury_context']}. "
+        f"Location: {record['location']}. League: {record['league']}. "
         f"Expected duration: {record['duration']}. "
         f"Financial impact: {record['financial_impact']}. "
         f"Team impact: {record['team_impact']}."
@@ -35,6 +36,7 @@ def item_xml(record: dict) -> str:
         f"    <guid isPermaLink=\"false\">{escape(record['guid'])}</guid>\n"
         f"    <pubDate>{rfc822(record['date_reported'])}</pubDate>\n"
         f"    <category>{escape(record['sport'])}</category>\n"
+        f"    <category>{escape(record['league'])}</category>\n"
         f"    <description>{escape(description)}</description>\n"
         "  </item>"
     )
