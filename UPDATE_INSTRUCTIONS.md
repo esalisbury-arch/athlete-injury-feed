@@ -17,7 +17,13 @@ On each run:
    - `sport`
    - `injury_context`: the specific medical nature of the injury (e.g. "ACL reconstruction", "grade 2 hamstring strain") — be as specific as the source allows
    - `duration`: expected time out / recovery timeline
-   - `financial_impact`: salary, contract, or prize-money impact if reported; otherwise `"Not disclosed in available reporting"` — never invent a number
+   - `financial_impact`: the **prorated sunk cost of salary** paid to the athlete while injured (salary the team/employer pays but gets no on-field value for), computed as `(annual salary / 365) × estimated days out`. Method:
+     1. Estimate days out from the `duration` text: "day-to-day"/vague → 3 days; "X-day IL" → X days; "X week(s)" (or range midpoint) → ×7; "X month(s)" (or range midpoint) → ×30; "season-ending"/"remainder of season" → estimate remaining days to that sport's typical season end from `date_reported`; truly undetermined → 5 days (state this assumption in the string).
+     2. If the athlete is in a fixed-salary team sport (MLB, NBA, WNBA, NFL, NHL, MLS, NWSL, European club soccer when club-related): search for their current salary/AAV from a public source (Spotrac, Capology, Cot's Contracts, HoopsHype) and compute the prorated figure. Format: `"$XXX,XXX prorated sunk cost (annual salary ~$X.XM per [source] ÷ 365 × N days out)"` — include any notable assumption (e.g. days-out estimate basis) in brackets at the end.
+     3. If the athlete is in an individual/prize-money sport (tennis, golf, boxing, UFC/MMA, track & field, swimming, gymnastics, cycling) or this is a national-team-only context with no club salary: `"Not applicable — earns prize money/appearance fees, no fixed salary to prorate"` (or `"Not applicable — no fixed salary information available for this national-team context"` for the national-team case).
+     4. NCAA athletes: `"Not applicable — NCAA athlete, no fixed salary"` unless the source discloses a specific NIL figure.
+     5. If it's a fixed-salary team-sport athlete but no salary can be found after a reasonable search: `"Not disclosed in available reporting — salary not found"`.
+     Never fabricate a salary figure — only use real figures found via search, cited by source name.
    - `team_impact`: effect on the team's/tour's competitive outlook
    - `date_reported`: `YYYY-MM-DD`
    - `source_title` / `source_url`: the article used
