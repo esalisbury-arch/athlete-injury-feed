@@ -11,6 +11,7 @@
   </outline>
   <outline text="Baseball">
     <outline text="MLB">
+      <outline text="Carlos Rodón (New York, New York (Bronx)) — Left elbow inflammation (2026-07-13)" type="link" url="https://www.mlb.com/news/baseball-injury-updates" description="Yankees without a rotation starter for a portion of the stretch run, though a return is targeted before the end of the month"/>
       <outline text="Mike Yastrzemski (Atlanta (Cumberland), Georgia) — Left elbow inflammation (2026-07-12)" type="link" url="https://www.yardbarker.com/mlb/articles/2026_injury_report_updates_on_bichette_lodolo_misiorowski/s1_17653_44053323" description="Braves lose an outfield bat for at least 10 days"/>
       <outline text="Kyle Harrison (Milwaukee, Wisconsin) — Left forearm tightness (2026-07-12)" type="link" url="https://www.yardbarker.com/mlb/articles/2026_injury_report_updates_on_bichette_lodolo_misiorowski/s1_17653_44053323" description="Brewers lose a starting pitching option for at least 15 days"/>
       <outline text="Emerson Hancock (Seattle, Washington) — Right middle finger contusion; negative X-rays (2026-07-12)" type="link" url="https://www.mlb.com/news/mariners-injuries-and-roster-moves" description="Mariners monitor a rotation piece heading toward the All-Star break"/>
@@ -52,6 +53,7 @@
     <outline text="NBA Summer League">
       <outline text="Izaiyah Nelson (Orlando, Florida) — Ankle fracture, sustained landing awkwardly after a chase-down block attempt (2026-07-13)" type="link" url="https://www.nbcsports.com/nba/news/magic-second-round-pick-izaiyah-nelson-will-have-surgery-on-ankle-fracture-suffered-at-summer-league" description="Magic lose their second-round pick's Summer League evaluation window"/>
       <outline text="Ace Bailey (Salt Lake City, Utah) — Recurring back spasms, first flared up during Salt Lake City Summer League and recurred in Las Vegas (2026-07-13)" type="link" url="https://www.si.com/nba/jazz/onsi/ace-bailey-s-latest-injury-could-end-his-jazz-summer-league-run" description="Jazz hold their 2025 lottery pick out of further Summer League action out of caution"/>
+      <outline text="Alijah Martin (Toronto, Ontario, Canada (team); Las Vegas, Nevada (Summer League site)) — Knee inflammation (2026-07-11)" type="link" url="https://www.yardbarker.com/nba/articles/collin_murray_boyles_alijah_martin_to_miss_raptors_summer_league_opener/s1_17733_44049064" description="Raptors without a rotation guard for Summer League evaluation reps, joining fellow injury absentee Collin Murray-Boyles on the sideline"/>
       <outline text="Collin Murray-Boyles (Toronto, Ontario, Canada (team); Las Vegas, Nevada (Summer League site)) — Sprained thumb/finger, diagnosed after exiting a Summer League game against the Lakers (2026-07-10)" type="link" url="https://raptorsrepublic.com/2026/07/10/collin-murray-boyles-alijah-martin-to-miss-raptors-summer-league-opener/" description="Raptors lose their 2025 first-round pick (9th overall) for early Summer League reps as a point-forward, part of his developmental push"/>
       <outline text="Jayden Quaintance (San Antonio, Texas) — Knee injury (2026-07-10)" type="link" url="https://sports.yahoo.com/articles/san-antonio-spurs-rookie-jayden-184347004.html" description="Spurs lose Summer League evaluation reps for their rookie"/>
     </outline>
@@ -109,6 +111,7 @@
     <outline text="PGA Tour">
       <outline text="Jhonattan Vegas (N/A — individual tour athlete, no fixed team location) — Shoulder issue (2026-07-12)" type="link" url="https://heavy.com/sports/golf/brooks-koepka-withdraw-jon-rahm-genesis-scottish-open/" description="Not disclosed in available reporting"/>
       <outline text="Seamus Power (N/A — individual tour athlete, no fixed team location) — Recurrence of long-standing back and hip issues he has dealt with since 2023 (2026-07-02)" type="link" url="https://www.golfmagic.com/tour/pga-tour/two-time-pga-tour-winner-forced-out-john-deere-classic-injury-problems-strike-again" description="Removes a two-time PGA Tour winner from the field partway through the event"/>
+      <outline text="Patrick Rodgers (N/A — individual tour athlete, no fixed team location) — Back injury (2026-07-02)" type="link" url="https://www.golfmonthly.com/news/patrick-rodgers-withdraws-john-deere-classic-2026" description="Not disclosed in available reporting"/>
     </outline>
     <outline text="PGA Tour / LIV Golf">
       <outline text="Louis Oosthuizen (N/A — individual tour athlete, no fixed team location) — Back injury (2026-07-13)" type="link" url="https://www.golfmonthly.com/news/louis-oosthuizen-forced-to-withdraw-from-2026-open-due-to-injury" description="Removes the 2010 Open champion from the 156-man field; Aldrich Potgieter promoted as first alternate"/>
@@ -121,6 +124,7 @@
   </outline>
   <outline text="Hockey">
     <outline text="NHL">
+      <outline text="Max Domi (Toronto, Ontario, Canada) — Complications from an offseason surgery (undisclosed procedure, originally to address an issue played through in 2025-26); reportedly left him with severe mobility issues after the procedure (2026-07-09)" type="link" url="https://www.nhl.com/news/max-domi-has-complications-after-surgery-out-indefinitely-for-maple-leafs" description="Maple Leafs face uncertainty over a key veteran forward's availability for training camp and potentially the start of next season"/>
       <outline text="Connor Bedard (Chicago, Illinois) — Surgery on left shoulder after an injury sustained during a practice session in Vancouver on July 2 (2026-07-08)" type="link" url="https://www.nhl.com/news/connor-bedard-injury-status-update-july-8-2026" description="Blackhawks will open the 2026-27 season, played under the NHL's expanded 84-game schedule, without their No. 1 center for at least the opening month"/>
       <outline text="Seth Jarvis (Raleigh, North Carolina) — Shoulder surgery, the same shoulder that had a torn labrum and rotator cuff during the 2023-24 season (2026-06-27)" type="link" url="https://www.nhl.com/news/seth-jarvis-to-miss-beginning-of-2026-2027-season-for-hurricanes-after-shoulder-surgery" description="Hurricanes will be without a top-six forward for the start of the 2026-27 season"/>
     </outline>
@@ -154,6 +158,7 @@
       <outline text="Jordan Henderson (England) — Wrist fracture sustained in a freak fall while celebrating England's Round of 16 win over Mexico; reportedly requires surgery (2026-07-06)" type="link" url="https://www.espn.com/soccer/story/_/id/49283507/jordan-henderson-taken-hospital-wrist-injury-falling-mexico-victory-celebrations-england-world-cup" description="England advance to the quarterfinals without an experienced veteran midfielder, compounding a growing injury list"/>
     </outline>
     <outline text="La Liga">
+      <outline text="Kylian Mbappé (Madrid, Spain) — Grade 1 right ankle sprain, sustained from a tackle by Morocco's Issa Diop during France's World Cup quarterfinal win (2026-07-11)" type="link" url="https://www.forbes.com/sites/brucelee/2026/07/11/kylian-mbapp-ankle-injury-update-before-frances-world-cup-semi-vs-spain/" description="Described as a fitness scare for France ahead of the semifinal, but Mbappé and the team said there is no concern about his availability"/>
       <outline text="Aurelien Tchouameni (Madrid, Spain) — Muscle tear involving the left adductor and upper thigh, a recurrence of the groin/thigh issue that previously sidelined him for France's group-stage match vs. Iraq (2026-07-08)" type="link" url="https://www.sportskeeda.com/football/rumor-france-handed-huge-injury-boost-star-man-returns-training-ahead-fifa-world-cup-q-f-morocco-reports" description="France's vice-captain and starting defensive midfielder is a doubt for the quarterfinal, with Manu Kone deputizing in his absence"/>
     </outline>
     <outline text="MLS">

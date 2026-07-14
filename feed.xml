@@ -5,7 +5,7 @@
   <link>https://esalisbury-arch.github.io/athlete-injury-feed/</link>
   <description>Daily-updated feed of high-profile athlete injuries across NFL, NBA, WNBA, MLB, NHL, top soccer leagues, tennis, golf, F1, boxing/UFC, cricket, Olympic sports, and NCAA D1.</description>
   <language>en-us</language>
-  <lastBuildDate>Tue, 14 Jul 2026 00:51:27 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 14 Jul 2026 15:15:56 +0000</lastBuildDate>
   <item>
     <title>Kierstan Bell (Basketball) — Right leg injury (specific diagnosis not disclosed in available reporting)</title>
     <link>https://sports.yahoo.com/articles/final-injury-report-fever-aces-210000827.html</link>
@@ -113,6 +113,15 @@
     <category>Rugby Union</category>
     <category>Super Rugby Pacific</category>
     <description>Drew Wild (Chiefs (Super Rugby Pacific)) — Shoulder injury. Location: Hamilton, New Zealand. League: Super Rugby Pacific. Expected duration: Listed as a doubt for the Super Rugby Pacific Grand Final despite hopes of being available. Financial impact: Not disclosed in available reporting — salary not found. Team impact: Chiefs risk being without a forward for the Grand Final.</description>
+  </item>
+  <item>
+    <title>Carlos Rodón (Baseball) — Left elbow inflammation</title>
+    <link>https://www.mlb.com/news/baseball-injury-updates</link>
+    <guid isPermaLink="false">mlb-rodon-2026-07-13</guid>
+    <pubDate>Mon, 13 Jul 2026 00:00:00 +0000</pubDate>
+    <category>Baseball</category>
+    <category>MLB</category>
+    <description>Carlos Rodón (New York Yankees (MLB)) — Left elbow inflammation. Location: New York, New York (Bronx). League: MLB. Expected duration: Resumed throwing daily as of July 13; possible late-July return to the rotation. Financial impact: $1,109,589 prorated sunk cost (annual salary ~$27M per Spotrac ÷ 365 × 15 days out) [estimate: ~15 days from July 13 to a "late July" return target]. Team impact: Yankees without a rotation starter for a portion of the stretch run, though a return is targeted before the end of the month.</description>
   </item>
   <item>
     <title>Cameron Brink (Basketball) — Left ankle sprain, suffered turning her ankle in a loss to the Golden State Valkyries</title>
@@ -349,6 +358,24 @@
     <description>Jorge Soler (Los Angeles Angels (MLB)) — Left oblique strain; scratched a day earlier with hip tightness. Location: Anaheim, California. League: MLB. Expected duration: Placed on the 10-day injured list. Financial impact: $356,164 prorated sunk cost (annual salary ~$13M per Spotrac ÷ 365 × 10 days out). Team impact: Angels lose their outfielder/DH for at least 10 days.</description>
   </item>
   <item>
+    <title>Alijah Martin (Basketball) — Knee inflammation</title>
+    <link>https://www.yardbarker.com/nba/articles/collin_murray_boyles_alijah_martin_to_miss_raptors_summer_league_opener/s1_17733_44049064</link>
+    <guid isPermaLink="false">nba-martin-2026-07-11</guid>
+    <pubDate>Sat, 11 Jul 2026 00:00:00 +0000</pubDate>
+    <category>Basketball</category>
+    <category>NBA Summer League</category>
+    <description>Alijah Martin (Toronto Raptors (NBA) — Las Vegas Summer League) — Knee inflammation. Location: Toronto, Ontario, Canada (team); Las Vegas, Nevada (Summer League site). League: NBA Summer League. Expected duration: Ruled out of the Raptors' Summer League game vs. Houston on July 11; no firm return timeline given in available reporting. Financial impact: $17,961 prorated sunk cost (annual salary ~$2.19M per Spotrac [2026-27 base salary on new 2-year deal] ÷ 365 × 3 days out) [assumption: single-game absence, no diagnosis timeline given, day-to-day default]. Team impact: Raptors without a rotation guard for Summer League evaluation reps, joining fellow injury absentee Collin Murray-Boyles on the sideline.</description>
+  </item>
+  <item>
+    <title>Kylian Mbappé (Soccer) — Grade 1 right ankle sprain, sustained from a tackle by Morocco's Issa Diop during France's World Cup quarterfinal win</title>
+    <link>https://www.forbes.com/sites/brucelee/2026/07/11/kylian-mbapp-ankle-injury-update-before-frances-world-cup-semi-vs-spain/</link>
+    <guid isPermaLink="false">soccer-mbappe-2026-07-11</guid>
+    <pubDate>Sat, 11 Jul 2026 00:00:00 +0000</pubDate>
+    <category>Soccer</category>
+    <category>La Liga</category>
+    <description>Kylian Mbappé (Real Madrid (La Liga) / France National Team (2026 FIFA World Cup)) — Grade 1 right ankle sprain, sustained from a tackle by Morocco's Issa Diop during France's World Cup quarterfinal win. Location: Madrid, Spain. League: La Liga. Expected duration: Substituted in the 77th minute as a precaution; completed training since and expected to be fully available for France's semifinal vs. Spain — described as day-to-day, no games missed. Financial impact: $277,397 prorated sunk cost (annual salary ~€31.25M / ~$33.75M per Capology [EUR→USD @1.08] ÷ 365 × 3 days out) [day-to-day default; reporting indicates no games were actually missed]. Team impact: Described as a fitness scare for France ahead of the semifinal, but Mbappé and the team said there is no concern about his availability.</description>
+  </item>
+  <item>
     <title>Collin Murray-Boyles (Basketball) — Sprained thumb/finger, diagnosed after exiting a Summer League game against the Lakers</title>
     <link>https://raptorsrepublic.com/2026/07/10/collin-murray-boyles-alijah-martin-to-miss-raptors-summer-league-opener/</link>
     <guid isPermaLink="false">nba-murrayboyles-2026-07-10</guid>
@@ -509,6 +536,15 @@
     <category>Tennis</category>
     <category>ATP Tour</category>
     <description>Carlos Alcaraz (ATP Tour) — Right-wrist tenosynovitis, forcing withdrawals from Madrid, Rome, Roland Garros, Queen's and Wimbledon; has worn a wrist brace since mid-April. Location: N/A — individual tour athlete, no fixed team location. League: ATP Tour. Expected duration: Has pulled out of the ATP Montreal entry list and opted to prolong his comeback by two more weeks, targeting Cincinnati or the US Open for his return; recently resumed light on-court practice without a brace. Financial impact: Not applicable — earns prize money/appearance fees, no fixed salary to prorate. Team impact: World No. 2 has now missed a full clay and grass swing including two Grand Slams; absence continues into the North American hard-court season.</description>
+  </item>
+  <item>
+    <title>Max Domi (Hockey) — Complications from an offseason surgery (undisclosed procedure, originally to address an issue played through in 2025-26); reportedly left him with severe mobility issues after the procedure</title>
+    <link>https://www.nhl.com/news/max-domi-has-complications-after-surgery-out-indefinitely-for-maple-leafs</link>
+    <guid isPermaLink="false">nhl-domi-2026-07-09</guid>
+    <pubDate>Thu, 09 Jul 2026 00:00:00 +0000</pubDate>
+    <category>Hockey</category>
+    <category>NHL</category>
+    <description>Max Domi (Toronto Maple Leafs (NHL)) — Complications from an offseason surgery (undisclosed procedure, originally to address an issue played through in 2025-26); reportedly left him with severe mobility issues after the procedure. Location: Toronto, Ontario, Canada. League: NHL. Expected duration: Out indefinitely; will be re-evaluated at the start of training camp in September, with availability for the 2026-27 season in question. Financial impact: $616,438 prorated sunk cost (annual salary ~$3.75M AAV per Spotrac ÷ 365 × 60 days out) [assumption: 60 days used as the near-term horizon to the September training-camp re-evaluation date; reporting indicates his full 2026-27 season could be at risk if complications persist, which would raise this figure substantially]. Team impact: Maple Leafs face uncertainty over a key veteran forward's availability for training camp and potentially the start of next season.</description>
   </item>
   <item>
     <title>Connor Bedard (Hockey) — Surgery on left shoulder after an injury sustained during a practice session in Vancouver on July 2</title>
@@ -806,6 +842,15 @@
     <category>Soccer</category>
     <category>NWSL</category>
     <description>Nahikari Garcia (Denver Summit FC (NWSL)) — Season-ending knee (ACL) injury. Location: Denver, Colorado. League: NWSL. Expected duration: Out for the remainder of the 2026 NWSL season. Financial impact: Not disclosed in available reporting — salary not found. Team impact: Denver Summit FC lose a starter for the rest of the season.</description>
+  </item>
+  <item>
+    <title>Patrick Rodgers (Golf) — Back injury</title>
+    <link>https://www.golfmonthly.com/news/patrick-rodgers-withdraws-john-deere-classic-2026</link>
+    <guid isPermaLink="false">golf-rodgers-2026-07-02</guid>
+    <pubDate>Thu, 02 Jul 2026 00:00:00 +0000</pubDate>
+    <category>Golf</category>
+    <category>PGA Tour</category>
+    <description>Patrick Rodgers (PGA Tour) — Back injury. Location: N/A — individual tour athlete, no fixed team location. League: PGA Tour. Expected duration: Withdrew from the John Deere Classic prior to the first round on July 2; no recovery timeline disclosed. Financial impact: Not applicable — earns prize money/appearance fees, no fixed salary to prorate. Team impact: Not disclosed in available reporting.</description>
   </item>
   <item>
     <title>Brandon Ingram (Basketball) — Recovering from offseason surgery (lower body)</title>
