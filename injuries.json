@@ -6,13 +6,14 @@
     "sport": "Baseball",
     "injury_context": "Aggravated hip injury while being caught stealing in the 1st inning vs. Yankees",
     "duration": "Day-to-day; had already missed 4 games earlier in the week with the same hip issue",
-    "financial_impact": "$123,288 prorated sunk cost (annual salary ~$15.00M per Spotrac \u00f7 365 \u00d7 3 days out)",
     "team_impact": "Twins lose their 2026 All-Star outfielder from the lineup for an undetermined stretch",
     "date_reported": "2026-07-05",
     "source_title": "Yardbarker - 2026 Injury Report: Updates on Buxton, Suarez, Chisholm Jr.",
     "source_url": "https://www.yardbarker.com/mlb/articles/2026_injury_report_updates_on_buxton_suarez_chisholm_jr/s1_17653_44031703",
     "location": "Minneapolis, Minnesota",
-    "league": "MLB"
+    "league": "MLB",
+    "financial_impact_calculation": "$123,288 prorated sunk cost (annual salary ~$15.00M per Spotrac \u00f7 365 \u00d7 3 days out)",
+    "financial_impact_amount": 123288
   },
   {
     "guid": "mlb-chisholm-2026-07-05",
@@ -21,13 +22,14 @@
     "sport": "Baseball",
     "injury_context": "Right toe discomfort, noticed jogging gingerly to first base after a fly out",
     "duration": "Being monitored day-to-day; no IL move confirmed yet",
-    "financial_impact": "$83,836 prorated sunk cost (annual salary ~$10.20M per Spotrac \u00f7 365 \u00d7 3 days out)",
     "team_impact": "Risk of losing Yankees' starting second baseman if it worsens",
     "date_reported": "2026-07-05",
     "source_title": "Yardbarker - 2026 Injury Report: Updates on Buxton, Suarez, Chisholm Jr.",
     "source_url": "https://www.yardbarker.com/mlb/articles/2026_injury_report_updates_on_buxton_suarez_chisholm_jr/s1_17653_44031703",
     "location": "Bronx, New York",
-    "league": "MLB"
+    "league": "MLB",
+    "financial_impact_calculation": "$83,836 prorated sunk cost (annual salary ~$10.20M per Spotrac \u00f7 365 \u00d7 3 days out)",
+    "financial_impact_amount": 83836
   },
   {
     "guid": "mlb-suarez-2026-07-05",
@@ -36,13 +38,14 @@
     "sport": "Baseball",
     "injury_context": "Left adductor tightness, pulled early from start vs. Angels",
     "duration": "Undetermined, pending further evaluation",
-    "financial_impact": "$95,890 prorated sunk cost (annual salary ~$7.00M per Spotrac \u00f7 365 \u00d7 5 days out)",
     "team_impact": "Phillies could lose their 2026 AL All-Star-caliber starter from the rotation",
     "date_reported": "2026-07-05",
     "source_title": "Yardbarker - 2026 Injury Report: Updates on Buxton, Suarez, Chisholm Jr.",
     "source_url": "https://www.yardbarker.com/mlb/articles/2026_injury_report_updates_on_buxton_suarez_chisholm_jr/s1_17653_44031703",
     "location": "Philadelphia, Pennsylvania",
-    "league": "MLB"
+    "league": "MLB",
+    "financial_impact_calculation": "$95,890 prorated sunk cost (annual salary ~$7.00M per Spotrac \u00f7 365 \u00d7 5 days out)",
+    "financial_impact_amount": 95890
   },
   {
     "guid": "mlb-woodruff-2026-07-05",
@@ -51,13 +54,14 @@
     "sport": "Baseball",
     "injury_context": "Right shoulder inflammation",
     "duration": "Placed on 15-day Injured List (minimum)",
-    "financial_impact": "$905,137 prorated sunk cost (annual salary ~$22.02M per Spotrac \u00f7 365 \u00d7 15 days out)",
     "team_impact": "Brewers rotation loses a top starter for at least two full turns",
     "date_reported": "2026-07-05",
     "source_title": "Covers - MLB Injuries 2026",
     "source_url": "https://www.covers.com/sport/baseball/mlb/injuries",
     "location": "Milwaukee, Wisconsin",
-    "league": "MLB"
+    "league": "MLB",
+    "financial_impact_calculation": "$905,137 prorated sunk cost (annual salary ~$22.02M per Spotrac \u00f7 365 \u00d7 15 days out)",
+    "financial_impact_amount": 905137
   },
   {
     "guid": "mlb-casas-2026-07-05",
@@ -66,13 +70,14 @@
     "sport": "Baseball",
     "injury_context": "Torn right patellar tendon (out since May); recently shut down from hitting progression",
     "duration": "Likely season-ending; setback in rehab timeline",
-    "financial_impact": "$374,932 prorated sunk cost (annual salary ~$1.61M per Spotrac \u00f7 365 \u00d7 85 days out)",
     "team_impact": "Red Sox lose starting first baseman for the remainder of the 2026 season",
     "date_reported": "2026-07-05",
     "source_title": "Yardbarker - 2026 Injury Report: Updates on Buxton, Suarez, Chisholm Jr.",
     "source_url": "https://www.yardbarker.com/mlb/articles/2026_injury_report_updates_on_buxton_suarez_chisholm_jr/s1_17653_44031703",
     "location": "Boston, Massachusetts",
-    "league": "MLB"
+    "league": "MLB",
+    "financial_impact_calculation": "$374,932 prorated sunk cost (annual salary ~$1.61M per Spotrac \u00f7 365 \u00d7 85 days out)",
+    "financial_impact_amount": 374932
   },
   {
     "guid": "nba-ingram-2026-07",
@@ -81,13 +86,14 @@
     "sport": "Basketball",
     "injury_context": "Recovering from offseason surgery (lower body)",
     "duration": "Expected back for training camp, fall 2026",
-    "financial_impact": "$9,424,658 prorated sunk cost (annual salary ~$40.00M per Spotrac \u00f7 365 \u00d7 86 days out)",
     "team_impact": "Raptors plan around his absence through the offseason program",
     "date_reported": "2026-07-01",
     "source_title": "Bleacher Report - Brandon Ingram Injury Update Provided by Raptors After Surgery",
     "source_url": "https://bleacherreport.com/articles/25426220-brandon-ingram-injury-update-provided-raptors-after-surgery-latest-timeline-2026-nba-season",
     "location": "Toronto, Ontario, Canada",
-    "league": "NBA"
+    "league": "NBA",
+    "financial_impact_calculation": "$9,424,658 prorated sunk cost (annual salary ~$40.00M per Spotrac \u00f7 365 \u00d7 86 days out)",
+    "financial_impact_amount": 9424658
   },
   {
     "guid": "nba-giddey-2026-07",
@@ -96,13 +102,14 @@
     "sport": "Basketball",
     "injury_context": "Arthroscopic surgery on right ankle",
     "duration": "~3 months to resume basketball activities; targeting training camp",
-    "financial_impact": "$6,164,384 prorated sunk cost (annual salary ~$25.00M per Spotrac \u00f7 365 \u00d7 90 days out)",
     "team_impact": "Bulls lose a starting guard for the entire offseason program",
     "date_reported": "2026-07-01",
     "source_title": "Bleacher Report - Josh Giddey Injury Update Provided by Bulls After Ankle Surgery",
     "source_url": "https://bleacherreport.com/articles/25427505-josh-giddey-injury-update-provided-bulls-after-ankle-surgery-latest-timeline-2026-nba-season",
     "location": "Chicago, Illinois",
-    "league": "NBA"
+    "league": "NBA",
+    "financial_impact_calculation": "$6,164,384 prorated sunk cost (annual salary ~$25.00M per Spotrac \u00f7 365 \u00d7 90 days out)",
+    "financial_impact_amount": 6164384
   },
   {
     "guid": "nba-jjj-2026-07",
@@ -111,13 +118,14 @@
     "sport": "Basketball",
     "injury_context": "Turf toe surgery (right foot)",
     "duration": "Re-evaluation in approximately 12 weeks",
-    "financial_impact": "$10,632,329 prorated sunk cost (annual salary ~$46.20M per Spotrac \u00f7 365 \u00d7 84 days out)",
     "team_impact": "Grizzlies lose their All-Star big man through the offseason and possibly into training camp",
     "date_reported": "2026-06-30",
     "source_title": "NBA.com - Grizzlies' Jaren Jackson Jr. has surgery to repair turf toe injury",
     "source_url": "https://www.nba.com/news/memphis-grizzlies-jaren-jackson-jr-turf-toe-surgery",
     "location": "Memphis, Tennessee",
-    "league": "NBA"
+    "league": "NBA",
+    "financial_impact_calculation": "$10,632,329 prorated sunk cost (annual salary ~$46.20M per Spotrac \u00f7 365 \u00d7 84 days out)",
+    "financial_impact_amount": 10632329
   },
   {
     "guid": "nba-beal-2026-06",
@@ -126,13 +134,14 @@
     "sport": "Basketball",
     "injury_context": "Hip fracture requiring season-ending surgery",
     "duration": "Season-ending; recovery expected to extend into 2026-27 preseason",
-    "financial_impact": "$1,416,976 prorated sunk cost (annual salary ~$5.62M per Spotrac \u00f7 365 \u00d7 92 days out)",
     "team_impact": "Clippers lose a veteran guard for the balance of the season and into next year's planning",
     "date_reported": "2026-06-25",
     "source_title": "NBA.com - Clippers' Bradley Beal (hip) to undergo season-ending surgery",
     "source_url": "https://www.nba.com/news/clippers-bradley-beal-out-season-hip-fracture",
     "location": "Inglewood (Los Angeles), California",
-    "league": "NBA"
+    "league": "NBA",
+    "financial_impact_calculation": "$1,416,976 prorated sunk cost (annual salary ~$5.62M per Spotrac \u00f7 365 \u00d7 92 days out)",
+    "financial_impact_amount": 1416976
   },
   {
     "guid": "epl-ugarte-2026-06",
@@ -141,13 +150,14 @@
     "sport": "Soccer",
     "injury_context": "Knee ligament injury suffered vs. Spain at the World Cup; possible cruciate ligament (ACL) damage",
     "duration": "Potentially several months if ACL is confirmed",
-    "financial_impact": "$2,749,019 prorated sunk cost (annual salary ~$8.36M per Capology (GBP\u2192USD @1.34) \u00f7 365 \u00d7 120 days out)",
     "team_impact": "Would be a significant blow to Manchester United's midfield depth heading into 2026-27",
     "date_reported": "2026-06-28",
     "source_title": "Premier League club injury coverage",
     "source_url": "https://www.premierleague.com/en/latest-player-injuries",
     "location": "Manchester, England",
-    "league": "Premier League"
+    "league": "Premier League",
+    "financial_impact_calculation": "$2,749,019 prorated sunk cost (annual salary ~$8.36M per Capology (GBP\u2192USD @1.34) \u00f7 365 \u00d7 120 days out)",
+    "financial_impact_amount": 2749019
   },
   {
     "guid": "epl-maddison-2026-07",
@@ -156,13 +166,14 @@
     "sport": "Soccer",
     "injury_context": "ACL reconstruction rehab (returning from tear)",
     "duration": "Ongoing; currently restricted to 20-25 minutes per match",
-    "financial_impact": "$162,268 prorated sunk cost (annual salary ~$11.85M per Capology (GBP\u2192USD @1.34) \u00f7 365 \u00d7 5 days out)",
     "team_impact": "Spurs managing his minutes carefully, limiting his impact as a starter",
     "date_reported": "2026-07-02",
     "source_title": "Premier League club injury coverage",
     "source_url": "https://www.premierleague.com/en/latest-player-injuries",
     "location": "London, England",
-    "league": "Premier League"
+    "league": "Premier League",
+    "financial_impact_calculation": "$162,268 prorated sunk cost (annual salary ~$11.85M per Capology (GBP\u2192USD @1.34) \u00f7 365 \u00d7 5 days out)",
+    "financial_impact_amount": 162268
   },
   {
     "guid": "epl-rodri-2026-06",
@@ -171,13 +182,14 @@
     "sport": "Soccer",
     "injury_context": "Undisclosed injury expected to require surgery after the World Cup",
     "duration": "Out for the opening weeks of the 2026-27 season",
-    "financial_impact": "$881,977 prorated sunk cost (annual salary ~$15.33M per Capology (GBP\u2192USD @1.34) \u00f7 365 \u00d7 21 days out)",
     "team_impact": "Manchester City to start the new season without their midfield anchor",
     "date_reported": "2026-06-27",
     "source_title": "Premier League club injury coverage",
     "source_url": "https://www.premierleague.com/en/latest-player-injuries",
     "location": "Manchester, England",
-    "league": "Premier League"
+    "league": "Premier League",
+    "financial_impact_calculation": "$881,977 prorated sunk cost (annual salary ~$15.33M per Capology (GBP\u2192USD @1.34) \u00f7 365 \u00d7 21 days out)",
+    "financial_impact_amount": 881977
   },
   {
     "guid": "epl-deligt-2026-06",
@@ -186,13 +198,14 @@
     "sport": "Soccer",
     "injury_context": "Surgery on a long-standing back injury",
     "duration": "Will miss the 2026 World Cup; club return timeline unconfirmed",
-    "financial_impact": "$185,397 prorated sunk cost (annual salary ~$13.53M per Capology (GBP\u2192USD @1.34) \u00f7 365 \u00d7 5 days out)",
     "team_impact": "United lose a starting center-back for an extended stretch",
     "date_reported": "2026-06-20",
     "source_title": "Premier League club injury coverage",
     "source_url": "https://www.premierleague.com/en/latest-player-injuries",
     "location": "Manchester, England",
-    "league": "Premier League"
+    "league": "Premier League",
+    "financial_impact_calculation": "$185,397 prorated sunk cost (annual salary ~$13.53M per Capology (GBP\u2192USD @1.34) \u00f7 365 \u00d7 5 days out)",
+    "financial_impact_amount": 185397
   },
   {
     "guid": "epl-richards-2026-06",
@@ -201,13 +214,14 @@
     "sport": "Soccer",
     "injury_context": "Torn ankle ligaments (two ligaments) suffered vs. Brentford",
     "duration": "Expected to recover in time for the 2026 World Cup",
-    "financial_impact": "$52,499 prorated sunk cost (annual salary ~$3.83M per Capology (GBP\u2192USD @1.34) \u00f7 365 \u00d7 5 days out)",
     "team_impact": "Crystal Palace lose a starting center-back for a multi-week stretch",
     "date_reported": "2026-06-15",
     "source_title": "Premier League club injury coverage",
     "source_url": "https://www.premierleague.com/en/latest-player-injuries",
     "location": "London, England",
-    "league": "Premier League"
+    "league": "Premier League",
+    "financial_impact_calculation": "$52,499 prorated sunk cost (annual salary ~$3.83M per Capology (GBP\u2192USD @1.34) \u00f7 365 \u00d7 5 days out)",
+    "financial_impact_amount": 52499
   },
   {
     "guid": "wta-raducanu-2026-07",
@@ -216,13 +230,14 @@
     "sport": "Tennis",
     "injury_context": "Stress fracture in lower right leg (ankle area); withdrew hours before her scheduled first-round match",
     "duration": "Ruled out of Wimbledon 2026; still on crutches and wearing a protective boot several days after withdrawal, no return timeline given",
-    "financial_impact": "\u00a340,000 (~$53,600) forfeited guaranteed prize money \u2014 50% of the \u00a380,000 first-round Wimbledon payout, per WTA withdrawal rules (per GB News / Tennis365)",
     "team_impact": "Removes a top British draw from the tournament",
     "date_reported": "2026-07-06",
     "source_title": "Yardbarker - Emma Raducanu setback deepens as British star remains on crutches after Wimbledon withdrawal",
     "source_url": "https://www.yardbarker.com/tennis/articles/emma_raducanu_setback_deepens_as_british_star_remains_on_crutches_after_wimbledon_withdrawal/s1_17460_44037038",
     "location": "N/A \u2014 individual tour athlete, no fixed team location",
-    "league": "WTA Tour"
+    "league": "WTA Tour",
+    "financial_impact_calculation": "\u00a340,000 (~$53,600) forfeited guaranteed prize money \u2014 50% of the \u00a380,000 first-round Wimbledon payout, per WTA withdrawal rules (per GB News / Tennis365)",
+    "financial_impact_amount": 53600
   },
   {
     "guid": "wta-bejlek-2026-06",
@@ -231,13 +246,14 @@
     "sport": "Tennis",
     "injury_context": "Elbow injury",
     "duration": "Withdrew mid-tournament from Eastbourne",
-    "financial_impact": "Not disclosed in available reporting \u2014 no specific prize money forfeiture figure found Potential prize money at stake (ceiling, not a claim of what the athlete would have won): $499,000 total tournament prize purse for the 2026 Lexus Eastbourne Open (WTA 250) (per LTA/WTA reporting).",
     "team_impact": "Opponent Zeynep Sonmez advances by walkover",
     "date_reported": "2026-06-24",
     "source_title": "RotoWire - Fantasy Tennis Injury News",
     "source_url": "https://www.rotowire.com/tennis/news.php?view=injuries",
     "location": "N/A \u2014 individual tour athlete, no fixed team location",
-    "league": "WTA Tour"
+    "league": "WTA Tour",
+    "financial_impact_calculation": "Not disclosed in available reporting \u2014 no specific prize money forfeiture figure found Potential prize money at stake (ceiling, not a claim of what the athlete would have won): $499,000 total tournament prize purse for the 2026 Lexus Eastbourne Open (WTA 250) (per LTA/WTA reporting).",
+    "financial_impact_amount": null
   },
   {
     "guid": "wta-svitolina-2026-06",
@@ -246,13 +262,14 @@
     "sport": "Tennis",
     "injury_context": "Hip injury",
     "duration": "Withdrew before her Bad Homburg quarterfinal",
-    "financial_impact": "Not disclosed in available reporting \u2014 no specific prize money forfeiture figure found Potential prize money at stake (ceiling, not a claim of what the athlete would have won): $1.2M total tournament prize purse ($1,206,446 / \u20ac1,049,083) for the 2026 Bad Homburg Open (per Perfect Tennis/WTA).",
     "team_impact": "Opponent Xinyu Wang advances by walkover",
     "date_reported": "2026-06-20",
     "source_title": "RotoWire - Fantasy Tennis Injury News",
     "source_url": "https://www.rotowire.com/tennis/news.php?view=injuries",
     "location": "N/A \u2014 individual tour athlete, no fixed team location",
-    "league": "WTA Tour"
+    "league": "WTA Tour",
+    "financial_impact_calculation": "Not disclosed in available reporting \u2014 no specific prize money forfeiture figure found Potential prize money at stake (ceiling, not a claim of what the athlete would have won): $1.2M total tournament prize purse ($1,206,446 / \u20ac1,049,083) for the 2026 Bad Homburg Open (per Perfect Tennis/WTA).",
+    "financial_impact_amount": null
   },
   {
     "guid": "soccer-henderson-2026-07-06",
@@ -261,13 +278,14 @@
     "sport": "Soccer",
     "injury_context": "Wrist fracture sustained in a freak fall while celebrating England's Round of 16 win over Mexico; reportedly requires surgery",
     "duration": "Ruled out for the remainder of the 2026 World Cup; exact surgery date and recovery length not yet specified",
-    "financial_impact": "Not applicable \u2014 no fixed salary information available for this national-team context",
     "team_impact": "England advance to the quarterfinals without an experienced veteran midfielder, compounding a growing injury list",
     "date_reported": "2026-07-06",
     "source_title": "ESPN - England's Henderson hospitalized with wrist injury during celebration",
     "source_url": "https://www.espn.com/soccer/story/_/id/49283507/jordan-henderson-taken-hospital-wrist-injury-falling-mexico-victory-celebrations-england-world-cup",
     "location": "England",
-    "league": "International Soccer"
+    "league": "International Soccer",
+    "financial_impact_calculation": "Not applicable \u2014 no fixed salary information available for this national-team context",
+    "financial_impact_amount": null
   },
   {
     "guid": "soccer-gimenez-2026-07-06",
@@ -276,13 +294,14 @@
     "sport": "Soccer",
     "injury_context": "Grade II right ankle sprain suffered in stoppage time of Mexico's Round of 16 loss to England; hospitalized, but avoided fracture and ligament damage",
     "duration": "Not yet specified by club or national team",
-    "financial_impact": "$72,304 prorated sunk cost (annual salary ~$5.28M per Capology (EUR\u2192USD @1.14) \u00f7 365 \u00d7 5 days out)",
     "team_impact": "Injury compounds Mexico's World Cup elimination and raises concern over his fitness for AC Milan's preseason",
     "date_reported": "2026-07-06",
     "source_title": "beIN Sports - Adding insult to injury! Santiago Gimenez suffers injury during Mexico's loss to England",
     "source_url": "https://www.beinsports.com/en-us/soccer/fifa-world-cup-2026/articles/adding-insult-to-injury-santiago-gimenez-suffers-injury-during-mexico-s-loss-to-england-2026-07-06",
     "location": "Milan, Italy",
-    "league": "Serie A"
+    "league": "Serie A",
+    "financial_impact_calculation": "$72,304 prorated sunk cost (annual salary ~$5.28M per Capology (EUR\u2192USD @1.14) \u00f7 365 \u00d7 5 days out)",
+    "financial_impact_amount": 72304
   },
   {
     "guid": "nba-brunson-2026-07-07",
@@ -291,13 +310,14 @@
     "sport": "Basketball",
     "injury_context": "Surgery to repair a left wrist injury that he played through during the Knicks' championship playoff run",
     "duration": "At least two months of rehab expected; targeting readiness for the start of the 2026-27 NBA season",
-    "financial_impact": "$6,203,757 prorated sunk cost (annual salary ~$37.74M per Spotrac \u00f7 365 \u00d7 60 days out)",
     "team_impact": "Reigning Finals MVP and starting point guard sidelined for part of the offseason program, though expected back for training camp",
     "date_reported": "2026-07-07",
     "source_title": "Yahoo Sports - Knicks superstar Jalen Brunson undergoes left wrist surgery, expected to be ready for 2026-27 NBA season",
     "source_url": "https://sports.yahoo.com/nba/breaking-news/article/knicks-superstar-jalen-brunson-undergoes-left-wrist-surgery-expected-to-be-ready-for-2026-27-nba-season-155927234.html",
     "location": "New York, New York",
-    "league": "NBA"
+    "league": "NBA",
+    "financial_impact_calculation": "$6,203,757 prorated sunk cost (annual salary ~$37.74M per Spotrac \u00f7 365 \u00d7 60 days out)",
+    "financial_impact_amount": 6203757
   },
   {
     "guid": "mlb-seager-2026-07-01",
@@ -306,13 +326,14 @@
     "sport": "Baseball",
     "injury_context": "Recurrence of lower back inflammation; his third injured list stint of the 2026 season (previously missed time with the same back issue and with a concussion)",
     "duration": "Placed on the 10-day injured list",
-    "financial_impact": "$849,315 prorated sunk cost (annual salary ~$31.00M per Spotrac \u00f7 365 \u00d7 10 days out)",
     "team_impact": "Rangers lose their star shortstop again, continuing a season of infield instability; Josh Smith recalled from Triple-A as replacement",
     "date_reported": "2026-07-01",
     "source_title": "ESPN - Rangers' Corey Seager back on IL with lower back inflammation",
     "source_url": "https://www.espn.com/mlb/story/_/id/49238350/rangers-corey-seager-back-il-lower-back-inflammation",
     "location": "Arlington, Texas",
-    "league": "MLB"
+    "league": "MLB",
+    "financial_impact_calculation": "$849,315 prorated sunk cost (annual salary ~$31.00M per Spotrac \u00f7 365 \u00d7 10 days out)",
+    "financial_impact_amount": 849315
   },
   {
     "guid": "soccer-onana-2026-07-07",
@@ -321,13 +342,14 @@
     "sport": "Soccer",
     "injury_context": "Torn anterior cruciate ligament (ACL), sustained in the 21st minute of Belgium's Round of 16 win over the United States after a challenge with Christian Pulisic",
     "duration": "Ruled out for the remainder of the World Cup; reported to be facing up to eight months out",
-    "financial_impact": "$6,414,378 prorated sunk cost (annual salary ~$9.76M per Capology (GBP\u2192USD @1.34) \u00f7 365 \u00d7 240 days out)",
     "team_impact": "Belgium loses a key defensive midfielder ahead of their World Cup quarterfinal vs. Spain, and Aston Villa will be without him for a significant part of the 2026-27 season",
     "date_reported": "2026-07-07",
     "source_title": "ESPN - Belgium's Amadou Onana out of World Cup after suffering ACL injury",
     "source_url": "https://www.espn.com/soccer/story/_/id/49298508/belgium-amadou-onana-world-cup-suffering-acl-injury",
     "location": "Birmingham, England",
-    "league": "Premier League"
+    "league": "Premier League",
+    "financial_impact_calculation": "$6,414,378 prorated sunk cost (annual salary ~$9.76M per Capology (GBP\u2192USD @1.34) \u00f7 365 \u00d7 240 days out)",
+    "financial_impact_amount": 6414378
   },
   {
     "guid": "mlb-rooker-2026-07-01",
@@ -336,13 +358,14 @@
     "sport": "Baseball",
     "injury_context": "Cartilage tear in left knee, discovered during an examination at Stanford; requires season-ending surgery",
     "duration": "Season-ending; hadn't played since June 8 and had been on the injured list since June 9",
-    "financial_impact": "$1,463,014 prorated sunk cost (annual salary ~$6.00M per Spotrac \u00f7 365 \u00d7 89 days out)",
     "team_impact": "Athletics lose their two-time All-Star middle-of-the-order bat for the remainder of the 2026 season",
     "date_reported": "2026-07-01",
     "source_title": "ESPN - A's slugger Brent Rooker to have season-ending left knee surgery",
     "source_url": "https://www.espn.com/mlb/story/_/id/49244022/a-slugger-brent-rooker-season-ending-left-knee-surgery",
     "location": "West Sacramento, California (Sutter Health Park; relocating to Las Vegas)",
-    "league": "MLB"
+    "league": "MLB",
+    "financial_impact_calculation": "$1,463,014 prorated sunk cost (annual salary ~$6.00M per Spotrac \u00f7 365 \u00d7 89 days out)",
+    "financial_impact_amount": 1463014
   },
   {
     "guid": "mlb-stanton-2026-07-07",
@@ -351,13 +374,14 @@
     "sport": "Baseball",
     "injury_context": "Right calf strain (originally suffered running the bases on April 24 vs. the Astros); recent rehab setback after re-aggravating the calf during a running progression",
     "duration": "No firm timeline; has not resumed running since the setback, no target return date given",
-    "financial_impact": "$397,260 prorated sunk cost (annual salary ~$29.00M per Spotrac \u00f7 365 \u00d7 5 days out)",
     "team_impact": "Yankees continue without their veteran slugger amid an offense that has struggled with injuries; manager Aaron Boone still expects him back at some point in 2026",
     "date_reported": "2026-07-07",
     "source_title": "Last Word on Sports - Stanton Injury Update: Slugger Yet To Resume Rehab On Calf",
     "source_url": "https://lastwordonsports.com/baseball/2026/07/07/nyy-stanton-injury-update/",
     "location": "Bronx, New York",
-    "league": "MLB"
+    "league": "MLB",
+    "financial_impact_calculation": "$397,260 prorated sunk cost (annual salary ~$29.00M per Spotrac \u00f7 365 \u00d7 5 days out)",
+    "financial_impact_amount": 397260
   },
   {
     "guid": "soccer-saibari-2026-07-06",
@@ -366,13 +390,14 @@
     "sport": "Soccer",
     "injury_context": "Hamstring injury (minor muscle issue per medical tests; serious strain ruled out) suffered in the 22nd minute of Morocco's Round of 16 win over Canada",
     "duration": "Day-to-day pending fitness test; final decision on availability for the World Cup quarterfinal vs. France expected only hours before kickoff",
-    "financial_impact": "$48,723 prorated sunk cost (annual base salary ~\u20ac5.2M / ~$5.93M per Capology (EUR\u2192USD @1.14) \u00f7 365 \u00d7 3 days out)",
     "team_impact": "Morocco risks losing their top attacking threat (three group-stage goals) for the biggest match of their World Cup run",
     "date_reported": "2026-07-06",
     "source_title": "The National - Ismael Saibari fitness concern for Morocco ahead of France World Cup quarter-final clash",
     "source_url": "https://www.thenationalnews.com/sport/world-cup-2026/2026/07/06/ismael-saibari-fitness-concern-for-morocco-ahead-of-france-world-cup-quarter-final-clash/",
     "location": "Munich, Germany",
-    "league": "Bundesliga"
+    "league": "Bundesliga",
+    "financial_impact_calculation": "$48,723 prorated sunk cost (annual base salary ~\u20ac5.2M / ~$5.93M per Capology (EUR\u2192USD @1.14) \u00f7 365 \u00d7 3 days out)",
+    "financial_impact_amount": 48723
   },
   {
     "guid": "golf-power-2026-07-02",
@@ -381,13 +406,14 @@
     "sport": "Golf",
     "injury_context": "Recurrence of long-standing back and hip issues he has dealt with since 2023",
     "duration": "Withdrew after an opening-round 6-over 77 at the John Deere Classic on July 2; no return timeline given",
-    "financial_impact": "Not disclosed in available reporting \u2014 no specific prize money forfeiture figure found Potential prize money at stake (ceiling, not a claim of what the athlete would have won): $8.8M total tournament prize purse for the 2026 John Deere Classic (per Golf Channel/PGA Tour).",
     "team_impact": "Removes a two-time PGA Tour winner from the field partway through the event",
     "date_reported": "2026-07-02",
     "source_title": "Golfmagic - Two-time PGA Tour winner forced out of John Deere Classic as injury problems strike again",
     "source_url": "https://www.golfmagic.com/tour/pga-tour/two-time-pga-tour-winner-forced-out-john-deere-classic-injury-problems-strike-again",
     "location": "N/A \u2014 individual tour athlete, no fixed team location",
-    "league": "PGA Tour"
+    "league": "PGA Tour",
+    "financial_impact_calculation": "Not disclosed in available reporting \u2014 no specific prize money forfeiture figure found Potential prize money at stake (ceiling, not a claim of what the athlete would have won): $8.8M total tournament prize purse for the 2026 John Deere Classic (per Golf Channel/PGA Tour).",
+    "financial_impact_amount": null
   },
   {
     "guid": "wnba-wilson-2026-07-06",
@@ -396,13 +422,14 @@
     "sport": "Basketball",
     "injury_context": "Foot injury sustained in a game against the Chicago Sky",
     "duration": "Missed 3 games; coach Becky Hammon said she could have played if it were a playoff game, suggesting an imminent return",
-    "financial_impact": "$11,507 prorated sunk cost (annual salary ~$1.40M per Spotrac \u00f7 365 \u00d7 3 days out)",
     "team_impact": "Aces without their All-Star forward/center for a short stretch, including a loss to Indiana",
     "date_reported": "2026-07-06",
     "source_title": "Northwest Arkansas Democrat-Gazette - Injuries taking toll throughout WNBA",
     "source_url": "https://www.nwaonline.com/news/2026/jul/07/injuries-taking-toll-throughout-wnba/",
     "location": "Las Vegas, Nevada",
-    "league": "WNBA"
+    "league": "WNBA",
+    "financial_impact_calculation": "$11,507 prorated sunk cost (annual salary ~$1.40M per Spotrac \u00f7 365 \u00d7 3 days out)",
+    "financial_impact_amount": 11507
   },
   {
     "guid": "wnba-clark-2026-07-06",
@@ -411,13 +438,14 @@
     "sport": "Basketball",
     "injury_context": "Aggravated back injury",
     "duration": "Has resumed practicing; no confirmed timeline yet for a game return",
-    "financial_impact": "$4,347 prorated sunk cost (annual salary ~$528,846 per Spotrac \u00f7 365 \u00d7 3 days out)",
     "team_impact": "Fever have played without their All-Star starting guard for an extended stretch",
     "date_reported": "2026-07-06",
     "source_title": "Northwest Arkansas Democrat-Gazette - Injuries taking toll throughout WNBA",
     "source_url": "https://www.nwaonline.com/news/2026/jul/07/injuries-taking-toll-throughout-wnba/",
     "location": "Indianapolis, Indiana",
-    "league": "WNBA"
+    "league": "WNBA",
+    "financial_impact_calculation": "$4,347 prorated sunk cost (annual salary ~$528,846 per Spotrac \u00f7 365 \u00d7 3 days out)",
+    "financial_impact_amount": 4347
   },
   {
     "guid": "wnba-plum-2026-06",
@@ -426,13 +454,14 @@
     "sport": "Basketball",
     "injury_context": "Lower leg injury",
     "duration": "Ruled out for at least 4 weeks as of late June; All-Star Game (July 25) status still to be decided",
-    "financial_impact": "$76,712 prorated sunk cost (annual salary ~$999,999 per Spotrac \u00f7 365 \u00d7 28 days out)",
     "team_impact": "Sparks lose a starting guard through their All-Star break stretch",
     "date_reported": "2026-06-27",
     "source_title": "Bleacher Report - Angel Reese, Kelsey Plum Headline 2026 WNBA All-Star Game Reserves",
     "source_url": "https://bleacherreport.com/articles/25452286-angel-reese-kelsey-plum-headline-2026-wnba-all-star-game-reserves-full-roster-announced",
     "location": "Los Angeles, California",
-    "league": "WNBA"
+    "league": "WNBA",
+    "financial_impact_calculation": "$76,712 prorated sunk cost (annual salary ~$999,999 per Spotrac \u00f7 365 \u00d7 28 days out)",
+    "financial_impact_amount": 76712
   },
   {
     "guid": "wnba-collier-2026-07",
@@ -441,13 +470,14 @@
     "sport": "Basketball",
     "injury_context": "Offseason surgery on both ankles",
     "duration": "Has yet to play in the 2026 season; recently resumed practicing",
-    "financial_impact": "$11,507 prorated sunk cost (annual salary ~$1.4M per Spotrac \u00f7 365 \u00d7 3 days out)",
     "team_impact": "Lynx have been without their All-Star forward for the entire season to date",
     "date_reported": "2026-07-06",
     "source_title": "Northwest Arkansas Democrat-Gazette - Injuries taking toll throughout WNBA",
     "source_url": "https://www.nwaonline.com/news/2026/jul/07/injuries-taking-toll-throughout-wnba/",
     "location": "Minneapolis, Minnesota",
-    "league": "WNBA"
+    "league": "WNBA",
+    "financial_impact_calculation": "$11,507 prorated sunk cost (annual salary ~$1.4M per Spotrac \u00f7 365 \u00d7 3 days out)",
+    "financial_impact_amount": 11507
   },
   {
     "guid": "nwsl-garcia-2026-07-02",
@@ -456,13 +486,14 @@
     "sport": "Soccer",
     "injury_context": "Season-ending knee (ACL) injury",
     "duration": "Out for the remainder of the 2026 NWSL season",
-    "financial_impact": "Not disclosed \u2014 NWSL player salaries are confidential under the league/NWSLPA collective bargaining agreement and not publicly released",
     "team_impact": "Denver Summit FC lose a starter for the rest of the season",
     "date_reported": "2026-07-02",
     "source_title": "Spotrac - 2026 NWSL Injured Tracker",
     "source_url": "https://www.spotrac.com/nwsl/injured/_/year/2026",
     "location": "Denver, Colorado",
-    "league": "NWSL"
+    "league": "NWSL",
+    "financial_impact_calculation": "Not disclosed \u2014 NWSL player salaries are confidential under the league/NWSLPA collective bargaining agreement and not publicly released",
+    "financial_impact_amount": null
   },
   {
     "guid": "nwsl-ricketts-2026-06",
@@ -471,13 +502,14 @@
     "sport": "Soccer",
     "injury_context": "Ankle injury",
     "duration": "Placed on the 45-day short-term injury list",
-    "financial_impact": "Not disclosed \u2014 NWSL player salaries are confidential under the league/NWSLPA collective bargaining agreement and not publicly released",
     "team_impact": "Boston Legacy FC without a rostered defender for at least 45 days",
     "date_reported": "2026-06-15",
     "source_title": "Washington Spirit / NWSL transactions coverage",
     "source_url": "https://www.spotrac.com/nwsl/injured/_/year/2026",
     "location": "Boston, Massachusetts",
-    "league": "NWSL"
+    "league": "NWSL",
+    "financial_impact_calculation": "Not disclosed \u2014 NWSL player salaries are confidential under the league/NWSLPA collective bargaining agreement and not publicly released",
+    "financial_impact_amount": null
   },
   {
     "guid": "ncaa-wbb-watkins-2026-07",
@@ -486,13 +518,14 @@
     "sport": "Basketball",
     "injury_context": "Recovering from a torn ACL that cost her the entire 2025-26 season",
     "duration": "Returned to the court roughly 14 months after the injury",
-    "financial_impact": "Not applicable \u2014 NCAA athlete, no fixed salary",
     "team_impact": "USC gets back its star guard after a full season lost to the injury",
     "date_reported": "2026-07-01",
     "source_title": "Fox Sports - 2026-2027 College Basketball Offseason Buzz",
     "source_url": "https://www.foxsports.com/stories/college-basketball/college-basketball-2026-2027-buzz-news-injuries-transfers",
     "location": "Los Angeles, California",
-    "league": "NCAA Division I Women's Basketball"
+    "league": "NCAA Division I Women's Basketball",
+    "financial_impact_calculation": "Not applicable \u2014 NCAA athlete, no fixed salary",
+    "financial_impact_amount": null
   },
   {
     "guid": "nhl-bedard-2026-07-08",
@@ -501,13 +534,14 @@
     "sport": "Hockey",
     "injury_context": "Surgery on left shoulder after an injury sustained during a practice session in Vancouver on July 2",
     "duration": "Expected to need approximately four months to recover; will miss training camp and at least the start of the 2026-27 season",
-    "financial_impact": "$312,329 prorated sunk cost (2025-26 entry-level contract cap hit ~$950,000 per Spotrac/Puckpedia \u00f7 365 \u00d7 120 days out [~4-month recovery])",
     "team_impact": "Blackhawks will open the 2026-27 season, played under the NHL's expanded 84-game schedule, without their No. 1 center for at least the opening month",
     "date_reported": "2026-07-08",
     "source_title": "NHL.com - Bedard to miss start of 2026-27 season for Blackhawks after shoulder surgery",
     "source_url": "https://www.nhl.com/news/connor-bedard-injury-status-update-july-8-2026",
     "location": "Chicago, Illinois",
-    "league": "NHL"
+    "league": "NHL",
+    "financial_impact_calculation": "$312,329 prorated sunk cost (2025-26 entry-level contract cap hit ~$950,000 per Spotrac/Puckpedia \u00f7 365 \u00d7 120 days out [~4-month recovery])",
+    "financial_impact_amount": 312329
   },
   {
     "guid": "atp-berrettini-2026-07-07",
@@ -516,13 +550,14 @@
     "sport": "Tennis",
     "injury_context": "Diagnosed with chronic hip pain, a recurrence of the left hip issue that forced his retirement from his Roland Garros quarterfinal in early June",
     "duration": "Withdrawing from the ATP tournaments in Gstaad and Kitzbuhel to rest on medical advice, with the goal of being ready for the US hard-court swing culminating in the US Open; no firm return date given",
-    "financial_impact": "Not disclosed in available reporting \u2014 no specific prize money forfeiture figure found Potential prize money at stake (ceiling, not a claim of what the athlete would have won): \u20ac612,620 total prize money for the 2026 ATP Gstaad (Swiss Open), and \u20ac612,620 for the 2026 ATP Kitzbuhel (Generali Open) \u2014 both ATP 250 events he withdrew from (per ATP Tour/Perfect Tennis).",
     "team_impact": "Removes him from the draw at both tournaments immediately following his third-round Wimbledon loss to Grigor Dimitrov",
     "date_reported": "2026-07-07",
     "source_title": "Puntodebreak - Berrettini withdraws from competing in upcoming tournaments due to \"chronic hip pain\"",
     "source_url": "https://www.puntodebreak.com/en/2026/07/07/berrettini-withdraws-from-competing-in-upcoming-tournaments-due-to-chronic-hip-pain",
     "location": "N/A \u2014 individual tour athlete, no fixed team location",
-    "league": "ATP Tour"
+    "league": "ATP Tour",
+    "financial_impact_calculation": "Not disclosed in available reporting \u2014 no specific prize money forfeiture figure found Potential prize money at stake (ceiling, not a claim of what the athlete would have won): \u20ac612,620 total prize money for the 2026 ATP Gstaad (Swiss Open), and \u20ac612,620 for the 2026 ATP Kitzbuhel (Generali Open) \u2014 both ATP 250 events he withdrew from (per ATP Tour/Perfect Tennis).",
+    "financial_impact_amount": null
   },
   {
     "guid": "wnba-boston-2026-07-08",
@@ -531,13 +566,14 @@
     "sport": "Basketball",
     "injury_context": "Lower right leg injury",
     "duration": "Listed out for the Fever's game vs. the LA Sparks; expected to be available for the following game vs. Phoenix",
-    "financial_impact": "$8,219 prorated sunk cost (annual salary ~$1M per Spotrac \u00f7 365 \u00d7 3 days out)",
     "team_impact": "Fever forced to manage the availability of both Boston and Caitlin Clark during a back-to-back stretch; Boston, a voted-in 2026 All-Star starter, is having a career-best scoring season (17.1 ppg on 50.4% shooting) and was in danger of missing her first game since May 17",
     "date_reported": "2026-07-08",
     "source_title": "Athlon Sports - Indiana Fever Announce Aliyah Boston Injury Update Before LA Sparks Game",
     "source_url": "https://athlonsports.com/wnba/indiana-fever/indiana-fever-announce-aliyah-boston-injury-update-la-sparks-game",
     "location": "Indianapolis, Indiana",
-    "league": "WNBA"
+    "league": "WNBA",
+    "financial_impact_calculation": "$8,219 prorated sunk cost (annual salary ~$1M per Spotrac \u00f7 365 \u00d7 3 days out)",
+    "financial_impact_amount": 8219
   },
   {
     "guid": "athletics-gout-2026-07-09",
@@ -546,13 +582,14 @@
     "sport": "Athletics (Track & Field)",
     "injury_context": "Grade-three left hamstring tear suffered in training in Brisbane",
     "duration": "Ruled out for the remainder of the 2026 season, including the World Athletics U20 Championships (Aug. 5-9, Eugene, Oregon); targeting a return in 2027",
-    "financial_impact": "Not disclosed in available reporting \u2014 no specific prize money forfeiture figure found Potential prize money at stake (ceiling, not a claim of what the athlete would have won): No prize purse \u2014 the World Athletics U20 Championships is a non-prize-money junior/development championship; World Athletics only awards prize money at senior-level events.",
     "team_impact": "Removes the U20 200m world record holder from an anticipated showdown with American Tate Taylor at the World U20 Championships",
     "date_reported": "2026-07-09",
     "source_title": "Olympics.com - Gout Gout to miss World U20 Championships and rest of the season with hamstring injury",
     "source_url": "https://www.olympics.com/en/news/gout-gout-injury-hamstring-world-athletics-under-20-championships",
     "location": "Australia",
-    "league": "Athletics Australia (national federation)"
+    "league": "Athletics Australia (national federation)",
+    "financial_impact_calculation": "Not disclosed in available reporting \u2014 no specific prize money forfeiture figure found Potential prize money at stake (ceiling, not a claim of what the athlete would have won): No prize purse \u2014 the World Athletics U20 Championships is a non-prize-money junior/development championship; World Athletics only awards prize money at senior-level events.",
+    "financial_impact_amount": null
   },
   {
     "guid": "soccer-james-2026-07-08",
@@ -561,13 +598,14 @@
     "sport": "Soccer",
     "injury_context": "Hamstring injury sustained in England's final group-stage match vs. Ghana on June 23; described by reporting as worse than first thought",
     "duration": "Touch-and-go for England's July 11 World Cup quarterfinal vs. Norway; has missed England's last three matches and was the sole absentee from the team's final group training session, requiring final medical clearance just to be considered for the bench",
-    "financial_impact": "$85,479 prorated sunk cost (annual salary ~\u00a310.4M (~$10.4M gross fixed wages) per Capology \u00f7 365 \u00d7 3 days out)",
     "team_impact": "Compounds an England right-back crisis that worsened after Jarell Quansah's red card vs. Mexico, leaving manager Thomas Tuchel with very limited options at the position for the quarterfinal",
     "date_reported": "2026-07-08",
     "source_title": "Sky Sports - England World Cup latest: Reece James in race to be fit for quarter-final clash with Norway to ease right-back crisis",
     "source_url": "https://www.skysports.com/football/news/11095/13561150/england-world-cup-latest-reece-james-in-race-to-be-fit-for-quarter-final-clash-with-norway-to-ease-right-back-crisis",
     "location": "London, England",
-    "league": "Premier League"
+    "league": "Premier League",
+    "financial_impact_calculation": "$85,479 prorated sunk cost (annual salary ~\u00a310.4M (~$10.4M gross fixed wages) per Capology \u00f7 365 \u00d7 3 days out)",
+    "financial_impact_amount": 85479
   },
   {
     "guid": "cricket-rana-2026-07-09",
@@ -576,13 +614,14 @@
     "sport": "Cricket",
     "injury_context": "Hamstring injury sustained during the third T20I vs. England at Trent Bridge",
     "duration": "Ruled out of the remaining 4th and 5th T20Is of the series by the BCCI Medical Team",
-    "financial_impact": "Not applicable \u2014 no fixed salary information available for this national-team context",
     "team_impact": "Deepens India's bowling injury crisis on the England tour, with Rana joining Varun Chakaravarthy, Hardik Pandya, and Nitish Kumar Reddy on the unavailable list",
     "date_reported": "2026-07-09",
     "source_title": "IANS - 4th T20I: Injured Rana, Chakaravarthy ruled out of remaining games against England",
     "source_url": "https://ianslive.in/4th-t20i-injured-rana-chakaravarthy-ruled-out-of-remaining-games-against-england--20260709215924",
     "location": "India",
-    "league": "International Cricket"
+    "league": "International Cricket",
+    "financial_impact_calculation": "Not applicable \u2014 no fixed salary information available for this national-team context",
+    "financial_impact_amount": null
   },
   {
     "guid": "cricket-chakaravarthy-2026-07-09",
@@ -591,13 +630,14 @@
     "sport": "Cricket",
     "injury_context": "Hamstring injury sustained during the third T20I vs. England at Trent Bridge",
     "duration": "Ruled out of the remaining 4th and 5th T20Is of the series by the BCCI Medical Team",
-    "financial_impact": "Not applicable \u2014 no fixed salary information available for this national-team context",
     "team_impact": "India's frontline wrist-spinner is unavailable as the team's injury list grows on the England tour",
     "date_reported": "2026-07-09",
     "source_title": "IANS - 4th T20I: Injured Rana, Chakaravarthy ruled out of remaining games against England",
     "source_url": "https://ianslive.in/4th-t20i-injured-rana-chakaravarthy-ruled-out-of-remaining-games-against-england--20260709215924",
     "location": "India",
-    "league": "International Cricket"
+    "league": "International Cricket",
+    "financial_impact_calculation": "Not applicable \u2014 no fixed salary information available for this national-team context",
+    "financial_impact_amount": null
   },
   {
     "guid": "cricket-das-2026-07-09",
@@ -606,13 +646,14 @@
     "sport": "Cricket",
     "injury_context": "Left calf injury; failed a fitness test ahead of the second ODI",
     "duration": "Ruled out of the remainder of the ODI series vs. Zimbabwe; continuing rehab in Dhaka",
-    "financial_impact": "Not applicable \u2014 no fixed salary information available for this national-team context",
     "team_impact": "Bangladesh loses their starting wicketkeeper-batter for the series; Parvez Hossain Emon named as replacement for the 2nd and 3rd ODIs",
     "date_reported": "2026-07-09",
     "source_title": "The Nation - Injured Litton Das to miss rest of Zimbabwe ODI series",
     "source_url": "https://www.nation.com.pk/09-Jul-2026/injured-litton-das-miss-rest-zimbabwe-odi-series",
     "location": "Bangladesh",
-    "league": "International Cricket"
+    "league": "International Cricket",
+    "financial_impact_calculation": "Not applicable \u2014 no fixed salary information available for this national-team context",
+    "financial_impact_amount": null
   },
   {
     "guid": "cricket-ashwin-2026-07-09",
@@ -621,13 +662,14 @@
     "sport": "Cricket",
     "injury_context": "Right knee injury",
     "duration": "Ruled out for the remainder of MLC 2026; replaced by Peter Siddle",
-    "financial_impact": "Not disclosed \u2014 Major League Cricket does not publicly release individual player salaries/signing terms",
     "team_impact": "Unicorns lose the veteran spinner after just one appearance this MLC season",
     "date_reported": "2026-07-09",
     "source_title": "India TV News - Why is Ravichandran Ashwin ruled out of ongoing MLC 2026? San Francisco Unicorns announce replacement",
     "source_url": "https://www.indiatvnews.com/sports/cricket/why-is-ravichandran-ashwin-ruled-out-of-ongoing-mlc-2026-san-francisco-unicorns-announce-replacement-2026-07-09-1047737",
     "location": "San Francisco Bay Area, California",
-    "league": "Major League Cricket"
+    "league": "Major League Cricket",
+    "financial_impact_calculation": "Not disclosed \u2014 Major League Cricket does not publicly release individual player salaries/signing terms",
+    "financial_impact_amount": null
   },
   {
     "guid": "mlb-judge-2026-07-09",
@@ -636,13 +678,14 @@
     "sport": "Baseball",
     "injury_context": "Stress fracture in right rib; has not played since May 31 and went on the injured list June 5",
     "duration": "Will have the rib reimaged during the All-Star break; no firm return date, GM Brian Cashman says he must be fully asymptomatic and show healing on imaging before resuming activity",
-    "financial_impact": "$547,945 prorated sunk cost (annual salary ~$40M per Spotrac \u00f7 365 \u00d7 5 days out)",
     "team_impact": "Yankees continue without their three-time AL MVP and captain in the middle of the lineup",
     "date_reported": "2026-07-09",
     "source_title": "ESPN - Yankees' Aaron Judge to have rib reimaged during All-Star break",
     "source_url": "https://www.espn.com/mlb/story/_/id/49317023/yankees-aaron-judge-rib-reimaged-all-star-break",
     "location": "Bronx, New York",
-    "league": "MLB"
+    "league": "MLB",
+    "financial_impact_calculation": "$547,945 prorated sunk cost (annual salary ~$40M per Spotrac \u00f7 365 \u00d7 5 days out)",
+    "financial_impact_amount": 547945
   },
   {
     "guid": "mlb-vientos-2026-07-09",
@@ -651,13 +694,14 @@
     "sport": "Baseball",
     "injury_context": "Fractured bone in right hand after being hit by a pitch from Michael Wacha",
     "duration": "Headed to the injured list; broken bones of this type typically take around six weeks to heal, though the Mets have not given an official timeline and have not yet said whether surgery is needed",
-    "financial_impact": "$93,637 prorated sunk cost (annual salary ~$813,750 per Spotrac \u00f7 365 \u00d7 42 days out)",
     "team_impact": "Mets lose a regular infielder/DH (.211, 11 HR, 35 RBI in 72 games) just ahead of the trade deadline",
     "date_reported": "2026-07-09",
     "source_title": "amNewYork - Mark Vientos injury: Mets IF/DH headed to IL with hand fracture",
     "source_url": "https://www.amny.com/sports/mark-vientos-injury-mets-7-9-26/",
     "location": "Queens (Flushing), New York",
-    "league": "MLB"
+    "league": "MLB",
+    "financial_impact_calculation": "$93,637 prorated sunk cost (annual salary ~$813,750 per Spotrac \u00f7 365 \u00d7 42 days out)",
+    "financial_impact_amount": 93637
   },
   {
     "guid": "mlb-gelof-2026-07-09",
@@ -666,13 +710,14 @@
     "sport": "Baseball",
     "injury_context": "Deep cut underneath the right kneecap after colliding with the left field fence on a sliding catch; came just missed the tendon per the team",
     "duration": "Left the July 9 game early; scheduled for an MRI on July 10 to confirm the extent of the injury",
-    "financial_impact": "$10,479 prorated sunk cost (annual salary ~$765,000 per Spotrac \u00f7 365 \u00d7 5 days out)",
     "team_impact": "Athletics risk losing an everyday infielder/outfielder who had an on-base streak of 27 straight games and a 13-game scoring streak snapped by the injury",
     "date_reported": "2026-07-09",
     "source_title": "ESPN - Athletics' Gelof to have MRI on knee after sliding into fence",
     "source_url": "https://www.espn.com/mlb/story/_/id/49319837/athletics-gelof-mri-knee-sliding-fence",
     "location": "West Sacramento, California (Sutter Health Park; relocating to Las Vegas)",
-    "league": "MLB"
+    "league": "MLB",
+    "financial_impact_calculation": "$10,479 prorated sunk cost (annual salary ~$765,000 per Spotrac \u00f7 365 \u00d7 5 days out)",
+    "financial_impact_amount": 10479
   },
   {
     "guid": "soccer-tchouameni-2026-07-08",
@@ -681,13 +726,14 @@
     "sport": "Soccer",
     "injury_context": "Muscle tear involving the left adductor and upper thigh, a recurrence of the groin/thigh issue that previously sidelined him for France's group-stage match vs. Iraq",
     "duration": "Missed France's Round of 16 win over Paraguay; returned to partial team training on July 8, with a decision on his availability for the July 11 quarterfinal vs. Morocco pending",
-    "financial_impact": "$102,740 prorated sunk cost (annual salary ~\u20ac12.5M gross (~$13.5M) per Capology \u00f7 365 \u00d7 3 days out)",
     "team_impact": "France's vice-captain and starting defensive midfielder is a doubt for the quarterfinal, with Manu Kone deputizing in his absence",
     "date_reported": "2026-07-08",
     "source_title": "Sportskeeda - France handed huge injury boost as star man returns to training ahead of FIFA World Cup Q/F against Morocco",
     "source_url": "https://www.sportskeeda.com/football/rumor-france-handed-huge-injury-boost-star-man-returns-training-ahead-fifa-world-cup-q-f-morocco-reports",
     "location": "Madrid, Spain",
-    "league": "La Liga"
+    "league": "La Liga",
+    "financial_impact_calculation": "$102,740 prorated sunk cost (annual salary ~\u20ac12.5M gross (~$13.5M) per Capology \u00f7 365 \u00d7 3 days out)",
+    "financial_impact_amount": 102740
   },
   {
     "guid": "nhl-jarvis-2026-06-27",
@@ -696,13 +742,14 @@
     "sport": "Hockey",
     "injury_context": "Shoulder surgery, the same shoulder that had a torn labrum and rotator cuff during the 2023-24 season",
     "duration": "Expected recovery of approximately 4-6 months, meaning the earliest return would be late October",
-    "financial_impact": "$3,246,575 prorated sunk cost (annual salary ~$7.9M AAV per Spotrac \u00f7 365 \u00d7 150 days out)",
     "team_impact": "Hurricanes will be without a top-six forward for the start of the 2026-27 season",
     "date_reported": "2026-06-27",
     "source_title": "NHL.com - Jarvis expected to miss start of next season for Hurricanes after shoulder surgery",
     "source_url": "https://www.nhl.com/news/seth-jarvis-to-miss-beginning-of-2026-2027-season-for-hurricanes-after-shoulder-surgery",
     "location": "Raleigh, North Carolina",
-    "league": "NHL"
+    "league": "NHL",
+    "financial_impact_calculation": "$3,246,575 prorated sunk cost (annual salary ~$7.9M AAV per Spotrac \u00f7 365 \u00d7 150 days out)",
+    "financial_impact_amount": 3246575
   },
   {
     "guid": "cricket-mustafizur-2026-07-08",
@@ -711,13 +758,14 @@
     "sport": "Cricket",
     "injury_context": "Grade 1 muscle tear in the right hamstring and meniscal degeneration in the right knee, felt while bowling in the first ODI vs. Zimbabwe",
     "duration": "Ruled out for four weeks, covering the remainder of Bangladesh's tour of Zimbabwe (concluding July 19), including the T20I series; has returned home for rehab",
-    "financial_impact": "Not applicable \u2014 no fixed salary information available for this national-team context",
     "team_impact": "Bangladesh lose a frontline pace bowler for the rest of the Zimbabwe tour",
     "date_reported": "2026-07-08",
     "source_title": "ESPNcricinfo - Zim vs Ban: Mustafizur Rahman ruled out for four weeks with hamstring and knee injuries",
     "source_url": "https://www.espncricinfo.com/story/zim-vs-ban-mustafizur-rahman-ruled-out-for-four-weeks-with-hamstring-and-knee-injuries-1545065",
     "location": "Bangladesh",
-    "league": "International Cricket"
+    "league": "International Cricket",
+    "financial_impact_calculation": "Not applicable \u2014 no fixed salary information available for this national-team context",
+    "financial_impact_amount": null
   },
   {
     "guid": "cricket-henry-2026-07-09",
@@ -726,13 +774,14 @@
     "sport": "Cricket",
     "injury_context": "Exacerbation of a previous injury originally suffered fielding (stretchered off) in a T20 World Cup warm-up match in June",
     "duration": "Ruled out of the Women's ODI tour of Ireland beginning July 10; no return timeline disclosed",
-    "financial_impact": "Not applicable \u2014 no fixed salary information available for this national-team context",
     "team_impact": "West Indies lose their vice-captain and a key all-rounder; Realeanna Grimmond called up as her replacement for the Ireland series",
     "date_reported": "2026-07-09",
     "source_title": "ESPNcricinfo - Realeanna Grimmond replaces injured Chinelle Henry in West Indies squad for Ireland Women's ODIs",
     "source_url": "https://www.espncricinfo.com/story/slug-1545066",
     "location": "West Indies (Caribbean)",
-    "league": "International Cricket"
+    "league": "International Cricket",
+    "financial_impact_calculation": "Not applicable \u2014 no fixed salary information available for this national-team context",
+    "financial_impact_amount": null
   },
   {
     "guid": "wnba-diggins-2026-07-07",
@@ -741,13 +790,14 @@
     "sport": "Basketball",
     "injury_context": "Right knee injury; Diggins has said a knee surgery from last October has contributed to ongoing strain",
     "duration": "Ruled out for the July 7 game vs. Phoenix Mercury; no return timeline given",
-    "financial_impact": "$7,562 prorated sunk cost (annual salary ~$920,000 per Spotrac \u00f7 365 \u00d7 3 days out)",
     "team_impact": "Comes as Diggins was moved to the bench for the first time in a decade, ending a streak of 341 consecutive starts; Sky beat Phoenix 77-66 in her absence",
     "date_reported": "2026-07-07",
     "source_title": "Yahoo Sports - Sky's Skylar Diggins ruled out (knee) after being benched, Vandersloot starting",
     "source_url": "https://sports.yahoo.com/articles/skys-skylar-diggins-ruled-vs-010259203.html",
     "location": "Chicago, Illinois",
-    "league": "WNBA"
+    "league": "WNBA",
+    "financial_impact_calculation": "$7,562 prorated sunk cost (annual salary ~$920,000 per Spotrac \u00f7 365 \u00d7 3 days out)",
+    "financial_impact_amount": 7562
   },
   {
     "guid": "mlb-raya-2026-07-08",
@@ -756,13 +806,14 @@
     "sport": "Baseball",
     "injury_context": "Right shoulder impingement",
     "duration": "Placed on 15-day IL July 8, retroactive to July 5",
-    "financial_impact": "$32,055 prorated sunk cost (annual salary ~$780,000 MLB minimum per Spotrac \u00f7 365 \u00d7 15 days out)",
     "team_impact": "Twins lose a pitching option for at least 15 days",
     "date_reported": "2026-07-08",
     "source_title": "MLB.com - Latest Twins injuries & transactions",
     "source_url": "https://www.mlb.com/news/twins-injuries-and-roster-moves",
     "location": "Minneapolis, Minnesota",
-    "league": "MLB"
+    "league": "MLB",
+    "financial_impact_calculation": "$32,055 prorated sunk cost (annual salary ~$780,000 MLB minimum per Spotrac \u00f7 365 \u00d7 15 days out)",
+    "financial_impact_amount": 32055
   },
   {
     "guid": "mlb-rodriguez-2026-07-08",
@@ -771,13 +822,14 @@
     "sport": "Baseball",
     "injury_context": "Left glute strain",
     "duration": "Placed on 10-day IL July 8, retroactive to July 6",
-    "financial_impact": "$21,370 prorated sunk cost (annual salary ~$780,000 MLB minimum per Spotrac \u00f7 365 \u00d7 10 days out)",
     "team_impact": "Pirates lose their starting catcher for at least 10 days",
     "date_reported": "2026-07-08",
     "source_title": "MLB Trade Rumors - Pirates Place Endy Rodriguez On Injured List",
     "source_url": "https://www.mlbtraderumors.com/2026/07/pirates-to-place-endy-rodriguez-on-injured-list.html",
     "location": "Pittsburgh, Pennsylvania",
-    "league": "MLB"
+    "league": "MLB",
+    "financial_impact_calculation": "$21,370 prorated sunk cost (annual salary ~$780,000 MLB minimum per Spotrac \u00f7 365 \u00d7 10 days out)",
+    "financial_impact_amount": 21370
   },
   {
     "guid": "cycling-traeen-2026-07-09",
@@ -786,13 +838,14 @@
     "sport": "Cycling",
     "injury_context": "Concussion and multiple fractured ribs sustained in a crash on the descent of the Col du Tourmalet during stage 6",
     "duration": "Withdrew from the Tour de France (did not start stage 7); no return timeline specified in available reporting",
-    "financial_impact": "Not disclosed in available reporting \u2014 no specific prize money forfeiture figure found Potential prize money at stake (ceiling, not a claim of what the athlete would have won): \u20ac2,302,800 (~$2.6M) total prize fund for the 2026 Tour de France (per Domestique Cycling/Velo/Outside).",
     "team_impact": "Uno-X Mobility loses the rider who had been wearing the race's yellow jersey after stage 5; Tadej Poga\u010dar reclaimed the overall race lead the same day",
     "date_reported": "2026-07-09",
     "source_title": "Cyclingnews - 'Not the ending we wanted for this yellow adventure' - Torstein Tr\u00e6en out of Tour de France due to injuries from Tourmalet crash",
     "source_url": "https://www.cyclingnews.com/pro-cycling/teams-riders/not-the-ending-we-wanted-for-this-yellow-adventure-torstein-traeen-out-of-tour-de-france-due-to-injuries-from-tourmalet-crash/",
     "location": "Norway (team HQ)",
-    "league": "UCI WorldTeam / Tour de France"
+    "league": "UCI WorldTeam / Tour de France",
+    "financial_impact_calculation": "Not disclosed in available reporting \u2014 no specific prize money forfeiture figure found Potential prize money at stake (ceiling, not a claim of what the athlete would have won): \u20ac2,302,800 (~$2.6M) total prize fund for the 2026 Tour de France (per Domestique Cycling/Velo/Outside).",
+    "financial_impact_amount": null
   },
   {
     "guid": "cycling-molenaar-2026-07-09",
@@ -801,13 +854,14 @@
     "sport": "Cycling",
     "injury_context": "Fracture of the first metacarpal in his right hand plus multiple contusions, sustained in a high-speed crash roughly 5km from the finish of stage 5; evaluated under concussion protocol after losing memory of the incident",
     "duration": "Abandoned the Tour de France; did not start stage 6; recovery timeline not specified in available reporting",
-    "financial_impact": "Not disclosed in available reporting \u2014 no specific prize money forfeiture figure found Potential prize money at stake (ceiling, not a claim of what the athlete would have won): \u20ac2,302,800 (~$2.6M) total prize fund for the 2026 Tour de France (per Domestique Cycling/Velo/Outside).",
     "team_impact": "Caja Rural-Seguros RGA loses a rider mid-Tour",
     "date_reported": "2026-07-09",
     "source_title": "Cycling Weekly - 'I don't remember the crash' \u2013 Caja Rural rider abandons Tour de France with fractured hand",
     "source_url": "https://www.cyclingweekly.com/racing/tour-de-france/i-dont-remember-the-crash-caja-rural-rider-abandons-tour-de-france-with-fractured-hand",
     "location": "Pamplona, Spain (team HQ)",
-    "league": "UCI ProTeam / Tour de France"
+    "league": "UCI ProTeam / Tour de France",
+    "financial_impact_calculation": "Not disclosed in available reporting \u2014 no specific prize money forfeiture figure found Potential prize money at stake (ceiling, not a claim of what the athlete would have won): \u20ac2,302,800 (~$2.6M) total prize fund for the 2026 Tour de France (per Domestique Cycling/Velo/Outside).",
+    "financial_impact_amount": null
   },
   {
     "guid": "cycling-dekleijn-2026-07-09",
@@ -816,13 +870,14 @@
     "sport": "Cycling",
     "injury_context": "Muscle tears sustained during the stage 1 team time trial, which hampered him for the rest of the race",
     "duration": "Abandoned the Tour de France on stage 6 after struggling since the opening days; recovery timeline not specified in available reporting",
-    "financial_impact": "Not disclosed in available reporting \u2014 no specific prize money forfeiture figure found Potential prize money at stake (ceiling, not a claim of what the athlete would have won): \u20ac2,302,800 (~$2.6M) total prize fund for the 2026 Tour de France (per Domestique Cycling/Velo/Outside).",
     "team_impact": "Tudor Pro Cycling Team loses a rider mid-Tour after he battled to beat the time cut on multiple stages",
     "date_reported": "2026-07-09",
     "source_title": "idlprocycling - Suffering ends: Arvid de Kleijn and Cian Uijtdebroeks abandon Tour de France",
     "source_url": "https://www.idlprocycling.com/cycling/suffering-ends-arvid-de-kleijn-and-cian-uijtdebroeks-abandon-tour-de-france",
     "location": "Switzerland (team HQ)",
-    "league": "UCI ProTeam / Tour de France"
+    "league": "UCI ProTeam / Tour de France",
+    "financial_impact_calculation": "Not disclosed in available reporting \u2014 no specific prize money forfeiture figure found Potential prize money at stake (ceiling, not a claim of what the athlete would have won): \u20ac2,302,800 (~$2.6M) total prize fund for the 2026 Tour de France (per Domestique Cycling/Velo/Outside).",
+    "financial_impact_amount": null
   },
   {
     "guid": "nba-murrayboyles-2026-07-10",
@@ -831,13 +886,14 @@
     "sport": "Basketball",
     "injury_context": "Sprained thumb/finger, diagnosed after exiting a Summer League game against the Lakers",
     "duration": "Ruled out of the Raptors' Summer League opener vs. Boston; next possible return targeted for the Houston game; full recovery timeline not specified in available reporting",
-    "financial_impact": "$86,747 prorated sunk cost (annual salary ~$6.33M per Spotrac \u00f7 365 \u00d7 5 days out) [assumption: no firm return timeline reported, used 5-day undetermined default]",
     "team_impact": "Raptors lose their 2025 first-round pick (9th overall) for early Summer League reps as a point-forward, part of his developmental push",
     "date_reported": "2026-07-10",
     "source_title": "Raptors Republic - Collin Murray-Boyles, Alijah Martin to miss Raptors' Summer League opener",
     "source_url": "https://raptorsrepublic.com/2026/07/10/collin-murray-boyles-alijah-martin-to-miss-raptors-summer-league-opener/",
     "location": "Toronto, Ontario, Canada (team); Las Vegas, Nevada (Summer League site)",
-    "league": "NBA Summer League"
+    "league": "NBA Summer League",
+    "financial_impact_calculation": "$86,747 prorated sunk cost (annual salary ~$6.33M per Spotrac \u00f7 365 \u00d7 5 days out) [assumption: no firm return timeline reported, used 5-day undetermined default]",
+    "financial_impact_amount": 86747
   },
   {
     "guid": "wnba-sabally-2026-07-11",
@@ -846,13 +902,14 @@
     "sport": "Basketball",
     "injury_context": "Concussion protocol after being elbowed in the face by Aces forward NaLyssa Smith while contesting a rebound; symptoms had delayed onset",
     "duration": "Downgraded from questionable to out; remains in concussion protocol with no return timeline given",
-    "financial_impact": "$11,164 prorated sunk cost (annual salary ~$815K per Spotrac \u00f7 365 \u00d7 5 days out) [assumption: concussion protocol with no return timeline, used 5-day undetermined default]",
     "team_impact": "Liberty without their All-Star forward for multiple games as she works through the NBA/WNBA-mandated concussion protocol; notable given she also missed time with a concussion in the 2025 WNBA Finals",
     "date_reported": "2026-07-11",
     "source_title": "Yahoo Sports - Liberty injury report: Star forward Satou Sabally in concussion protocol",
     "source_url": "https://sports.yahoo.com/articles/liberty-injury-report-star-forward-satou-sabally-in-concussion-protocol-224647068.html",
     "location": "Brooklyn, New York",
-    "league": "WNBA"
+    "league": "WNBA",
+    "financial_impact_calculation": "$11,164 prorated sunk cost (annual salary ~$815K per Spotrac \u00f7 365 \u00d7 5 days out) [assumption: concussion protocol with no return timeline, used 5-day undetermined default]",
+    "financial_impact_amount": 11164
   },
   {
     "guid": "wnba-reese-2026-07-11",
@@ -861,13 +918,14 @@
     "sport": "Basketball",
     "injury_context": "Lower leg/ankle injury sustained falling under the basket late in a win over the Seattle Storm",
     "duration": "Listed questionable for the Dream's game vs. the Portland Fire; no firm return timeline given",
-    "financial_impact": "$2,882 prorated sunk cost (annual salary ~$350,692 per Spotrac \u00f7 365 \u00d7 3 days out) [assumption: day-to-day questionable status]",
     "team_impact": "Puts a third-straight All-Star selection and Dream's first year with Reese (acquired in an offseason trade from Chicago) at risk of interruption during a stretch where the team is trying to build momentum after a five-game losing streak",
     "date_reported": "2026-07-11",
     "source_title": "CBS Sports - Portland Fire vs. Atlanta Dream preview: Dream seek momentum as Angel Reese is questionable with leg injury",
     "source_url": "https://www.cbssports.com/wnba/news/portland-fire-atlanta-dream-where-to-watch-angel-reese-injury/",
     "location": "Atlanta, Georgia",
-    "league": "WNBA"
+    "league": "WNBA",
+    "financial_impact_calculation": "$2,882 prorated sunk cost (annual salary ~$350,692 per Spotrac \u00f7 365 \u00d7 3 days out) [assumption: day-to-day questionable status]",
+    "financial_impact_amount": 2882
   },
   {
     "guid": "wnba-bjones-2026-07-11",
@@ -876,13 +934,14 @@
     "sport": "Basketball",
     "injury_context": "Meniscus tear in the right knee suffered in late January while playing overseas for USK Prague; underwent knee surgery at Emory Hospital",
     "duration": "Ruled out to begin the 2026 season and remains sidelined into mid-July; not yet cleared for 5-on-5 drills and has no firm return timetable, though the team says she is expected to make a full recovery",
-    "financial_impact": "$153,425 prorated sunk cost (annual salary ~$1M per Spotrac \u00f7 365 \u00d7 56 days out) [assumption: out since ~start of 2026 WNBA season (~May 16) through date reported (July 11), ~56 days]",
     "team_impact": "Four-time All-Star center has yet to play a game for the Dream this season, a significant frontcourt loss to start the year",
     "date_reported": "2026-07-11",
     "source_title": "CBS News Atlanta - Atlanta Dream's Brionna Jones nearing return, expected back with team soon",
     "source_url": "https://www.cbsnews.com/atlanta/news/atlanta-dreams-brionna-jones-nearing-return-expected-back-with-team-next-week/",
     "location": "Atlanta, Georgia",
-    "league": "WNBA"
+    "league": "WNBA",
+    "financial_impact_calculation": "$153,425 prorated sunk cost (annual salary ~$1M per Spotrac \u00f7 365 \u00d7 56 days out) [assumption: out since ~start of 2026 WNBA season (~May 16) through date reported (July 11), ~56 days]",
+    "financial_impact_amount": 153425
   },
   {
     "guid": "wnba-miles-2026-07-05",
@@ -891,13 +950,14 @@
     "sport": "Basketball",
     "injury_context": "Calf strain suffered during a July 3 game vs. the New York Liberty, possibly linked to in-game cramping",
     "duration": "Ruled out of the Lynx's game vs. Connecticut on July 6, the first game of her WNBA career she has missed; no firm timetable given, though signs point to a quick recovery",
-    "financial_impact": "$3,838 prorated sunk cost (annual salary ~$466,913 per Spotrac/On3 \u00f7 365 \u00d7 3 days out) [assumption: day-to-day, signs point to quick recovery]",
     "team_impact": "Costly absence for a Lynx team leaning on its rookie floor general; came a day after Miles was named a starter for the 2026 WNBA All-Star Game and while she remains a near-lock for Rookie of the Year (18.5 ppg, 4.8 rpg, 5.7 apg)",
     "date_reported": "2026-07-05",
     "source_title": "ESPN - Olivia Miles sidelined Monday against Sun with calf injury",
     "source_url": "https://www.espn.com/wnba/story/_/id/49287945/olivia-miles-sidelined-monday-sun-calf-injury",
     "location": "Minneapolis, Minnesota",
-    "league": "WNBA"
+    "league": "WNBA",
+    "financial_impact_calculation": "$3,838 prorated sunk cost (annual salary ~$466,913 per Spotrac/On3 \u00f7 365 \u00d7 3 days out) [assumption: day-to-day, signs point to quick recovery]",
+    "financial_impact_amount": 3838
   },
   {
     "guid": "wnba-fiebich-2026-07-11",
@@ -906,13 +966,14 @@
     "sport": "Basketball",
     "injury_context": "Left foot soreness",
     "duration": "Ruled out for a second straight game, having missed her first game since May 25; no return timeline given",
-    "financial_impact": "$4,021 prorated sunk cost (annual salary ~$293,510 per Spotrac \u00f7 365 \u00d7 5 days out) [assumption: no return timeline, used 5-day undetermined default]",
     "team_impact": "Liberty forward sidelined for consecutive games amid a compressed schedule that includes a quick turnaround for a game in Toronto",
     "date_reported": "2026-07-11",
     "source_title": "Yahoo Sports - Final Injury Report for Liberty-Mystics: Will Satou Sabally, Leonie Fiebich Play?",
     "source_url": "https://sports.yahoo.com/articles/final-injury-report-liberty-mystics-150000047.html",
     "location": "Brooklyn, New York",
-    "league": "WNBA"
+    "league": "WNBA",
+    "financial_impact_calculation": "$4,021 prorated sunk cost (annual salary ~$293,510 per Spotrac \u00f7 365 \u00d7 5 days out) [assumption: no return timeline, used 5-day undetermined default]",
+    "financial_impact_amount": 4021
   },
   {
     "guid": "wta-serena-2026-07-04",
@@ -921,13 +982,14 @@
     "sport": "Tennis",
     "injury_context": "Right knee injury tweaked at the end of the first set of her Wimbledon singles match against Maya Joint; postmatch video showed four syringes of fluid drained from the knee",
     "duration": "Withdrew from the Wimbledon doubles draw alongside sister Venus Williams; no return timeline given",
-    "financial_impact": "Not disclosed in available reporting \u2014 no specific prize money forfeiture figure found Potential prize money at stake (ceiling, not a claim of what the athlete would have won): \u00a364.2M (~$86.1M) total 2026 Wimbledon Championships prize money (per CBS Sports/ATP Tour) \u2014 she withdrew from the doubles draw specifically, not the whole event's purse.",
     "team_impact": "Ends a highly anticipated comeback pairing with Venus Williams in doubles, coming during Serena's first singles match in nearly four years",
     "date_reported": "2026-07-04",
     "source_title": "NBC News - Serena Williams withdraws from Wimbledon doubles competition after knee injury",
     "source_url": "https://www.nbcnews.com/sports/tennis/serena-williams-withdraws-wimbledon-rcna352965",
     "location": "N/A \u2014 individual tour athlete, no fixed team location",
-    "league": "WTA Tour"
+    "league": "WTA Tour",
+    "financial_impact_calculation": "Not disclosed in available reporting \u2014 no specific prize money forfeiture figure found Potential prize money at stake (ceiling, not a claim of what the athlete would have won): \u00a364.2M (~$86.1M) total 2026 Wimbledon Championships prize money (per CBS Sports/ATP Tour) \u2014 she withdrew from the doubles draw specifically, not the whole event's purse.",
+    "financial_impact_amount": null
   },
   {
     "guid": "atp-alcaraz-2026-07-09",
@@ -936,13 +998,14 @@
     "sport": "Tennis",
     "injury_context": "Right-wrist tenosynovitis, forcing withdrawals from Madrid, Rome, Roland Garros, Queen's and Wimbledon; has worn a wrist brace since mid-April",
     "duration": "Has pulled out of the ATP Montreal entry list and opted to prolong his comeback by two more weeks, targeting Cincinnati or the US Open for his return; recently resumed light on-court practice without a brace",
-    "financial_impact": "Not disclosed in available reporting \u2014 no specific prize money forfeiture figure found Potential prize money at stake (ceiling, not a claim of what the athlete would have won): $9.42M total ATP prize money for the 2026 National Bank Open (Montreal) (per BetMGM Sports).",
     "team_impact": "World No. 2 has now missed a full clay and grass swing including two Grand Slams; absence continues into the North American hard-court season",
     "date_reported": "2026-07-09",
     "source_title": "Last Word On Tennis - Carlos Alcaraz Injury Update: Spaniard Pulls Out of ATP Montreal Entry List",
     "source_url": "https://lastwordonsports.com/tennis/2026/07/09/carlos-alcaraz-injury-update-spaniard-pulls-out-of-atp-montreal/",
     "location": "N/A \u2014 individual tour athlete, no fixed team location",
-    "league": "ATP Tour"
+    "league": "ATP Tour",
+    "financial_impact_calculation": "Not disclosed in available reporting \u2014 no specific prize money forfeiture figure found Potential prize money at stake (ceiling, not a claim of what the athlete would have won): $9.42M total ATP prize money for the 2026 National Bank Open (Montreal) (per BetMGM Sports).",
+    "financial_impact_amount": null
   },
   {
     "guid": "atp-fritz-2026-07-08",
@@ -951,13 +1014,14 @@
     "sport": "Tennis",
     "injury_context": "Knee tendinitis flare-up, a recurring issue, three games into his Wimbledon quarterfinal",
     "duration": "Played through the flare-up but lost the quarterfinal 6-4, 6-4, 6-2 to Alexander Zverev; no absence or further tournament withdrawal reported",
-    "financial_impact": "Not disclosed in available reporting \u2014 no specific prize money forfeiture figure found Potential prize money at stake (ceiling, not a claim of what the athlete would have won): \u00a364.2M (~$86.1M) total 2026 Wimbledon Championships prize money (per CBS Sports/ATP Tour) \u2014 this was a completed quarterfinal loss, not a withdrawal, so no forfeiture occurred.",
     "team_impact": "Eliminated from Wimbledon; dropped to No. 10 in the ATP Live Rankings",
     "date_reported": "2026-07-08",
     "source_title": "ESPN - Taylor Fritz loses at Wimbledon after knee tendinitis flares up",
     "source_url": "https://www.espn.com/tennis/story/_/id/49308826/taylor-fritz-loses-alexander-zverev-wimbledon-quarterfinals-knee-tendonitis-flares-up",
     "location": "N/A \u2014 individual tour athlete, no fixed team location",
-    "league": "ATP Tour"
+    "league": "ATP Tour",
+    "financial_impact_calculation": "Not disclosed in available reporting \u2014 no specific prize money forfeiture figure found Potential prize money at stake (ceiling, not a claim of what the athlete would have won): \u00a364.2M (~$86.1M) total 2026 Wimbledon Championships prize money (per CBS Sports/ATP Tour) \u2014 this was a completed quarterfinal loss, not a withdrawal, so no forfeiture occurred.",
+    "financial_impact_amount": null
   },
   {
     "guid": "soccer-manzambi-2026-07-11",
@@ -966,13 +1030,14 @@
     "sport": "Soccer",
     "injury_context": "Left-knee injury suffered in training on the eve of the Round of 16 match vs. Colombia",
     "duration": "Missed the Round of 16 win over Colombia and ruled out of the quarterfinal vs. Argentina; no return timeline given",
-    "financial_impact": "Not applicable \u2014 no fixed salary information available for this national-team context",
     "team_impact": "Major blow to Switzerland's attack: with Manzambi on the pitch during the group stage the team averaged 3.6 goals per 90 minutes (3 goals, 2 assists for him in 200 minutes); without him, Switzerland have scored just once and averaged 1.4 xG per 90 over 280 minutes",
     "date_reported": "2026-07-11",
     "source_title": "ESPN - Switzerland's Johan Manzambi to miss Argentina World Cup quarterfinal clash - Murat Yakin",
     "source_url": "https://www.espn.com/soccer/story/_/id/49326340/switzerland-johan-manzambi-miss-argentina-world-cup-quarterfinal-clash-murat-yakin",
     "location": "Switzerland",
-    "league": "International Soccer"
+    "league": "International Soccer",
+    "financial_impact_calculation": "Not applicable \u2014 no fixed salary information available for this national-team context",
+    "financial_impact_amount": null
   },
   {
     "guid": "soccer-guehi-2026-07-11",
@@ -981,13 +1046,14 @@
     "sport": "Soccer",
     "injury_context": "Hamstring strain picked up in England's Round of 16 win over Mexico",
     "duration": "Missed a training session in Kansas City but returned to training Friday and was confirmed available for the quarterfinal vs. Norway",
-    "financial_impact": "Not applicable \u2014 no fixed salary information available for this national-team context",
     "team_impact": "Created a late fitness scare for England's back line ahead of the quarterfinal, with Newcastle's Dan Burn on standby to deputize had Guehi been unavailable",
     "date_reported": "2026-07-11",
     "source_title": "Sky Sports - World Cup 2026: England defender Marc Guehi a serious doubt for quarter-final clash with Norway",
     "source_url": "https://www.skysports.com/football/news/12016/13562168/world-cup-2026-england-defender-marc-guehi-a-serious-doubt-for-quarter-final-clash-with-norway",
     "location": "England",
-    "league": "International Soccer"
+    "league": "International Soccer",
+    "financial_impact_calculation": "Not applicable \u2014 no fixed salary information available for this national-team context",
+    "financial_impact_amount": null
   },
   {
     "guid": "mlb-ohtani-2026-07-10",
@@ -996,13 +1062,14 @@
     "sport": "Baseball",
     "injury_context": "Left knee irritation/swelling, nursed since at least June 11",
     "duration": "Scratched from his Friday, July 10 pitching start vs. Arizona and will skip the All-Star Game; scheduled to have the knee drained and possibly receive a pain-relieving injection during the break",
-    "financial_impact": "$575,342 prorated sunk cost (annual salary ~$70M (contract AAV) per Spotrac \u00f7 365 \u00d7 3 days out) [assumption: day-to-day knee issue, skipping one start and the All-Star Game, no IL move reported]",
     "team_impact": "Dodgers manage the two-way star's workload heading into the second half; Ohtani continued to DH and homered the same day he was scratched from pitching",
     "date_reported": "2026-07-10",
     "source_title": "ESPN - Shohei Ohtani dealing with knee irritation, to miss All-Star Game",
     "source_url": "https://www.espn.com/mlb/story/_/id/49327458/shohei-ohtani-dealing-knee-irritation-miss-all-star-game",
     "location": "Los Angeles, California",
-    "league": "MLB"
+    "league": "MLB",
+    "financial_impact_calculation": "$575,342 prorated sunk cost (annual salary ~$70M (contract AAV) per Spotrac \u00f7 365 \u00d7 3 days out) [assumption: day-to-day knee issue, skipping one start and the All-Star Game, no IL move reported]",
+    "financial_impact_amount": 575342
   },
   {
     "guid": "mlb-kurtz-2026-07-10",
@@ -1011,13 +1078,14 @@
     "sport": "Baseball",
     "injury_context": "Right thumb capsule sprain",
     "duration": "Placed on the 10-day injured list, retroactive to July 10",
-    "financial_impact": "$21,507 prorated sunk cost (annual salary ~$785K per Spotrac \u00f7 365 \u00d7 10 days out) [10-day injured list stint]",
     "team_impact": "Keeps the 2025 AL Rookie of the Year and scheduled AL All-Star starting first baseman (.266, 20 HR, 66 RBI, MLB-leading 76 walks) out of the July 14 All-Star Game in Philadelphia; catcher Brian Serven recalled from Triple-A in a corresponding move",
     "date_reported": "2026-07-11",
     "source_title": "ESPN - Athletics All-Star 1B Nick Kurtz placed on IL with thumb sprain",
     "source_url": "https://www.espn.com/mlb/story/_/id/49334996/athletics-all-star-1b-nick-kurtz-placed-il-thumb-sprain",
     "location": "West Sacramento, California (Sutter Health Park; relocating to Las Vegas)",
-    "league": "MLB"
+    "league": "MLB",
+    "financial_impact_calculation": "$21,507 prorated sunk cost (annual salary ~$785K per Spotrac \u00f7 365 \u00d7 10 days out) [10-day injured list stint]",
+    "financial_impact_amount": 21507
   },
   {
     "guid": "mlb-lodolo-2026-07-11",
@@ -1026,13 +1094,14 @@
     "sport": "Baseball",
     "injury_context": "Blister on the left index finger (throwing hand); a recurring issue, his fourth stint on the IL for blisters dating back to 2024",
     "duration": "Placed on the 15-day injured list; eligible to return July 27, though it could take longer depending on severity",
-    "financial_impact": "$194,178 prorated sunk cost (annual salary ~$4.725M per Spotrac \u00f7 365 \u00d7 15 days out) [15-day injured list stint]",
     "team_impact": "Reds turn to Rhett Lowder to fill Lodolo's rotation spot",
     "date_reported": "2026-07-11",
     "source_title": "MLB Trade Rumors - Reds Place Nick Lodolo On IL With Blister, Recall Chase Petty",
     "source_url": "https://www.mlbtraderumors.com/2026/07/reds-place-nick-lodolo-on-il-with-blister-recall-chase-petty.html",
     "location": "Cincinnati, Ohio",
-    "league": "MLB"
+    "league": "MLB",
+    "financial_impact_calculation": "$194,178 prorated sunk cost (annual salary ~$4.725M per Spotrac \u00f7 365 \u00d7 15 days out) [15-day injured list stint]",
+    "financial_impact_amount": 194178
   },
   {
     "guid": "mlb-bichette-2026-07-11",
@@ -1041,13 +1110,14 @@
     "sport": "Baseball",
     "injury_context": "General leg soreness and right ankle soreness, aggravated by fouling balls off his legs during a series in Atlanta",
     "duration": "Held out of the lineup for a second straight game and available only off the bench; expected to use the following day and the All-Star break for a full reset rather than go on the injured list",
-    "financial_impact": "$345,205 prorated sunk cost (annual salary ~$42M (contract AAV) per Spotrac \u00f7 365 \u00d7 3 days out) [assumption: day-to-day, not placed on IL, used 3-day estimate]",
     "team_impact": "Mets manage his workload during a productive stretch (.320 avg, .788 OPS over his last 25 games) heading into the All-Star break",
     "date_reported": "2026-07-11",
     "source_title": "Associated Press - Bo Bichette held out of Mets' lineup for second straight game with leg soreness",
     "source_url": "https://www.bakersfield.com/ap/sports/bo-bichette-held-out-of-mets-lineup-for-second-straight-game-with-leg-soreness/article_c615803d-891c-57fd-87ef-b86becfaf8cc.html",
     "location": "Queens (Flushing), New York",
-    "league": "MLB"
+    "league": "MLB",
+    "financial_impact_calculation": "$345,205 prorated sunk cost (annual salary ~$42M (contract AAV) per Spotrac \u00f7 365 \u00d7 3 days out) [assumption: day-to-day, not placed on IL, used 3-day estimate]",
+    "financial_impact_amount": 345205
   },
   {
     "guid": "ncaa-mbb-freeman-2026-07-01",
@@ -1056,13 +1126,14 @@
     "sport": "Basketball",
     "injury_context": "Torn right Achilles tendon, a non-contact injury suffered during a summer workout; underwent successful surgery performed by Dr. Martin O'Malley",
     "duration": "Will miss the entire 2026-27 season",
-    "financial_impact": "Not applicable \u2014 NCAA athlete, no fixed salary",
     "team_impact": "Major setback for coach Rick Pitino and St. John's, who added the rising junior forward as a transfer-portal pickup this offseason; Freeman averaged 16.5 points and 7.2 rebounds last season at Syracuse",
     "date_reported": "2026-07-01",
     "source_title": "The Washington Post - St. John's Donnie Freeman to miss next season following surgery on Achilles tendon",
     "source_url": "https://www.washingtonpost.com/sports/colleges/2026/07/01/st-johns-donnie-freeman-achilles-injury-pitino/81e54c60-75c4-11f1-b665-5f8be87f3787_story.html",
     "location": "Queens, New York",
-    "league": "NCAA Division I Men's Basketball"
+    "league": "NCAA Division I Men's Basketball",
+    "financial_impact_calculation": "Not applicable \u2014 NCAA athlete, no fixed salary",
+    "financial_impact_amount": null
   },
   {
     "guid": "lpga-thompson-2026-07",
@@ -1071,13 +1142,14 @@
     "sport": "Golf",
     "injury_context": "Persistent hip pain/suspected hip injury",
     "duration": "Withdrew from the KPMG Women's PGA Championship at Hazeltine National, after also sitting out the Meijer LPGA Classic with the same issue; no return timeline given",
-    "financial_impact": "Not disclosed in available reporting \u2014 no specific prize money forfeiture figure found Potential prize money at stake (ceiling, not a claim of what the athlete would have won): $13M total tournament prize purse for the 2026 KPMG Women's PGA Championship at Hazeltine National (per Golf Channel/GolfDigest).",
     "team_impact": "Ends a 15-tournament appearance streak at the Women's PGA Championship, a run that included four career top-10 finishes; Carolina Chacarra took her place in the field",
     "date_reported": "2026-07-06",
     "source_title": "Golf Digest - Lexi Thompson withdraws from KPMG Women's PGA Championship",
     "source_url": "https://www.golfdigest.com/story/lexi-thompson-withdraws-kpmg-womens-pga-championship",
     "location": "N/A \u2014 individual tour athlete, no fixed team location",
-    "league": "LPGA Tour"
+    "league": "LPGA Tour",
+    "financial_impact_calculation": "Not disclosed in available reporting \u2014 no specific prize money forfeiture figure found Potential prize money at stake (ceiling, not a claim of what the athlete would have won): $13M total tournament prize purse for the 2026 KPMG Women's PGA Championship at Hazeltine National (per Golf Channel/GolfDigest).",
+    "financial_impact_amount": null
   },
   {
     "guid": "mma-mcgregor-2026-07-11",
@@ -1086,13 +1158,14 @@
     "sport": "Mixed Martial Arts",
     "injury_context": "Suspected torn ACL in the right knee, sustained throwing a kick just 69 seconds into his UFC 329 return bout; official diagnosis pending further medical evaluation",
     "duration": "Fight stopped by the referee at 1:09 of round one; no recovery timeline given pending formal diagnosis",
-    "financial_impact": "Not applicable \u2014 injury occurred during a completed, paid bout (referee stoppage), not a withdrawal from a future event, so no prize money was forfeited",
     "team_impact": "Ends McGregor's much-hyped comeback fight against Max Holloway almost immediately and casts doubt on any near-term return to competition",
     "date_reported": "2026-07-11",
     "source_title": "NBC News - Conor McGregor suffers early knee injury in return, loses to Max Holloway at UFC 329",
     "source_url": "https://www.nbcnews.com/sports/ufc/conor-mcgregor-suffers-early-knee-injury-return-loses-max-holloway-ufc-rcna552729",
     "location": "N/A \u2014 individual fighter, not tied to a team location",
-    "league": "UFC"
+    "league": "UFC",
+    "financial_impact_calculation": "Not applicable \u2014 injury occurred during a completed, paid bout (referee stoppage), not a withdrawal from a future event, so no prize money was forfeited",
+    "financial_impact_amount": null
   },
   {
     "guid": "wnba-magbegor-2026-07-11",
@@ -1101,13 +1174,14 @@
     "sport": "Basketball",
     "injury_context": "Facial fracture",
     "duration": "Ruled out of the Storm's game vs. the Washington Mystics; to be reevaluated in the next couple of weeks",
-    "financial_impact": "$47,945 prorated sunk cost (annual salary ~$1.25M per Spotrac \u00f7 365 \u00d7 14 days out) [assumption: 'reevaluated in the next couple of weeks' = 2 weeks]",
     "team_impact": "Storm without their starting center/forward for at least the near term",
     "date_reported": "2026-07-11",
     "source_title": "Seattle Times - Ezi Magbegor to miss Seattle Storm's game vs. Washington Mystics with face injury",
     "source_url": "https://www.seattletimes.com/sports/storm/ezi-magbegor-to-miss-seattle-storms-game-vs-washington-mystics-with-face-injury/",
     "location": "Seattle, Washington",
-    "league": "WNBA"
+    "league": "WNBA",
+    "financial_impact_calculation": "$47,945 prorated sunk cost (annual salary ~$1.25M per Spotrac \u00f7 365 \u00d7 14 days out) [assumption: 'reevaluated in the next couple of weeks' = 2 weeks]",
+    "financial_impact_amount": 47945
   },
   {
     "guid": "mlb-griffin-2026-07-11",
@@ -1116,13 +1190,14 @@
     "sport": "Baseball",
     "injury_context": "Torn tendon (sagittal band) in the left ring finger, sustained diving for a ball; initially placed on the 10-day IL and now transferred to the 60-day IL",
     "duration": "8-10 week recovery timeline; ineligible to return until at least September 4; team opted for a non-operative approach, splinting the hand for about six weeks before resuming baseball activities",
-    "financial_impact": "$172,603 prorated sunk cost (annual salary ~$1M base salary per Spotrac \u00f7 365 \u00d7 63 days out) [8-10 week recovery timeline, used midpoint of 9 weeks = 63 days; excludes one-time signing bonus from prorated base]",
     "team_impact": "Pirates lose their rookie starting shortstop (the No. 1 overall pick in the 2024 draft) for an extended stretch, his second significant injury of the season after an earlier forearm strain",
     "date_reported": "2026-07-11",
     "source_title": "CBS Sports - Pirates' Konnor Griffin: Moved to 60-day IL",
     "source_url": "https://www.cbssports.com/fantasy/baseball/news/pirates-konnor-griffin-moved-to-60-day-il/",
     "location": "Pittsburgh, Pennsylvania",
-    "league": "MLB"
+    "league": "MLB",
+    "financial_impact_calculation": "$172,603 prorated sunk cost (annual salary ~$1M base salary per Spotrac \u00f7 365 \u00d7 63 days out) [8-10 week recovery timeline, used midpoint of 9 weeks = 63 days; excludes one-time signing bonus from prorated base]",
+    "financial_impact_amount": 172603
   },
   {
     "guid": "wnba-bell-2026-07-13",
@@ -1131,13 +1206,14 @@
     "sport": "Basketball",
     "injury_context": "Right leg injury (specific diagnosis not disclosed in available reporting)",
     "duration": "Ruled out for the Aces' July 13 game vs. the Indiana Fever; no return timeline given",
-    "financial_impact": "$2,281 prorated sunk cost (annual salary ~$277,500 per Spotrac \u00f7 365 \u00d7 3 days out) [assumption: single-game absence, no timeline, day-to-day default]",
     "team_impact": "Aces without a rotation forward who had recently moved into the starting lineup, adding to the team's list of unavailable players",
     "date_reported": "2026-07-13",
     "source_title": "Yahoo Sports - Final Injury Report for Fever-Aces: Will Caitlin Clark Play?",
     "source_url": "https://sports.yahoo.com/articles/final-injury-report-fever-aces-210000827.html",
     "location": "Las Vegas, Nevada",
-    "league": "WNBA"
+    "league": "WNBA",
+    "financial_impact_calculation": "$2,281 prorated sunk cost (annual salary ~$277,500 per Spotrac \u00f7 365 \u00d7 3 days out) [assumption: single-game absence, no timeline, day-to-day default]",
+    "financial_impact_amount": 2281
   },
   {
     "guid": "golf-smylie-2026-07-08",
@@ -1146,13 +1222,14 @@
     "sport": "Golf",
     "injury_context": "Rib injury",
     "duration": "Withdrew from the Genesis Scottish Open and The Open Championship at Royal Birkdale; announced an extended break from golf for rehabilitation, with no firm return timeline given",
-    "financial_impact": "Not disclosed in available reporting \u2014 no specific prize money forfeiture figure found Potential prize money at stake (ceiling, not a claim of what the athlete would have won): $17.75M total tournament prize purse for the 2026 Open Championship at Royal Birkdale (per CBS Sports/Forbes).",
     "team_impact": "Removes the Australian, who had qualified for his third Open Championship appearance, from the year's final men's major",
     "date_reported": "2026-07-08",
     "source_title": "Today's Golfer - LIV Golf star withdraws on the eve of The Open",
     "source_url": "https://www.todays-golfer.com/news-and-events/majors/the-open-championship/elvis-smylie-liv-golf-withdrawal/",
     "location": "N/A \u2014 individual tour athlete, no fixed team location",
-    "league": "LIV Golf / DP World Tour"
+    "league": "LIV Golf / DP World Tour",
+    "financial_impact_calculation": "Not disclosed in available reporting \u2014 no specific prize money forfeiture figure found Potential prize money at stake (ceiling, not a claim of what the athlete would have won): $17.75M total tournament prize purse for the 2026 Open Championship at Royal Birkdale (per CBS Sports/Forbes).",
+    "financial_impact_amount": null
   },
   {
     "guid": "nba-nelson-2026-07-13",
@@ -1161,13 +1238,14 @@
     "sport": "Basketball",
     "injury_context": "Ankle fracture, sustained landing awkwardly after a chase-down block attempt",
     "duration": "Will undergo surgery; ruled out for the remainder of Summer League",
-    "financial_impact": "$13,020 prorated sunk cost (annual salary ~$678,882 (two-way) per Hoops Rumors \u00f7 365 \u00d7 7 days out) [assumption: ruled out for remainder of NBA Summer League (~July 13-20); true post-surgery recovery likely longer but not specified]",
     "team_impact": "Magic lose their second-round pick's Summer League evaluation window",
     "date_reported": "2026-07-13",
     "source_title": "NBC Sports - Magic second-round pick Izaiyah Nelson will have surgery on ankle fracture suffered at Summer League",
     "source_url": "https://www.nbcsports.com/nba/news/magic-second-round-pick-izaiyah-nelson-will-have-surgery-on-ankle-fracture-suffered-at-summer-league",
     "location": "Orlando, Florida",
-    "league": "NBA Summer League"
+    "league": "NBA Summer League",
+    "financial_impact_calculation": "$13,020 prorated sunk cost (annual salary ~$678,882 (two-way) per Hoops Rumors \u00f7 365 \u00d7 7 days out) [assumption: ruled out for remainder of NBA Summer League (~July 13-20); true post-surgery recovery likely longer but not specified]",
+    "financial_impact_amount": 13020
   },
   {
     "guid": "nba-bailey-2026-07-13",
@@ -1176,13 +1254,14 @@
     "sport": "Basketball",
     "injury_context": "Recurring back spasms, first flared up during Salt Lake City Summer League and recurred in Las Vegas",
     "duration": "Did not return after halftime on July 13 vs. Portland; held out of the July 14 game vs. Chicago as the Jazz prioritize long-term health",
-    "financial_impact": "$78,272 prorated sunk cost (annual salary ~$9.52M per Spotrac \u00f7 365 \u00d7 3 days out) [assumption: held out as precaution, no formal diagnosis/timeline, day-to-day default]",
     "team_impact": "Jazz hold their 2025 lottery pick out of further Summer League action out of caution",
     "date_reported": "2026-07-13",
     "source_title": "SI - Ace Bailey's Latest Injury Could End His Jazz Summer League Run",
     "source_url": "https://www.si.com/nba/jazz/onsi/ace-bailey-s-latest-injury-could-end-his-jazz-summer-league-run",
     "location": "Salt Lake City, Utah",
-    "league": "NBA Summer League"
+    "league": "NBA Summer League",
+    "financial_impact_calculation": "$78,272 prorated sunk cost (annual salary ~$9.52M per Spotrac \u00f7 365 \u00d7 3 days out) [assumption: held out as precaution, no formal diagnosis/timeline, day-to-day default]",
+    "financial_impact_amount": 78272
   },
   {
     "guid": "nba-quaintance-2026-07-10",
@@ -1191,13 +1270,14 @@
     "sport": "Basketball",
     "injury_context": "Knee injury",
     "duration": "Will sit out the entire 2026 NBA Summer League",
-    "financial_impact": "$106,925 prorated sunk cost (annual salary ~$3.9M per Spotrac \u00f7 365 \u00d7 10 days out) [assumption: ruled out for entire 2026 NBA Summer League, ~July 10-20]",
     "team_impact": "Spurs lose Summer League evaluation reps for their rookie",
     "date_reported": "2026-07-10",
     "source_title": "Yahoo Sports - San Antonio Spurs Rookie Jayden Quaintance to Sit Out 2026 Summer League",
     "source_url": "https://sports.yahoo.com/articles/san-antonio-spurs-rookie-jayden-184347004.html",
     "location": "San Antonio, Texas",
-    "league": "NBA Summer League"
+    "league": "NBA Summer League",
+    "financial_impact_calculation": "$106,925 prorated sunk cost (annual salary ~$3.9M per Spotrac \u00f7 365 \u00d7 10 days out) [assumption: ruled out for entire 2026 NBA Summer League, ~July 10-20]",
+    "financial_impact_amount": 106925
   },
   {
     "guid": "wnba-brink-2026-07-12",
@@ -1206,13 +1286,14 @@
     "sport": "Basketball",
     "injury_context": "Left ankle sprain, suffered turning her ankle in a loss to the Golden State Valkyries",
     "duration": "Expected out at least two weeks, to be reevaluated after that; coach indicated it could extend longer",
-    "financial_impact": "$18,942 prorated sunk cost (annual salary ~$493,851 per Spotrac \u00f7 365 \u00d7 14 days out) [expected out at least two weeks]",
     "team_impact": "Sparks lose their starting forward for at least two weeks; unrelated to her prior knee issues",
     "date_reported": "2026-07-12",
     "source_title": "ESPN - Sparks' Cameron Brink out undetermined time with ankle sprain",
     "source_url": "https://www.espn.com/wnba/story/_/id/49098901/sparks-cameron-brink-undetermined-ankle-sprain",
     "location": "Los Angeles, California",
-    "league": "WNBA"
+    "league": "WNBA",
+    "financial_impact_calculation": "$18,942 prorated sunk cost (annual salary ~$493,851 per Spotrac \u00f7 365 \u00d7 14 days out) [expected out at least two weeks]",
+    "financial_impact_amount": 18942
   },
   {
     "guid": "mlb-yastrzemski-2026-07-12",
@@ -1221,13 +1302,14 @@
     "sport": "Baseball",
     "injury_context": "Left elbow inflammation",
     "duration": "Placed on the 10-day injured list",
-    "financial_impact": "$246,575 prorated sunk cost (annual salary ~$9M per Spotrac \u00f7 365 \u00d7 10 days out)",
     "team_impact": "Braves lose an outfield bat for at least 10 days",
     "date_reported": "2026-07-12",
     "source_title": "Yardbarker - 2026 Injury Report: Updates on Bichette, Lodolo, Misiorowski",
     "source_url": "https://www.yardbarker.com/mlb/articles/2026_injury_report_updates_on_bichette_lodolo_misiorowski/s1_17653_44053323",
     "location": "Atlanta (Cumberland), Georgia",
-    "league": "MLB"
+    "league": "MLB",
+    "financial_impact_calculation": "$246,575 prorated sunk cost (annual salary ~$9M per Spotrac \u00f7 365 \u00d7 10 days out)",
+    "financial_impact_amount": 246575
   },
   {
     "guid": "mlb-harrison-2026-07-12",
@@ -1236,13 +1318,14 @@
     "sport": "Baseball",
     "injury_context": "Left forearm tightness",
     "duration": "Placed on the 15-day injured list, retroactive to July 9",
-    "financial_impact": "$32,305 prorated sunk cost (annual salary ~$786,100 per Spotrac \u00f7 365 \u00d7 15 days out)",
     "team_impact": "Brewers lose a starting pitching option for at least 15 days",
     "date_reported": "2026-07-12",
     "source_title": "Yardbarker - 2026 Injury Report: Updates on Bichette, Lodolo, Misiorowski",
     "source_url": "https://www.yardbarker.com/mlb/articles/2026_injury_report_updates_on_bichette_lodolo_misiorowski/s1_17653_44053323",
     "location": "Milwaukee, Wisconsin",
-    "league": "MLB"
+    "league": "MLB",
+    "financial_impact_calculation": "$32,305 prorated sunk cost (annual salary ~$786,100 per Spotrac \u00f7 365 \u00d7 15 days out)",
+    "financial_impact_amount": 32305
   },
   {
     "guid": "golf-vegas-2026-07-12",
@@ -1251,13 +1334,14 @@
     "sport": "Golf",
     "injury_context": "Shoulder issue",
     "duration": "Withdrew from the John Deere Classic and the Genesis Scottish Open",
-    "financial_impact": "Not disclosed in available reporting \u2014 no specific prize money forfeiture figure found Potential prize money at stake (ceiling, not a claim of what the athlete would have won): $8.8M total tournament prize purse for the 2026 John Deere Classic (per Golf Channel).",
     "team_impact": "Not disclosed in available reporting",
     "date_reported": "2026-07-12",
     "source_title": "Heavy.com - $45 Million Golfer & Multiple Others Abruptly Withdraw From Genesis Scottish Open",
     "source_url": "https://heavy.com/sports/golf/brooks-koepka-withdraw-jon-rahm-genesis-scottish-open/",
     "location": "N/A \u2014 individual tour athlete, no fixed team location",
-    "league": "PGA Tour"
+    "league": "PGA Tour",
+    "financial_impact_calculation": "Not disclosed in available reporting \u2014 no specific prize money forfeiture figure found Potential prize money at stake (ceiling, not a claim of what the athlete would have won): $8.8M total tournament prize purse for the 2026 John Deere Classic (per Golf Channel).",
+    "financial_impact_amount": null
   },
   {
     "guid": "atp-bellucci-2026-07-12",
@@ -1266,13 +1350,14 @@
     "sport": "Tennis",
     "injury_context": "Knee issue, sustained during a Wimbledon warm-up",
     "duration": "Withdrew from the Swiss Open Gstaad; had already missed Wimbledon because of the injury",
-    "financial_impact": "Not disclosed in available reporting \u2014 no specific prize money forfeiture figure found Potential prize money at stake (ceiling, not a claim of what the athlete would have won): \u20ac612,620 total tournament prize purse for the 2026 EFG Swiss Open Gstaad (per Perfect Tennis).",
     "team_impact": "Not disclosed in available reporting",
     "date_reported": "2026-07-12",
     "source_title": "Last Word on Sports - Five Players Withdraw From the 2026 Swiss Open Gstaad",
     "source_url": "https://lastwordonsports.com/tennis/2026/07/12/five-players-withdraw-from-the-2026-swiss-open-gstaad/",
     "location": "N/A \u2014 individual tour athlete, no fixed team location",
-    "league": "ATP Tour"
+    "league": "ATP Tour",
+    "financial_impact_calculation": "Not disclosed in available reporting \u2014 no specific prize money forfeiture figure found Potential prize money at stake (ceiling, not a claim of what the athlete would have won): \u20ac612,620 total tournament prize purse for the 2026 EFG Swiss Open Gstaad (per Perfect Tennis).",
+    "financial_impact_amount": null
   },
   {
     "guid": "wta-joint-2026-07-12",
@@ -1281,13 +1366,14 @@
     "sport": "Tennis",
     "injury_context": "Back injury, described as a season-long issue",
     "duration": "Withdrew from WTA Athens to rest ahead of the second half of the season",
-    "financial_impact": "Not disclosed in available reporting \u2014 no specific prize money forfeiture figure found Potential prize money at stake (ceiling, not a claim of what the athlete would have won): $283,347 total tournament prize purse for the 2026 Athens Open (WTA 250) (per Perfect Tennis).",
     "team_impact": "Not disclosed in available reporting",
     "date_reported": "2026-07-12",
     "source_title": "Last Word on Sports - 15 Players Withdraw from WTA Athens and Iasi",
     "source_url": "https://lastwordonsports.com/tennis/2026/07/12/withdraw-wta-athens-iasi/",
     "location": "N/A \u2014 individual tour athlete, no fixed team location",
-    "league": "WTA Tour"
+    "league": "WTA Tour",
+    "financial_impact_calculation": "Not disclosed in available reporting \u2014 no specific prize money forfeiture figure found Potential prize money at stake (ceiling, not a claim of what the athlete would have won): $283,347 total tournament prize purse for the 2026 Athens Open (WTA 250) (per Perfect Tennis).",
+    "financial_impact_amount": null
   },
   {
     "guid": "ufc-holland-2026-07-13",
@@ -1296,13 +1382,14 @@
     "sport": "Mixed Martial Arts",
     "injury_context": "Undisclosed injury",
     "duration": "Pulled from his scheduled bout with Jacobe Smith at UFC Oklahoma City (July 18); bout removed from the card",
-    "financial_impact": "Not disclosed in available reporting \u2014 no specific prize money forfeiture figure found",
     "team_impact": "Not disclosed in available reporting",
     "date_reported": "2026-07-13",
     "source_title": "UFC.com - Updates To UFC Oklahoma City",
     "source_url": "https://www.ufc.com/news/updates-ufc-oklahoma-city",
     "location": "N/A \u2014 individual fighter, not tied to a team location",
-    "league": "UFC"
+    "league": "UFC",
+    "financial_impact_calculation": "Not disclosed in available reporting \u2014 no specific prize money forfeiture figure found",
+    "financial_impact_amount": null
   },
   {
     "guid": "ufc-hardy-2026-07-13",
@@ -1311,13 +1398,14 @@
     "sport": "Mixed Martial Arts",
     "injury_context": "Undisclosed injury",
     "duration": "Pulled from her flyweight bout with Dione Barbosa at UFC Oklahoma City (July 18); replaced by Anna Melisano",
-    "financial_impact": "Not disclosed in available reporting \u2014 no specific prize money forfeiture figure found",
     "team_impact": "Not disclosed in available reporting",
     "date_reported": "2026-07-13",
     "source_title": "UFC.com - Updates To UFC Oklahoma City",
     "source_url": "https://www.ufc.com/news/updates-ufc-oklahoma-city",
     "location": "N/A \u2014 individual fighter, not tied to a team location",
-    "league": "UFC"
+    "league": "UFC",
+    "financial_impact_calculation": "Not disclosed in available reporting \u2014 no specific prize money forfeiture figure found",
+    "financial_impact_amount": null
   },
   {
     "guid": "mls-baiera-2026-07-12",
@@ -1326,13 +1414,14 @@
     "sport": "Soccer",
     "injury_context": "Ruptured ACL, left knee",
     "duration": "Will undergo surgery; out for an extended rehabilitation period",
-    "financial_impact": "$1,553 prorated sunk cost (annual salary ~$113,400 per Capology \u00f7 365 \u00d7 5 days out; no specific recovery timeline disclosed, conservative 5-day default used)",
     "team_impact": "NYCFC loses a defender for the remainder of the season",
     "date_reported": "2026-07-12",
     "source_title": "MLSsoccer.com - Player Availability Report",
     "source_url": "https://www.mlssoccer.com/news/mlssoccer-com-injury-report",
     "location": "New York (Bronx), New York",
-    "league": "MLS"
+    "league": "MLS",
+    "financial_impact_calculation": "$1,553 prorated sunk cost (annual salary ~$113,400 per Capology \u00f7 365 \u00d7 5 days out; no specific recovery timeline disclosed, conservative 5-day default used)",
+    "financial_impact_amount": 1553
   },
   {
     "guid": "mls-morris-2026-07-12",
@@ -1341,13 +1430,14 @@
     "sport": "Soccer",
     "injury_context": "ACL injury, sustained while on loan at Swansea City",
     "duration": "Returning to the U.S. for surgery with Dr. Bert Mandelbaum; out for an extended period",
-    "financial_impact": "$30,822 prorated sunk cost (annual salary ~$2.25M per Capology \u00f7 365 \u00d7 5 days out; no specific recovery timeline disclosed, conservative 5-day default used)",
     "team_impact": "Sounders and USMNT lose a veteran forward for an extended stretch",
     "date_reported": "2026-07-12",
     "source_title": "MLSsoccer.com - Player Availability Report",
     "source_url": "https://www.mlssoccer.com/news/mlssoccer-com-injury-report",
     "location": "Seattle, Washington",
-    "league": "MLS"
+    "league": "MLS",
+    "financial_impact_calculation": "$30,822 prorated sunk cost (annual salary ~$2.25M per Capology \u00f7 365 \u00d7 5 days out; no specific recovery timeline disclosed, conservative 5-day default used)",
+    "financial_impact_amount": 30822
   },
   {
     "guid": "mls-petkovic-2026-07-12",
@@ -1356,13 +1446,14 @@
     "sport": "Soccer",
     "injury_context": "ACL reconstruction surgery",
     "duration": "Ruled out for the remainder of the 2026 season",
-    "financial_impact": "$64,658 prorated sunk cost (annual salary cap hit ~$200,000 per Capology \u00f7 365 \u00d7 118 days out; days out estimated from date reported to 2026 MLS regular season end ~Nov 7)",
     "team_impact": "Sounders lose a midfielder for the rest of the season",
     "date_reported": "2026-07-12",
     "source_title": "MLSsoccer.com - Player Availability Report",
     "source_url": "https://www.mlssoccer.com/news/mlssoccer-com-injury-report",
     "location": "Seattle, Washington",
-    "league": "MLS"
+    "league": "MLS",
+    "financial_impact_calculation": "$64,658 prorated sunk cost (annual salary cap hit ~$200,000 per Capology \u00f7 365 \u00d7 118 days out; days out estimated from date reported to 2026 MLS regular season end ~Nov 7)",
+    "financial_impact_amount": 64658
   },
   {
     "guid": "gymnastics-whitlock-2026-07-13",
@@ -1371,13 +1462,14 @@
     "sport": "Gymnastics",
     "injury_context": "Hand injury, sustained in training",
     "duration": "Withdrew from the Glasgow 2026 Commonwealth Games (July 23-Aug 2), announced 10 days before the Games began",
-    "financial_impact": "Not applicable \u2014 no fixed salary information available for this national-team context",
     "team_impact": "Removes the three-time Olympic and 10-time Commonwealth Games medalist pommel horse specialist from Team England's squad",
     "date_reported": "2026-07-13",
     "source_title": "Olympics.com - Max Whitlock withdraws from Glasgow 2026 Commonwealth Games with hand injury",
     "source_url": "https://www.olympics.com/en/news/max-whitlock-withdraws-glasgow-2026-commonwealth-games-with-hand-injury",
     "location": "England",
-    "league": "Commonwealth Games / British Gymnastics"
+    "league": "Commonwealth Games / British Gymnastics",
+    "financial_impact_calculation": "Not applicable \u2014 no fixed salary information available for this national-team context",
+    "financial_impact_amount": null
   },
   {
     "guid": "golf-oosthuizen-2026-07-13",
@@ -1386,13 +1478,14 @@
     "sport": "Golf",
     "injury_context": "Back injury",
     "duration": "Withdrew from The Open Championship at Royal Birkdale; also pulled out of next week's LIV Golf event at JCB Golf & Country Club",
-    "financial_impact": "Not disclosed in available reporting \u2014 no specific prize money forfeiture figure found Potential prize money at stake (ceiling, not a claim of what the athlete would have won): $17.75M total tournament prize purse for the 2026 Open Championship at Royal Birkdale (per Forbes/PGA Tour).",
     "team_impact": "Removes the 2010 Open champion from the 156-man field; Aldrich Potgieter promoted as first alternate",
     "date_reported": "2026-07-13",
     "source_title": "Golf Monthly - Past Champion Louis Oosthuizen Forced To Withdraw From 2026 Open Due To Injury",
     "source_url": "https://www.golfmonthly.com/news/louis-oosthuizen-forced-to-withdraw-from-2026-open-due-to-injury",
     "location": "N/A \u2014 individual tour athlete, no fixed team location",
-    "league": "PGA Tour / LIV Golf"
+    "league": "PGA Tour / LIV Golf",
+    "financial_impact_calculation": "Not disclosed in available reporting \u2014 no specific prize money forfeiture figure found Potential prize money at stake (ceiling, not a claim of what the athlete would have won): $17.75M total tournament prize purse for the 2026 Open Championship at Royal Birkdale (per Forbes/PGA Tour).",
+    "financial_impact_amount": null
   },
   {
     "guid": "mlb-cox-2026-07-06",
@@ -1401,13 +1494,14 @@
     "sport": "Baseball",
     "injury_context": "Left oblique strain",
     "duration": "Placed on the 10-day injured list, retroactive to July 6; expected return in the second half of the season",
-    "financial_impact": "$8,219 prorated sunk cost (annual salary ~$300,000 per Spotrac \u00f7 365 \u00d7 10 days out)",
     "team_impact": "Giants lose an outfielder for at least the minimum IL stint",
     "date_reported": "2026-07-06",
     "source_title": "MLB.com - Latest Giants injuries & transactions",
     "source_url": "https://www.mlb.com/news/giants-injuries-and-roster-moves",
     "location": "San Francisco, California",
-    "league": "MLB"
+    "league": "MLB",
+    "financial_impact_calculation": "$8,219 prorated sunk cost (annual salary ~$300,000 per Spotrac \u00f7 365 \u00d7 10 days out)",
+    "financial_impact_amount": 8219
   },
   {
     "guid": "mlb-gage-2026-07-11",
@@ -1416,13 +1510,14 @@
     "sport": "Baseball",
     "injury_context": "Left elbow strain",
     "duration": "On the 15-day IL since July 4; received a PRP injection on July 11 with re-evaluation in four weeks",
-    "financial_impact": "$65,205 prorated sunk cost (annual salary ~$850,000 per Spotrac \u00f7 365 \u00d7 28 days out)",
     "team_impact": "Giants lose a left-handed relief option for at least a month",
     "date_reported": "2026-07-11",
     "source_title": "MLB.com - Latest Giants injuries & transactions",
     "source_url": "https://www.mlb.com/news/giants-injuries-and-roster-moves",
     "location": "San Francisco, California",
-    "league": "MLB"
+    "league": "MLB",
+    "financial_impact_calculation": "$65,205 prorated sunk cost (annual salary ~$850,000 per Spotrac \u00f7 365 \u00d7 28 days out)",
+    "financial_impact_amount": 65205
   },
   {
     "guid": "mlb-chapman-2026-07-10",
@@ -1431,13 +1526,14 @@
     "sport": "Baseball",
     "injury_context": "Abdominal strain",
     "duration": "On the 10-day IL since July 1; shut down through the weekend of July 10-12",
-    "financial_impact": "$684,932 prorated sunk cost (annual salary ~$25M per Spotrac \u00f7 365 \u00d7 10 days out)",
     "team_impact": "Giants lose their starting third baseman for an extended stretch",
     "date_reported": "2026-07-10",
     "source_title": "MLB.com - Latest Giants injuries & transactions",
     "source_url": "https://www.mlb.com/news/giants-injuries-and-roster-moves",
     "location": "San Francisco, California",
-    "league": "MLB"
+    "league": "MLB",
+    "financial_impact_calculation": "$684,932 prorated sunk cost (annual salary ~$25M per Spotrac \u00f7 365 \u00d7 10 days out)",
+    "financial_impact_amount": 684932
   },
   {
     "guid": "mlb-bericoto-2026-07-10",
@@ -1446,13 +1542,14 @@
     "sport": "Baseball",
     "injury_context": "Left oblique strain, exited a game on July 9",
     "duration": "Diagnosed July 10; recovery timeline not yet disclosed",
-    "financial_impact": "$10,685 prorated sunk cost (annual salary ~$780,000 per Spotrac \u00f7 365 \u00d7 5 days out; recovery timeline undisclosed, conservative 5-day default used)",
     "team_impact": "Giants lose another outfield option amid multiple oblique injuries in the unit",
     "date_reported": "2026-07-10",
     "source_title": "MLB.com - Latest Giants injuries & transactions",
     "source_url": "https://www.mlb.com/news/giants-injuries-and-roster-moves",
     "location": "San Francisco, California",
-    "league": "MLB"
+    "league": "MLB",
+    "financial_impact_calculation": "$10,685 prorated sunk cost (annual salary ~$780,000 per Spotrac \u00f7 365 \u00d7 5 days out; recovery timeline undisclosed, conservative 5-day default used)",
+    "financial_impact_amount": 10685
   },
   {
     "guid": "mlb-soler-2026-07-11",
@@ -1461,13 +1558,14 @@
     "sport": "Baseball",
     "injury_context": "Left oblique strain; scratched a day earlier with hip tightness",
     "duration": "Placed on the 10-day injured list",
-    "financial_impact": "$356,164 prorated sunk cost (annual salary ~$13M per Spotrac \u00f7 365 \u00d7 10 days out)",
     "team_impact": "Angels lose their outfielder/DH for at least 10 days",
     "date_reported": "2026-07-11",
     "source_title": "CBS Sports - Los Angeles Angels Injury Report and Status 2026",
     "source_url": "https://www.cbssports.com/mlb/teams/LAA/los-angeles-angels/injuries/",
     "location": "Anaheim, California",
-    "league": "MLB"
+    "league": "MLB",
+    "financial_impact_calculation": "$356,164 prorated sunk cost (annual salary ~$13M per Spotrac \u00f7 365 \u00d7 10 days out)",
+    "financial_impact_amount": 356164
   },
   {
     "guid": "mlb-hancock-2026-07-12",
@@ -1476,13 +1574,14 @@
     "sport": "Baseball",
     "injury_context": "Right middle finger contusion; negative X-rays",
     "duration": "Day-to-day after exiting his start on July 12",
-    "financial_impact": "$6,520 prorated sunk cost (annual salary ~$793,300 per Spotrac \u00f7 365 \u00d7 3 days out)",
     "team_impact": "Mariners monitor a rotation piece heading toward the All-Star break",
     "date_reported": "2026-07-12",
     "source_title": "MLB.com - Latest Mariners injuries and transactions",
     "source_url": "https://www.mlb.com/news/mariners-injuries-and-roster-moves",
     "location": "Seattle, Washington",
-    "league": "MLB"
+    "league": "MLB",
+    "financial_impact_calculation": "$6,520 prorated sunk cost (annual salary ~$793,300 per Spotrac \u00f7 365 \u00d7 3 days out)",
+    "financial_impact_amount": 6520
   },
   {
     "guid": "mlb-wwilson-2026-07-12",
@@ -1491,13 +1590,14 @@
     "sport": "Baseball",
     "injury_context": "Fractured left thumb",
     "duration": "Pulled from his rehab assignment due to pain; may require season-ending surgery",
-    "financial_impact": "$166,685 prorated sunk cost (annual salary ~$780,000 per Spotrac \u00f7 365 \u00d7 78 days out; possible season-ending surgery, days out estimated from date reported to MLB regular season end ~Sept 28)",
     "team_impact": "Mariners' infield depth option now faces a possible lost season",
     "date_reported": "2026-07-12",
     "source_title": "MLB.com - Latest Mariners injuries and transactions",
     "source_url": "https://www.mlb.com/news/mariners-injuries-and-roster-moves",
     "location": "Seattle, Washington",
-    "league": "MLB"
+    "league": "MLB",
+    "financial_impact_calculation": "$166,685 prorated sunk cost (annual salary ~$780,000 per Spotrac \u00f7 365 \u00d7 78 days out; possible season-ending surgery, days out estimated from date reported to MLB regular season end ~Sept 28)",
+    "financial_impact_amount": 166685
   },
   {
     "guid": "mlb-ragans-2026-07-01",
@@ -1506,13 +1606,14 @@
     "sport": "Baseball",
     "injury_context": "Left elbow UCL tear",
     "duration": "Underwent UCL repair surgery July 1; 10-12 month recovery timeline",
-    "financial_impact": "$4,068,493 prorated sunk cost (annual salary ~$4.5M per Spotrac \u00f7 365 \u00d7 330 days out; 10-12 month recovery timeline, midpoint of 11 months used)",
     "team_impact": "Royals lose their staff ace for the remainder of 2026 and into 2027",
     "date_reported": "2026-07-01",
     "source_title": "CBS Sports - Kansas City Royals Injury Report and Status 2026",
     "source_url": "https://www.cbssports.com/mlb/teams/KC/kansas-city-royals/injuries/",
     "location": "Kansas City, Missouri",
-    "league": "MLB"
+    "league": "MLB",
+    "financial_impact_calculation": "$4,068,493 prorated sunk cost (annual salary ~$4.5M per Spotrac \u00f7 365 \u00d7 330 days out; 10-12 month recovery timeline, midpoint of 11 months used)",
+    "financial_impact_amount": 4068493
   },
   {
     "guid": "atp-comesana-2026-07-12",
@@ -1521,13 +1622,14 @@
     "sport": "Tennis",
     "injury_context": "Undisclosed injury",
     "duration": "Withdrew from the Swiss Open Gstaad and a Challenger event in Germany",
-    "financial_impact": "Not disclosed in available reporting \u2014 no specific prize money forfeiture figure found Potential prize money at stake (ceiling, not a claim of what the athlete would have won): \u20ac612,620 total tournament prize purse for the 2026 EFG Swiss Open Gstaad (per ATP Tour/Perfect Tennis).",
     "team_impact": "Not disclosed in available reporting",
     "date_reported": "2026-07-12",
     "source_title": "Last Word on Sports - Five Players Withdraw From the 2026 Swiss Open Gstaad",
     "source_url": "https://lastwordonsports.com/tennis/2026/07/12/five-players-withdraw-from-the-2026-swiss-open-gstaad/",
     "location": "N/A \u2014 individual tour athlete, no fixed team location",
-    "league": "ATP Tour"
+    "league": "ATP Tour",
+    "financial_impact_calculation": "Not disclosed in available reporting \u2014 no specific prize money forfeiture figure found Potential prize money at stake (ceiling, not a claim of what the athlete would have won): \u20ac612,620 total tournament prize purse for the 2026 EFG Swiss Open Gstaad (per ATP Tour/Perfect Tennis).",
+    "financial_impact_amount": null
   },
   {
     "guid": "rugby-mitchell-2026-07-13",
@@ -1536,13 +1638,14 @@
     "sport": "Rugby Union",
     "injury_context": "Hamstring injury, sustained 9 minutes after coming on as a second-half replacement vs. Fiji; his third hamstring injury of the season",
     "duration": "Ruled out of England's final Nations Championship match against Argentina in Santiago del Estero",
-    "financial_impact": "Not applicable \u2014 no fixed salary information available for this national-team context",
     "team_impact": "England loses its first-choice scrum-half for the climax of the July tour",
     "date_reported": "2026-07-13",
     "source_title": "RugbyPass - Steve Borthwick confirms series-ending injury to take sheen off England win",
     "source_url": "https://www.rugbypass.com/news/injured-alex-mitchell-ruled-out-of-argentina-clash-after-england-hammer-fiji/",
     "location": "England",
-    "league": "Rugby Union (Nations Championship / Lions)"
+    "league": "Rugby Union (Nations Championship / Lions)",
+    "financial_impact_calculation": "Not applicable \u2014 no fixed salary information available for this national-team context",
+    "financial_impact_amount": null
   },
   {
     "guid": "swimming-marchand-2026-07-13",
@@ -1551,13 +1654,14 @@
     "sport": "Swimming",
     "injury_context": "Right adductor muscle injury, felt during the 200m breaststroke heats; suspected lesion, though initial ultrasound/MRI showed no major abnormality",
     "duration": "Withdrew from the final three days of the French Championships to continue treatment",
-    "financial_impact": "Not disclosed in available reporting \u2014 no specific prize money forfeiture figure found",
     "team_impact": "His place at the European Aquatics Championships Paris 2026 (Aug 10-16) is not in doubt, as he has already qualified in one event",
     "date_reported": "2026-07-13",
     "source_title": "European Aquatics - Marchand withdraws from rest of French Championships to continue treatment on leg muscle injury",
     "source_url": "https://europeanaquatics.org/marchand-withdraws-from-rest-of-french-championships-to-continue-treatment-on-leg-muscle-injury/",
     "location": "France",
-    "league": "International Swimming (national federation)"
+    "league": "International Swimming (national federation)",
+    "financial_impact_calculation": "Not disclosed in available reporting \u2014 no specific prize money forfeiture figure found",
+    "financial_impact_amount": null
   },
   {
     "guid": "rugby-penaud-2026-07-13",
@@ -1566,13 +1670,14 @@
     "sport": "Rugby Union",
     "injury_context": "Calf injury",
     "duration": "Ruled out of France's remaining Nations Championship matches vs. Australia (July 13, Brisbane) and Japan (July 18, Tokyo)",
-    "financial_impact": "Not applicable \u2014 no fixed salary information available for this national-team context",
     "team_impact": "France loses a starting winger for the rest of its Nations Championship campaign",
     "date_reported": "2026-07-13",
     "source_title": "NBC Sports - Injured Damian Penaud to miss France games against Australia and Japan in Nations Championship",
     "source_url": "https://www.nbcsports.com/rugby/news/injured-damian-penaud-to-miss-france-games-against-australia-and-japan-in-nations-championship",
     "location": "France",
-    "league": "Rugby Union (Nations Championship)"
+    "league": "Rugby Union (Nations Championship)",
+    "financial_impact_calculation": "Not applicable \u2014 no fixed salary information available for this national-team context",
+    "financial_impact_amount": null
   },
   {
     "guid": "rugby-delany-2026-07-13",
@@ -1581,13 +1686,14 @@
     "sport": "Rugby Union",
     "injury_context": "Concussion, sustained in the semi-final",
     "duration": "Availability for the Super Rugby Pacific Grand Final uncertain pending return-to-play protocols",
-    "financial_impact": "Not disclosed \u2014 individual Super Rugby Pacific player salaries are confidential (New Zealand Rugby publishes only general pay-band ranges, not player-specific figures)",
     "team_impact": "Hurricanes risk being without a forward for the Grand Final",
     "date_reported": "2026-07-13",
     "source_title": "Super Rugby Pacific - Casualty Ward Super Rugby Pacific Grand Final",
     "source_url": "https://blog.draftrugby.com/p/casualty-ward-super-rugby-pacific-094",
     "location": "Wellington, New Zealand",
-    "league": "Super Rugby Pacific"
+    "league": "Super Rugby Pacific",
+    "financial_impact_calculation": "Not disclosed \u2014 individual Super Rugby Pacific player salaries are confidential (New Zealand Rugby publishes only general pay-band ranges, not player-specific figures)",
+    "financial_impact_amount": null
   },
   {
     "guid": "rugby-wild-2026-07-13",
@@ -1596,13 +1702,14 @@
     "sport": "Rugby Union",
     "injury_context": "Shoulder injury",
     "duration": "Listed as a doubt for the Super Rugby Pacific Grand Final despite hopes of being available",
-    "financial_impact": "Not disclosed \u2014 individual Super Rugby Pacific player salaries are confidential (New Zealand Rugby publishes only general pay-band ranges, not player-specific figures)",
     "team_impact": "Chiefs risk being without a forward for the Grand Final",
     "date_reported": "2026-07-13",
     "source_title": "Super Rugby Pacific - Casualty Ward Super Rugby Pacific Grand Final",
     "source_url": "https://blog.draftrugby.com/p/casualty-ward-super-rugby-pacific-094",
     "location": "Hamilton, New Zealand",
-    "league": "Super Rugby Pacific"
+    "league": "Super Rugby Pacific",
+    "financial_impact_calculation": "Not disclosed \u2014 individual Super Rugby Pacific player salaries are confidential (New Zealand Rugby publishes only general pay-band ranges, not player-specific figures)",
+    "financial_impact_amount": null
   },
   {
     "guid": "nba-martin-2026-07-11",
@@ -1611,13 +1718,14 @@
     "sport": "Basketball",
     "injury_context": "Knee inflammation",
     "duration": "Ruled out of the Raptors' Summer League game vs. Houston on July 11; no firm return timeline given in available reporting",
-    "financial_impact": "$17,961 prorated sunk cost (annual salary ~$2.19M per Spotrac [2026-27 base salary on new 2-year deal] \u00f7 365 \u00d7 3 days out) [assumption: single-game absence, no diagnosis timeline given, day-to-day default]",
     "team_impact": "Raptors without a rotation guard for Summer League evaluation reps, joining fellow injury absentee Collin Murray-Boyles on the sideline",
     "date_reported": "2026-07-11",
     "source_title": "Yardbarker - Collin Murray-Boyles, Alijah Martin to miss Raptors' Summer League opener",
     "source_url": "https://www.yardbarker.com/nba/articles/collin_murray_boyles_alijah_martin_to_miss_raptors_summer_league_opener/s1_17733_44049064",
     "location": "Toronto, Ontario, Canada (team); Las Vegas, Nevada (Summer League site)",
-    "league": "NBA Summer League"
+    "league": "NBA Summer League",
+    "financial_impact_calculation": "$17,961 prorated sunk cost (annual salary ~$2.19M per Spotrac [2026-27 base salary on new 2-year deal] \u00f7 365 \u00d7 3 days out) [assumption: single-game absence, no diagnosis timeline given, day-to-day default]",
+    "financial_impact_amount": 17961
   },
   {
     "guid": "golf-rodgers-2026-07-02",
@@ -1626,13 +1734,14 @@
     "sport": "Golf",
     "injury_context": "Back injury",
     "duration": "Withdrew from the John Deere Classic prior to the first round on July 2; no recovery timeline disclosed",
-    "financial_impact": "Not disclosed in available reporting \u2014 no specific prize money forfeiture figure found Potential prize money at stake (ceiling, not a claim of what the athlete would have won): $8.8M total tournament prize purse for the 2026 John Deere Classic (per Golf Channel).",
     "team_impact": "Not disclosed in available reporting",
     "date_reported": "2026-07-02",
     "source_title": "Golf Monthly - Pro Withdraws From John Deere Classic Hours Before First Round",
     "source_url": "https://www.golfmonthly.com/news/patrick-rodgers-withdraws-john-deere-classic-2026",
     "location": "N/A \u2014 individual tour athlete, no fixed team location",
-    "league": "PGA Tour"
+    "league": "PGA Tour",
+    "financial_impact_calculation": "Not disclosed in available reporting \u2014 no specific prize money forfeiture figure found Potential prize money at stake (ceiling, not a claim of what the athlete would have won): $8.8M total tournament prize purse for the 2026 John Deere Classic (per Golf Channel).",
+    "financial_impact_amount": null
   },
   {
     "guid": "soccer-mbappe-2026-07-11",
@@ -1641,13 +1750,14 @@
     "sport": "Soccer",
     "injury_context": "Grade 1 right ankle sprain, sustained from a tackle by Morocco's Issa Diop during France's World Cup quarterfinal win",
     "duration": "Substituted in the 77th minute as a precaution; completed training since and expected to be fully available for France's semifinal vs. Spain \u2014 described as day-to-day, no games missed",
-    "financial_impact": "$277,397 prorated sunk cost (annual salary ~\u20ac31.25M / ~$33.75M per Capology [EUR\u2192USD @1.08] \u00f7 365 \u00d7 3 days out) [day-to-day default; reporting indicates no games were actually missed]",
     "team_impact": "Described as a fitness scare for France ahead of the semifinal, but Mbapp\u00e9 and the team said there is no concern about his availability",
     "date_reported": "2026-07-11",
     "source_title": "Forbes - Kylian Mbapp\u00e9 Injury Update Before France's World Cup Semi Vs. Spain",
     "source_url": "https://www.forbes.com/sites/brucelee/2026/07/11/kylian-mbapp-ankle-injury-update-before-frances-world-cup-semi-vs-spain/",
     "location": "Madrid, Spain",
-    "league": "La Liga"
+    "league": "La Liga",
+    "financial_impact_calculation": "$277,397 prorated sunk cost (annual salary ~\u20ac31.25M / ~$33.75M per Capology [EUR\u2192USD @1.08] \u00f7 365 \u00d7 3 days out) [day-to-day default; reporting indicates no games were actually missed]",
+    "financial_impact_amount": 277397
   },
   {
     "guid": "nhl-domi-2026-07-09",
@@ -1656,13 +1766,14 @@
     "sport": "Hockey",
     "injury_context": "Complications from an offseason surgery (undisclosed procedure, originally to address an issue played through in 2025-26); reportedly left him with severe mobility issues after the procedure",
     "duration": "Out indefinitely; will be re-evaluated at the start of training camp in September, with availability for the 2026-27 season in question",
-    "financial_impact": "$616,438 prorated sunk cost (annual salary ~$3.75M AAV per Spotrac \u00f7 365 \u00d7 60 days out) [assumption: 60 days used as the near-term horizon to the September training-camp re-evaluation date; reporting indicates his full 2026-27 season could be at risk if complications persist, which would raise this figure substantially]",
     "team_impact": "Maple Leafs face uncertainty over a key veteran forward's availability for training camp and potentially the start of next season",
     "date_reported": "2026-07-09",
     "source_title": "NHL.com - Max Domi has 'complications' after surgery, out indefinitely for Maple Leafs",
     "source_url": "https://www.nhl.com/news/max-domi-has-complications-after-surgery-out-indefinitely-for-maple-leafs",
     "location": "Toronto, Ontario, Canada",
-    "league": "NHL"
+    "league": "NHL",
+    "financial_impact_calculation": "$616,438 prorated sunk cost (annual salary ~$3.75M AAV per Spotrac \u00f7 365 \u00d7 60 days out) [assumption: 60 days used as the near-term horizon to the September training-camp re-evaluation date; reporting indicates his full 2026-27 season could be at risk if complications persist, which would raise this figure substantially]",
+    "financial_impact_amount": 616438
   },
   {
     "guid": "mlb-rodon-2026-07-13",
@@ -1671,13 +1782,14 @@
     "sport": "Baseball",
     "injury_context": "Left elbow inflammation",
     "duration": "Resumed throwing daily as of July 13; possible late-July return to the rotation",
-    "financial_impact": "$1,109,589 prorated sunk cost (annual salary ~$27M per Spotrac \u00f7 365 \u00d7 15 days out) [estimate: ~15 days from July 13 to a \"late July\" return target]",
     "team_impact": "Yankees without a rotation starter for a portion of the stretch run, though a return is targeted before the end of the month",
     "date_reported": "2026-07-13",
     "source_title": "MLB.com - Baseball injury updates",
     "source_url": "https://www.mlb.com/news/baseball-injury-updates",
     "location": "New York, New York (Bronx)",
-    "league": "MLB"
+    "league": "MLB",
+    "financial_impact_calculation": "$1,109,589 prorated sunk cost (annual salary ~$27M per Spotrac \u00f7 365 \u00d7 15 days out) [estimate: ~15 days from July 13 to a \"late July\" return target]",
+    "financial_impact_amount": 1109589
   },
   {
     "guid": "mlb-caminero-2026-07-14",
@@ -1686,13 +1798,14 @@
     "sport": "Baseball",
     "injury_context": "Right hand injury after being hit by a pitch during the 2026 All-Star Game; X-rays came back negative",
     "duration": "Day-to-day; no injured list move reported following negative X-rays",
-    "financial_impact": "$6,532 prorated sunk cost (annual salary ~$794,800 per Spotrac \u00f7 365 \u00d7 3 days out)",
     "team_impact": "Rays monitor their All-Star third baseman's availability for the second half after the All-Star Game scare",
     "date_reported": "2026-07-14",
     "source_title": "DraftKings Network - What happened to Junior Caminero? Injury updates for 2026 MLB All-Star Game",
     "source_url": "https://dknetwork.draftkings.com/2026/07/14/what-happened-to-junior-caminero-injury-updates-for-2026-mlb-all-star-game/",
     "location": "St. Petersburg, Florida",
-    "league": "MLB"
+    "league": "MLB",
+    "financial_impact_calculation": "$6,532 prorated sunk cost (annual salary ~$794,800 per Spotrac \u00f7 365 \u00d7 3 days out)",
+    "financial_impact_amount": 6532
   },
   {
     "guid": "mlb-alexander-2026-07-12",
@@ -1701,13 +1814,14 @@
     "sport": "Baseball",
     "injury_context": "Non-displaced fracture in the left hand after being hit by a pitch from Royals reliever Lucas Erceg, sparking a benches-clearing incident",
     "duration": "Expected to miss at least a month; season could be over if surgery is required",
-    "financial_impact": "$65,178 prorated sunk cost (annual salary ~$792,800 per Spotrac \u00f7 365 \u00d7 30 days out) [estimate: 'at least a month' minimum]",
     "team_impact": "Orioles lose a middle infielder for at least a month, with a risk of a season-ending outcome pending further evaluation",
     "date_reported": "2026-07-12",
     "source_title": "MLB Trade Rumors - Orioles' Blaze Alexander Suffers Fractured Hand On HBP",
     "source_url": "https://www.mlbtraderumors.com/2026/07/orioles-blaze-alexander-suffers-fractured-hand-on-hbp.html",
     "location": "Baltimore, Maryland",
-    "league": "MLB"
+    "league": "MLB",
+    "financial_impact_calculation": "$65,178 prorated sunk cost (annual salary ~$792,800 per Spotrac \u00f7 365 \u00d7 30 days out) [estimate: 'at least a month' minimum]",
+    "financial_impact_amount": 65178
   },
   {
     "guid": "mlb-fraley-2026-07-13",
@@ -1716,13 +1830,14 @@
     "sport": "Baseball",
     "injury_context": "Setback related to prior sports hernia surgery; renewed groin discomfort during a rehab assignment at Triple-A Durham",
     "duration": "Pulled from his rehab assignment; faces further evaluation before a return timeline is set, having already been out since May with the hernia",
-    "financial_impact": "$41,096 prorated sunk cost (annual salary ~$3.0M per Spotrac \u00f7 365 \u00d7 5 days out) [undetermined additional recovery time following the rehab setback]",
     "team_impact": "Rays' return timeline for their outfielder is pushed back again, prolonging an IL stint that began in May",
     "date_reported": "2026-07-13",
     "source_title": "Athlon Sports - Rays Player Suffers Unfortunate Injury Setback During Rehab Assignment",
     "source_url": "https://athlonsports.com/mlb/tampa-bay-rays/rays-jake-fraley-rehab-injury-setback",
     "location": "St. Petersburg, Florida",
-    "league": "MLB"
+    "league": "MLB",
+    "financial_impact_calculation": "$41,096 prorated sunk cost (annual salary ~$3.0M per Spotrac \u00f7 365 \u00d7 5 days out) [undetermined additional recovery time following the rehab setback]",
+    "financial_impact_amount": 41096
   },
   {
     "guid": "mlb-gallen-2026-07-12",
@@ -1731,13 +1846,14 @@
     "sport": "Baseball",
     "injury_context": "Right elbow inflammation",
     "duration": "Placed on the 15-day injured list, retroactive to July 9",
-    "financial_impact": "$905,205 prorated sunk cost (annual salary ~$22.025M per Spotrac \u00f7 365 \u00d7 15 days out)",
     "team_impact": "Diamondbacks lose their staff ace for at least two turns through the rotation",
     "date_reported": "2026-07-12",
     "source_title": "Arizona Sports - Diamondbacks place RHP Zac Gallen on 15-day IL, recall Mitch Bratt",
     "source_url": "https://arizonasports.com/mlb/arizona-diamondbacks/zac-gallen-15-day-il-recall-mitch-bratt",
     "location": "Phoenix, Arizona",
-    "league": "MLB"
+    "league": "MLB",
+    "financial_impact_calculation": "$905,205 prorated sunk cost (annual salary ~$22.025M per Spotrac \u00f7 365 \u00d7 15 days out)",
+    "financial_impact_amount": 905205
   },
   {
     "guid": "wnba-cardoso-2026-07-15",
@@ -1746,13 +1862,14 @@
     "sport": "Basketball",
     "injury_context": "Right knee injury",
     "duration": "Listed questionable for the Sky's July 16 game vs. the Seattle Storm; in danger of missing her first game of the season",
-    "financial_impact": "$706 prorated sunk cost (annual salary ~$85,873 per Spotrac \u00f7 365 \u00d7 3 days out) [questionable status, day-to-day default]",
     "team_impact": "Would be the first missed game of the season for the No. 3 overall 2024 pick if she sits; Elizabeth Williams poised for a spot start",
     "date_reported": "2026-07-15",
     "source_title": "Athlon Sports - Final Injury Report for Storm-Sky: Will Kamilla Cardoso, Skylar Diggins Play?",
     "source_url": "https://athlonsports.com/wnba/chicago-sky/final-injury-report-for-storm-sky-will-kamilla-cardoso-skylar-diggins-play",
     "location": "Chicago, Illinois",
-    "league": "WNBA"
+    "league": "WNBA",
+    "financial_impact_calculation": "$706 prorated sunk cost (annual salary ~$85,873 per Spotrac \u00f7 365 \u00d7 3 days out) [questionable status, day-to-day default]",
+    "financial_impact_amount": 706
   },
   {
     "guid": "nba-talexander-2026-07-14",
@@ -1761,13 +1878,14 @@
     "sport": "Basketball",
     "injury_context": "Rib contusion sustained driving to the basket; taken off the court on a stretcher",
     "duration": "Not specified in available reporting; team confirmed rib contusion diagnosis a day after the injury",
-    "financial_impact": "$5,579 prorated sunk cost (annual salary ~$678,882 (two-way) per Hoops Rumors \u00f7 365 \u00d7 3 days out) [assumption: no timeline given, day-to-day default]",
     "team_impact": "Jazz lose a newly-signed two-way guard for Summer League evaluation reps after a scary stretcher exit",
     "date_reported": "2026-07-14",
     "source_title": "Yahoo Sports - Jazz guard Trey Alexander leaves Summer League game on stretcher with rib contusion",
     "source_url": "https://sports.yahoo.com/nba/breaking-news/article/jazz-guard-trey-alexander-leaves-summer-league-game-on-stretcher-with-rib-contusion-055652310.html",
     "location": "Salt Lake City, Utah (team); Las Vegas, Nevada (Summer League site)",
-    "league": "NBA Summer League"
+    "league": "NBA Summer League",
+    "financial_impact_calculation": "$5,579 prorated sunk cost (annual salary ~$678,882 (two-way) per Hoops Rumors \u00f7 365 \u00d7 3 days out) [assumption: no timeline given, day-to-day default]",
+    "financial_impact_amount": 5579
   },
   {
     "guid": "soccer-saliba-2026-07-14",
@@ -1776,13 +1894,14 @@
     "sport": "Soccer",
     "injury_context": "Recurrence of a back issue carried since Arsenal's Champions League final; forced off around the 29th minute of France's World Cup semifinal loss to Spain",
     "duration": "No diagnosis or return timeline disclosed; had been managing the issue throughout the World Cup",
-    "financial_impact": "Not applicable \u2014 no fixed salary information available for this national-team context",
     "team_impact": "Compounds France's growing injury list in a 0-2 semifinal defeat; replaced by Crystal Palace's Maxence Lacroix, with Arsenal also monitoring the issue heading into preseason",
     "date_reported": "2026-07-14",
     "source_title": "beIN Sports - William Saliba leaves the field injured and in tears during the 2026 World Cup semifinal between France and Spain",
     "source_url": "https://www.beinsports.com/en-us/soccer/fifa-world-cup-2026/articles/france-suffers-an-unexpected-blow-that-brings-back-a-painful-scene-from-the-last-world-cup-2026-07-14",
     "location": "London, England",
-    "league": "International Soccer"
+    "league": "International Soccer",
+    "financial_impact_calculation": "Not applicable \u2014 no fixed salary information available for this national-team context",
+    "financial_impact_amount": null
   },
   {
     "guid": "cycling-harper-2026-07-14",
@@ -1791,12 +1910,13 @@
     "sport": "Cycling",
     "injury_context": "Serious injury to the thumb of his left hand, sustained in a crash on the descent of the Puy Mary during stage 10 (same corner where Tom Pidcock and Matteo Jorgenson also crashed); underwent surgery",
     "duration": "Unable to start stage 11; withdrew from the Tour de France; recovery timeline not specified in available reporting",
-    "financial_impact": "Not disclosed in available reporting \u2014 no specific prize money forfeiture figure found Potential prize money at stake (ceiling, not a claim of what the athlete would have won): \u20ac2,302,800 (~$2.6M) total tournament prize purse for the 2026 Tour de France (per Velo/Outside Online).",
     "team_impact": "Q36.5 Pro Cycling Team loses a rider mid-Tour after a dangerous descent that felled multiple riders",
     "date_reported": "2026-07-14",
     "source_title": "idlprocycling - Chris Harper withdraws from the Tour de France with a 'serious injury' after crash in same turn as Pidcock",
     "source_url": "https://www.idlprocycling.com/cycling/chris-harper-withdraws-from-the-tour-de-france-with-a-serious-injury-after-crash-in-same-turn-as-pidcock",
     "location": "Zurich, Switzerland (team HQ)",
-    "league": "UCI ProTeam / Tour de France"
+    "league": "UCI ProTeam / Tour de France",
+    "financial_impact_calculation": "Not disclosed in available reporting \u2014 no specific prize money forfeiture figure found Potential prize money at stake (ceiling, not a claim of what the athlete would have won): \u20ac2,302,800 (~$2.6M) total tournament prize purse for the 2026 Tour de France (per Velo/Outside Online).",
+    "financial_impact_amount": null
   }
 ]

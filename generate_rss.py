@@ -22,11 +22,13 @@ def rfc822(date_str: str) -> str:
 
 
 def item_xml(record: dict) -> str:
+    amount = record["financial_impact_amount"]
+    amount_text = f"${amount:,.0f}" if amount is not None else "N/A"
     description = (
         f"{record['athlete']} ({record['org']}) — {record['injury_context']}. "
         f"Location: {record['location']}. League: {record['league']}. "
         f"Expected duration: {record['duration']}. "
-        f"Financial impact: {record['financial_impact']}. "
+        f"Financial impact: {amount_text} ({record['financial_impact_calculation']}). "
         f"Team impact: {record['team_impact']}."
     )
     return (

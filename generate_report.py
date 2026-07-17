@@ -18,12 +18,15 @@ COLUMNS = [
     ("League", "league", 22),
     ("Injury", "injury_context", 40),
     ("Expected duration", "duration", 30),
-    ("Financial impact", "financial_impact", 30),
+    ("Financial impact ($)", "financial_impact_amount", 18),
+    ("Financial impact (calculation)", "financial_impact_calculation", 40),
     ("Team/game impact", "team_impact", 40),
     ("Date reported", "date_reported", 14),
     ("Source", "source_title", 30),
     ("Source URL", "source_url", 40),
 ]
+
+AMOUNT_COLUMN_KEY = "financial_impact_amount"
 
 
 def main() -> None:
@@ -43,13 +46,17 @@ def main() -> None:
         cell.alignment = Alignment(vertical="center")
         sheet.column_dimensions[cell.column_letter].width = width
 
+    source_url_col = next(i for i, (_, key, _) in enumerate(COLUMNS, start=1) if key == "source_url")
+
     body_font = Font(name="Arial")
     for row_idx, record in enumerate(records, start=2):
         for col_idx, (_, key, _) in enumerate(COLUMNS, start=1):
             cell = sheet.cell(row=row_idx, column=col_idx, value=record[key])
             cell.font = body_font
             cell.alignment = Alignment(wrap_text=True, vertical="top")
-        sheet.cell(row=row_idx, column=len(COLUMNS)).hyperlink = record["source_url"]
+            if key == AMOUNT_COLUMN_KEY and record[key] is not None:
+                cell.number_format = "$#,##0"
+        sheet.cell(row=row_idx, column=source_url_col).hyperlink = record["source_url"]
 
     sheet.freeze_panes = "A2"
     last_row = max(len(records) + 1, 2)
