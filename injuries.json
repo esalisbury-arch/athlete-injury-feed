@@ -12,7 +12,7 @@
     "source_url": "https://www.yardbarker.com/mlb/articles/2026_injury_report_updates_on_buxton_suarez_chisholm_jr/s1_17653_44031703",
     "location": "Minneapolis, Minnesota",
     "league": "MLB",
-    "financial_impact_calculation": "$123,288 prorated sunk cost (annual salary ~$15.00M per Spotrac \u00f7 365 \u00d7 3 days out)",
+    "financial_impact_calculation": "prorated sunk cost (annual salary ~$15.00M per Spotrac \u00f7 365 \u00d7 3 days out)",
     "financial_impact_amount": 123288
   },
   {
@@ -28,7 +28,7 @@
     "source_url": "https://www.yardbarker.com/mlb/articles/2026_injury_report_updates_on_buxton_suarez_chisholm_jr/s1_17653_44031703",
     "location": "Bronx, New York",
     "league": "MLB",
-    "financial_impact_calculation": "$83,836 prorated sunk cost (annual salary ~$10.20M per Spotrac \u00f7 365 \u00d7 3 days out)",
+    "financial_impact_calculation": "prorated sunk cost (annual salary ~$10.20M per Spotrac \u00f7 365 \u00d7 3 days out)",
     "financial_impact_amount": 83836
   },
   {
@@ -44,7 +44,7 @@
     "source_url": "https://www.yardbarker.com/mlb/articles/2026_injury_report_updates_on_buxton_suarez_chisholm_jr/s1_17653_44031703",
     "location": "Philadelphia, Pennsylvania",
     "league": "MLB",
-    "financial_impact_calculation": "$95,890 prorated sunk cost (annual salary ~$7.00M per Spotrac \u00f7 365 \u00d7 5 days out)",
+    "financial_impact_calculation": "prorated sunk cost (annual salary ~$7.00M per Spotrac \u00f7 365 \u00d7 5 days out)",
     "financial_impact_amount": 95890
   },
   {
@@ -60,7 +60,7 @@
     "source_url": "https://www.covers.com/sport/baseball/mlb/injuries",
     "location": "Milwaukee, Wisconsin",
     "league": "MLB",
-    "financial_impact_calculation": "$905,137 prorated sunk cost (annual salary ~$22.02M per Spotrac \u00f7 365 \u00d7 15 days out)",
+    "financial_impact_calculation": "prorated sunk cost (annual salary ~$22.02M per Spotrac \u00f7 365 \u00d7 15 days out)",
     "financial_impact_amount": 905137
   },
   {
@@ -76,7 +76,7 @@
     "source_url": "https://www.yardbarker.com/mlb/articles/2026_injury_report_updates_on_buxton_suarez_chisholm_jr/s1_17653_44031703",
     "location": "Boston, Massachusetts",
     "league": "MLB",
-    "financial_impact_calculation": "$374,932 prorated sunk cost (annual salary ~$1.61M per Spotrac \u00f7 365 \u00d7 85 days out)",
+    "financial_impact_calculation": "prorated sunk cost (annual salary ~$1.61M per Spotrac \u00f7 365 \u00d7 85 days out)",
     "financial_impact_amount": 374932
   },
   {
@@ -92,7 +92,7 @@
     "source_url": "https://bleacherreport.com/articles/25426220-brandon-ingram-injury-update-provided-raptors-after-surgery-latest-timeline-2026-nba-season",
     "location": "Toronto, Ontario, Canada",
     "league": "NBA",
-    "financial_impact_calculation": "$9,424,658 prorated sunk cost (annual salary ~$40.00M per Spotrac \u00f7 365 \u00d7 86 days out)",
+    "financial_impact_calculation": "prorated sunk cost (annual salary ~$40.00M per Spotrac \u00f7 365 \u00d7 86 days out)",
     "financial_impact_amount": 9424658
   },
   {
@@ -108,7 +108,7 @@
     "source_url": "https://bleacherreport.com/articles/25427505-josh-giddey-injury-update-provided-bulls-after-ankle-surgery-latest-timeline-2026-nba-season",
     "location": "Chicago, Illinois",
     "league": "NBA",
-    "financial_impact_calculation": "$6,164,384 prorated sunk cost (annual salary ~$25.00M per Spotrac \u00f7 365 \u00d7 90 days out)",
+    "financial_impact_calculation": "prorated sunk cost (annual salary ~$25.00M per Spotrac \u00f7 365 \u00d7 90 days out)",
     "financial_impact_amount": 6164384
   },
   {
@@ -124,7 +124,7 @@
     "source_url": "https://www.nba.com/news/memphis-grizzlies-jaren-jackson-jr-turf-toe-surgery",
     "location": "Memphis, Tennessee",
     "league": "NBA",
-    "financial_impact_calculation": "$10,632,329 prorated sunk cost (annual salary ~$46.20M per Spotrac \u00f7 365 \u00d7 84 days out)",
+    "financial_impact_calculation": "prorated sunk cost (annual salary ~$46.20M per Spotrac \u00f7 365 \u00d7 84 days out)",
     "financial_impact_amount": 10632329
   },
   {
@@ -140,7 +140,7 @@
     "source_url": "https://www.nba.com/news/clippers-bradley-beal-out-season-hip-fracture",
     "location": "Inglewood (Los Angeles), California",
     "league": "NBA",
-    "financial_impact_calculation": "$1,416,976 prorated sunk cost (annual salary ~$5.62M per Spotrac \u00f7 365 \u00d7 92 days out)",
+    "financial_impact_calculation": "prorated sunk cost (annual salary ~$5.62M per Spotrac \u00f7 365 \u00d7 92 days out)",
     "financial_impact_amount": 1416976
   },
   {
@@ -156,7 +156,7 @@
     "source_url": "https://www.premierleague.com/en/latest-player-injuries",
     "location": "Manchester, England",
     "league": "Premier League",
-    "financial_impact_calculation": "$2,749,019 prorated sunk cost (annual salary ~$8.36M per Capology (GBP\u2192USD @1.34) \u00f7 365 \u00d7 120 days out)",
+    "financial_impact_calculation": "prorated sunk cost (annual salary ~$8.36M per Capology (GBP\u2192USD @1.34) \u00f7 365 \u00d7 120 days out)",
     "financial_impact_amount": 2749019
   },
   {
@@ -172,7 +172,7 @@
     "source_url": "https://www.premierleague.com/en/latest-player-injuries",
     "location": "London, England",
     "league": "Premier League",
-    "financial_impact_calculation": "$162,268 prorated sunk cost (annual salary ~$11.85M per Capology (GBP\u2192USD @1.34) \u00f7 365 \u00d7 5 days out)",
+    "financial_impact_calculation": "prorated sunk cost (annual salary ~$11.85M per Capology (GBP\u2192USD @1.34) \u00f7 365 \u00d7 5 days out)",
     "financial_impact_amount": 162268
   },
   {
@@ -188,7 +188,7 @@
     "source_url": "https://www.premierleague.com/en/latest-player-injuries",
     "location": "Manchester, England",
     "league": "Premier League",
-    "financial_impact_calculation": "$881,977 prorated sunk cost (annual salary ~$15.33M per Capology (GBP\u2192USD @1.34) \u00f7 365 \u00d7 21 days out)",
+    "financial_impact_calculation": "prorated sunk cost (annual salary ~$15.33M per Capology (GBP\u2192USD @1.34) \u00f7 365 \u00d7 21 days out)",
     "financial_impact_amount": 881977
   },
   {
@@ -204,7 +204,7 @@
     "source_url": "https://www.premierleague.com/en/latest-player-injuries",
     "location": "Manchester, England",
     "league": "Premier League",
-    "financial_impact_calculation": "$185,397 prorated sunk cost (annual salary ~$13.53M per Capology (GBP\u2192USD @1.34) \u00f7 365 \u00d7 5 days out)",
+    "financial_impact_calculation": "prorated sunk cost (annual salary ~$13.53M per Capology (GBP\u2192USD @1.34) \u00f7 365 \u00d7 5 days out)",
     "financial_impact_amount": 185397
   },
   {
@@ -220,7 +220,7 @@
     "source_url": "https://www.premierleague.com/en/latest-player-injuries",
     "location": "London, England",
     "league": "Premier League",
-    "financial_impact_calculation": "$52,499 prorated sunk cost (annual salary ~$3.83M per Capology (GBP\u2192USD @1.34) \u00f7 365 \u00d7 5 days out)",
+    "financial_impact_calculation": "prorated sunk cost (annual salary ~$3.83M per Capology (GBP\u2192USD @1.34) \u00f7 365 \u00d7 5 days out)",
     "financial_impact_amount": 52499
   },
   {
@@ -236,7 +236,7 @@
     "source_url": "https://www.yardbarker.com/tennis/articles/emma_raducanu_setback_deepens_as_british_star_remains_on_crutches_after_wimbledon_withdrawal/s1_17460_44037038",
     "location": "N/A \u2014 individual tour athlete, no fixed team location",
     "league": "WTA Tour",
-    "financial_impact_calculation": "\u00a340,000 (~$53,600) forfeited guaranteed prize money \u2014 50% of the \u00a380,000 first-round Wimbledon payout, per WTA withdrawal rules (per GB News / Tennis365)",
+    "financial_impact_calculation": "forfeited guaranteed prize money \u2014 50% of the \u00a380,000 first-round Wimbledon payout, per WTA withdrawal rules (per GB News / Tennis365)",
     "financial_impact_amount": 53600
   },
   {
@@ -300,7 +300,7 @@
     "source_url": "https://www.beinsports.com/en-us/soccer/fifa-world-cup-2026/articles/adding-insult-to-injury-santiago-gimenez-suffers-injury-during-mexico-s-loss-to-england-2026-07-06",
     "location": "Milan, Italy",
     "league": "Serie A",
-    "financial_impact_calculation": "$72,304 prorated sunk cost (annual salary ~$5.28M per Capology (EUR\u2192USD @1.14) \u00f7 365 \u00d7 5 days out)",
+    "financial_impact_calculation": "prorated sunk cost (annual salary ~$5.28M per Capology (EUR\u2192USD @1.14) \u00f7 365 \u00d7 5 days out)",
     "financial_impact_amount": 72304
   },
   {
@@ -316,7 +316,7 @@
     "source_url": "https://sports.yahoo.com/nba/breaking-news/article/knicks-superstar-jalen-brunson-undergoes-left-wrist-surgery-expected-to-be-ready-for-2026-27-nba-season-155927234.html",
     "location": "New York, New York",
     "league": "NBA",
-    "financial_impact_calculation": "$6,203,757 prorated sunk cost (annual salary ~$37.74M per Spotrac \u00f7 365 \u00d7 60 days out)",
+    "financial_impact_calculation": "prorated sunk cost (annual salary ~$37.74M per Spotrac \u00f7 365 \u00d7 60 days out)",
     "financial_impact_amount": 6203757
   },
   {
@@ -332,7 +332,7 @@
     "source_url": "https://www.espn.com/mlb/story/_/id/49238350/rangers-corey-seager-back-il-lower-back-inflammation",
     "location": "Arlington, Texas",
     "league": "MLB",
-    "financial_impact_calculation": "$849,315 prorated sunk cost (annual salary ~$31.00M per Spotrac \u00f7 365 \u00d7 10 days out)",
+    "financial_impact_calculation": "prorated sunk cost (annual salary ~$31.00M per Spotrac \u00f7 365 \u00d7 10 days out)",
     "financial_impact_amount": 849315
   },
   {
@@ -348,7 +348,7 @@
     "source_url": "https://www.espn.com/soccer/story/_/id/49298508/belgium-amadou-onana-world-cup-suffering-acl-injury",
     "location": "Birmingham, England",
     "league": "Premier League",
-    "financial_impact_calculation": "$6,414,378 prorated sunk cost (annual salary ~$9.76M per Capology (GBP\u2192USD @1.34) \u00f7 365 \u00d7 240 days out)",
+    "financial_impact_calculation": "prorated sunk cost (annual salary ~$9.76M per Capology (GBP\u2192USD @1.34) \u00f7 365 \u00d7 240 days out)",
     "financial_impact_amount": 6414378
   },
   {
@@ -364,7 +364,7 @@
     "source_url": "https://www.espn.com/mlb/story/_/id/49244022/a-slugger-brent-rooker-season-ending-left-knee-surgery",
     "location": "West Sacramento, California (Sutter Health Park; relocating to Las Vegas)",
     "league": "MLB",
-    "financial_impact_calculation": "$1,463,014 prorated sunk cost (annual salary ~$6.00M per Spotrac \u00f7 365 \u00d7 89 days out)",
+    "financial_impact_calculation": "prorated sunk cost (annual salary ~$6.00M per Spotrac \u00f7 365 \u00d7 89 days out)",
     "financial_impact_amount": 1463014
   },
   {
@@ -380,7 +380,7 @@
     "source_url": "https://lastwordonsports.com/baseball/2026/07/07/nyy-stanton-injury-update/",
     "location": "Bronx, New York",
     "league": "MLB",
-    "financial_impact_calculation": "$397,260 prorated sunk cost (annual salary ~$29.00M per Spotrac \u00f7 365 \u00d7 5 days out)",
+    "financial_impact_calculation": "prorated sunk cost (annual salary ~$29.00M per Spotrac \u00f7 365 \u00d7 5 days out)",
     "financial_impact_amount": 397260
   },
   {
@@ -396,7 +396,7 @@
     "source_url": "https://www.thenationalnews.com/sport/world-cup-2026/2026/07/06/ismael-saibari-fitness-concern-for-morocco-ahead-of-france-world-cup-quarter-final-clash/",
     "location": "Munich, Germany",
     "league": "Bundesliga",
-    "financial_impact_calculation": "$48,723 prorated sunk cost (annual base salary ~\u20ac5.2M / ~$5.93M per Capology (EUR\u2192USD @1.14) \u00f7 365 \u00d7 3 days out)",
+    "financial_impact_calculation": "prorated sunk cost (annual base salary ~\u20ac5.2M / ~$5.93M per Capology (EUR\u2192USD @1.14) \u00f7 365 \u00d7 3 days out)",
     "financial_impact_amount": 48723
   },
   {
@@ -428,7 +428,7 @@
     "source_url": "https://www.nwaonline.com/news/2026/jul/07/injuries-taking-toll-throughout-wnba/",
     "location": "Las Vegas, Nevada",
     "league": "WNBA",
-    "financial_impact_calculation": "$11,507 prorated sunk cost (annual salary ~$1.40M per Spotrac \u00f7 365 \u00d7 3 days out)",
+    "financial_impact_calculation": "prorated sunk cost (annual salary ~$1.40M per Spotrac \u00f7 365 \u00d7 3 days out)",
     "financial_impact_amount": 11507
   },
   {
@@ -444,7 +444,7 @@
     "source_url": "https://www.nwaonline.com/news/2026/jul/07/injuries-taking-toll-throughout-wnba/",
     "location": "Indianapolis, Indiana",
     "league": "WNBA",
-    "financial_impact_calculation": "$4,347 prorated sunk cost (annual salary ~$528,846 per Spotrac \u00f7 365 \u00d7 3 days out)",
+    "financial_impact_calculation": "prorated sunk cost (annual salary ~$528,846 per Spotrac \u00f7 365 \u00d7 3 days out)",
     "financial_impact_amount": 4347
   },
   {
@@ -460,7 +460,7 @@
     "source_url": "https://bleacherreport.com/articles/25452286-angel-reese-kelsey-plum-headline-2026-wnba-all-star-game-reserves-full-roster-announced",
     "location": "Los Angeles, California",
     "league": "WNBA",
-    "financial_impact_calculation": "$76,712 prorated sunk cost (annual salary ~$999,999 per Spotrac \u00f7 365 \u00d7 28 days out)",
+    "financial_impact_calculation": "prorated sunk cost (annual salary ~$999,999 per Spotrac \u00f7 365 \u00d7 28 days out)",
     "financial_impact_amount": 76712
   },
   {
@@ -476,7 +476,7 @@
     "source_url": "https://www.nwaonline.com/news/2026/jul/07/injuries-taking-toll-throughout-wnba/",
     "location": "Minneapolis, Minnesota",
     "league": "WNBA",
-    "financial_impact_calculation": "$11,507 prorated sunk cost (annual salary ~$1.4M per Spotrac \u00f7 365 \u00d7 3 days out)",
+    "financial_impact_calculation": "prorated sunk cost (annual salary ~$1.4M per Spotrac \u00f7 365 \u00d7 3 days out)",
     "financial_impact_amount": 11507
   },
   {
@@ -540,7 +540,7 @@
     "source_url": "https://www.nhl.com/news/connor-bedard-injury-status-update-july-8-2026",
     "location": "Chicago, Illinois",
     "league": "NHL",
-    "financial_impact_calculation": "$312,329 prorated sunk cost (2025-26 entry-level contract cap hit ~$950,000 per Spotrac/Puckpedia \u00f7 365 \u00d7 120 days out [~4-month recovery])",
+    "financial_impact_calculation": "prorated sunk cost (2025-26 entry-level contract cap hit ~$950,000 per Spotrac/Puckpedia \u00f7 365 \u00d7 120 days out [~4-month recovery])",
     "financial_impact_amount": 312329
   },
   {
@@ -572,7 +572,7 @@
     "source_url": "https://athlonsports.com/wnba/indiana-fever/indiana-fever-announce-aliyah-boston-injury-update-la-sparks-game",
     "location": "Indianapolis, Indiana",
     "league": "WNBA",
-    "financial_impact_calculation": "$8,219 prorated sunk cost (annual salary ~$1M per Spotrac \u00f7 365 \u00d7 3 days out)",
+    "financial_impact_calculation": "prorated sunk cost (annual salary ~$1M per Spotrac \u00f7 365 \u00d7 3 days out)",
     "financial_impact_amount": 8219
   },
   {
@@ -604,7 +604,7 @@
     "source_url": "https://www.skysports.com/football/news/11095/13561150/england-world-cup-latest-reece-james-in-race-to-be-fit-for-quarter-final-clash-with-norway-to-ease-right-back-crisis",
     "location": "London, England",
     "league": "Premier League",
-    "financial_impact_calculation": "$85,479 prorated sunk cost (annual salary ~\u00a310.4M (~$10.4M gross fixed wages) per Capology \u00f7 365 \u00d7 3 days out)",
+    "financial_impact_calculation": "prorated sunk cost (annual salary ~\u00a310.4M (~$10.4M gross fixed wages) per Capology \u00f7 365 \u00d7 3 days out)",
     "financial_impact_amount": 85479
   },
   {
@@ -684,7 +684,7 @@
     "source_url": "https://www.espn.com/mlb/story/_/id/49317023/yankees-aaron-judge-rib-reimaged-all-star-break",
     "location": "Bronx, New York",
     "league": "MLB",
-    "financial_impact_calculation": "$547,945 prorated sunk cost (annual salary ~$40M per Spotrac \u00f7 365 \u00d7 5 days out)",
+    "financial_impact_calculation": "prorated sunk cost (annual salary ~$40M per Spotrac \u00f7 365 \u00d7 5 days out)",
     "financial_impact_amount": 547945
   },
   {
@@ -700,7 +700,7 @@
     "source_url": "https://www.amny.com/sports/mark-vientos-injury-mets-7-9-26/",
     "location": "Queens (Flushing), New York",
     "league": "MLB",
-    "financial_impact_calculation": "$93,637 prorated sunk cost (annual salary ~$813,750 per Spotrac \u00f7 365 \u00d7 42 days out)",
+    "financial_impact_calculation": "prorated sunk cost (annual salary ~$813,750 per Spotrac \u00f7 365 \u00d7 42 days out)",
     "financial_impact_amount": 93637
   },
   {
@@ -716,7 +716,7 @@
     "source_url": "https://www.espn.com/mlb/story/_/id/49319837/athletics-gelof-mri-knee-sliding-fence",
     "location": "West Sacramento, California (Sutter Health Park; relocating to Las Vegas)",
     "league": "MLB",
-    "financial_impact_calculation": "$10,479 prorated sunk cost (annual salary ~$765,000 per Spotrac \u00f7 365 \u00d7 5 days out)",
+    "financial_impact_calculation": "prorated sunk cost (annual salary ~$765,000 per Spotrac \u00f7 365 \u00d7 5 days out)",
     "financial_impact_amount": 10479
   },
   {
@@ -732,7 +732,7 @@
     "source_url": "https://www.sportskeeda.com/football/rumor-france-handed-huge-injury-boost-star-man-returns-training-ahead-fifa-world-cup-q-f-morocco-reports",
     "location": "Madrid, Spain",
     "league": "La Liga",
-    "financial_impact_calculation": "$102,740 prorated sunk cost (annual salary ~\u20ac12.5M gross (~$13.5M) per Capology \u00f7 365 \u00d7 3 days out)",
+    "financial_impact_calculation": "prorated sunk cost (annual salary ~\u20ac12.5M gross (~$13.5M) per Capology \u00f7 365 \u00d7 3 days out)",
     "financial_impact_amount": 102740
   },
   {
@@ -748,7 +748,7 @@
     "source_url": "https://www.nhl.com/news/seth-jarvis-to-miss-beginning-of-2026-2027-season-for-hurricanes-after-shoulder-surgery",
     "location": "Raleigh, North Carolina",
     "league": "NHL",
-    "financial_impact_calculation": "$3,246,575 prorated sunk cost (annual salary ~$7.9M AAV per Spotrac \u00f7 365 \u00d7 150 days out)",
+    "financial_impact_calculation": "prorated sunk cost (annual salary ~$7.9M AAV per Spotrac \u00f7 365 \u00d7 150 days out)",
     "financial_impact_amount": 3246575
   },
   {
@@ -796,7 +796,7 @@
     "source_url": "https://sports.yahoo.com/articles/skys-skylar-diggins-ruled-vs-010259203.html",
     "location": "Chicago, Illinois",
     "league": "WNBA",
-    "financial_impact_calculation": "$7,562 prorated sunk cost (annual salary ~$920,000 per Spotrac \u00f7 365 \u00d7 3 days out)",
+    "financial_impact_calculation": "prorated sunk cost (annual salary ~$920,000 per Spotrac \u00f7 365 \u00d7 3 days out)",
     "financial_impact_amount": 7562
   },
   {
@@ -812,7 +812,7 @@
     "source_url": "https://www.mlb.com/news/twins-injuries-and-roster-moves",
     "location": "Minneapolis, Minnesota",
     "league": "MLB",
-    "financial_impact_calculation": "$32,055 prorated sunk cost (annual salary ~$780,000 MLB minimum per Spotrac \u00f7 365 \u00d7 15 days out)",
+    "financial_impact_calculation": "prorated sunk cost (annual salary ~$780,000 MLB minimum per Spotrac \u00f7 365 \u00d7 15 days out)",
     "financial_impact_amount": 32055
   },
   {
@@ -828,7 +828,7 @@
     "source_url": "https://www.mlbtraderumors.com/2026/07/pirates-to-place-endy-rodriguez-on-injured-list.html",
     "location": "Pittsburgh, Pennsylvania",
     "league": "MLB",
-    "financial_impact_calculation": "$21,370 prorated sunk cost (annual salary ~$780,000 MLB minimum per Spotrac \u00f7 365 \u00d7 10 days out)",
+    "financial_impact_calculation": "prorated sunk cost (annual salary ~$780,000 MLB minimum per Spotrac \u00f7 365 \u00d7 10 days out)",
     "financial_impact_amount": 21370
   },
   {
@@ -892,7 +892,7 @@
     "source_url": "https://raptorsrepublic.com/2026/07/10/collin-murray-boyles-alijah-martin-to-miss-raptors-summer-league-opener/",
     "location": "Toronto, Ontario, Canada (team); Las Vegas, Nevada (Summer League site)",
     "league": "NBA Summer League",
-    "financial_impact_calculation": "$86,747 prorated sunk cost (annual salary ~$6.33M per Spotrac \u00f7 365 \u00d7 5 days out) [assumption: no firm return timeline reported, used 5-day undetermined default]",
+    "financial_impact_calculation": "prorated sunk cost (annual salary ~$6.33M per Spotrac \u00f7 365 \u00d7 5 days out) [assumption: no firm return timeline reported, used 5-day undetermined default]",
     "financial_impact_amount": 86747
   },
   {
@@ -908,7 +908,7 @@
     "source_url": "https://sports.yahoo.com/articles/liberty-injury-report-star-forward-satou-sabally-in-concussion-protocol-224647068.html",
     "location": "Brooklyn, New York",
     "league": "WNBA",
-    "financial_impact_calculation": "$11,164 prorated sunk cost (annual salary ~$815K per Spotrac \u00f7 365 \u00d7 5 days out) [assumption: concussion protocol with no return timeline, used 5-day undetermined default]",
+    "financial_impact_calculation": "prorated sunk cost (annual salary ~$815K per Spotrac \u00f7 365 \u00d7 5 days out) [assumption: concussion protocol with no return timeline, used 5-day undetermined default]",
     "financial_impact_amount": 11164
   },
   {
@@ -924,7 +924,7 @@
     "source_url": "https://www.cbssports.com/wnba/news/portland-fire-atlanta-dream-where-to-watch-angel-reese-injury/",
     "location": "Atlanta, Georgia",
     "league": "WNBA",
-    "financial_impact_calculation": "$2,882 prorated sunk cost (annual salary ~$350,692 per Spotrac \u00f7 365 \u00d7 3 days out) [assumption: day-to-day questionable status]",
+    "financial_impact_calculation": "prorated sunk cost (annual salary ~$350,692 per Spotrac \u00f7 365 \u00d7 3 days out) [assumption: day-to-day questionable status]",
     "financial_impact_amount": 2882
   },
   {
@@ -940,7 +940,7 @@
     "source_url": "https://www.cbsnews.com/atlanta/news/atlanta-dreams-brionna-jones-nearing-return-expected-back-with-team-next-week/",
     "location": "Atlanta, Georgia",
     "league": "WNBA",
-    "financial_impact_calculation": "$153,425 prorated sunk cost (annual salary ~$1M per Spotrac \u00f7 365 \u00d7 56 days out) [assumption: out since ~start of 2026 WNBA season (~May 16) through date reported (July 11), ~56 days]",
+    "financial_impact_calculation": "prorated sunk cost (annual salary ~$1M per Spotrac \u00f7 365 \u00d7 56 days out) [assumption: out since ~start of 2026 WNBA season (~May 16) through date reported (July 11), ~56 days]",
     "financial_impact_amount": 153425
   },
   {
@@ -956,7 +956,7 @@
     "source_url": "https://www.espn.com/wnba/story/_/id/49287945/olivia-miles-sidelined-monday-sun-calf-injury",
     "location": "Minneapolis, Minnesota",
     "league": "WNBA",
-    "financial_impact_calculation": "$3,838 prorated sunk cost (annual salary ~$466,913 per Spotrac/On3 \u00f7 365 \u00d7 3 days out) [assumption: day-to-day, signs point to quick recovery]",
+    "financial_impact_calculation": "prorated sunk cost (annual salary ~$466,913 per Spotrac/On3 \u00f7 365 \u00d7 3 days out) [assumption: day-to-day, signs point to quick recovery]",
     "financial_impact_amount": 3838
   },
   {
@@ -972,7 +972,7 @@
     "source_url": "https://sports.yahoo.com/articles/final-injury-report-liberty-mystics-150000047.html",
     "location": "Brooklyn, New York",
     "league": "WNBA",
-    "financial_impact_calculation": "$4,021 prorated sunk cost (annual salary ~$293,510 per Spotrac \u00f7 365 \u00d7 5 days out) [assumption: no return timeline, used 5-day undetermined default]",
+    "financial_impact_calculation": "prorated sunk cost (annual salary ~$293,510 per Spotrac \u00f7 365 \u00d7 5 days out) [assumption: no return timeline, used 5-day undetermined default]",
     "financial_impact_amount": 4021
   },
   {
@@ -1068,7 +1068,7 @@
     "source_url": "https://www.espn.com/mlb/story/_/id/49327458/shohei-ohtani-dealing-knee-irritation-miss-all-star-game",
     "location": "Los Angeles, California",
     "league": "MLB",
-    "financial_impact_calculation": "$575,342 prorated sunk cost (annual salary ~$70M (contract AAV) per Spotrac \u00f7 365 \u00d7 3 days out) [assumption: day-to-day knee issue, skipping one start and the All-Star Game, no IL move reported]",
+    "financial_impact_calculation": "prorated sunk cost (annual salary ~$70M (contract AAV) per Spotrac \u00f7 365 \u00d7 3 days out) [assumption: day-to-day knee issue, skipping one start and the All-Star Game, no IL move reported]",
     "financial_impact_amount": 575342
   },
   {
@@ -1084,7 +1084,7 @@
     "source_url": "https://www.espn.com/mlb/story/_/id/49334996/athletics-all-star-1b-nick-kurtz-placed-il-thumb-sprain",
     "location": "West Sacramento, California (Sutter Health Park; relocating to Las Vegas)",
     "league": "MLB",
-    "financial_impact_calculation": "$21,507 prorated sunk cost (annual salary ~$785K per Spotrac \u00f7 365 \u00d7 10 days out) [10-day injured list stint]",
+    "financial_impact_calculation": "prorated sunk cost (annual salary ~$785K per Spotrac \u00f7 365 \u00d7 10 days out) [10-day injured list stint]",
     "financial_impact_amount": 21507
   },
   {
@@ -1100,7 +1100,7 @@
     "source_url": "https://www.mlbtraderumors.com/2026/07/reds-place-nick-lodolo-on-il-with-blister-recall-chase-petty.html",
     "location": "Cincinnati, Ohio",
     "league": "MLB",
-    "financial_impact_calculation": "$194,178 prorated sunk cost (annual salary ~$4.725M per Spotrac \u00f7 365 \u00d7 15 days out) [15-day injured list stint]",
+    "financial_impact_calculation": "prorated sunk cost (annual salary ~$4.725M per Spotrac \u00f7 365 \u00d7 15 days out) [15-day injured list stint]",
     "financial_impact_amount": 194178
   },
   {
@@ -1116,7 +1116,7 @@
     "source_url": "https://www.bakersfield.com/ap/sports/bo-bichette-held-out-of-mets-lineup-for-second-straight-game-with-leg-soreness/article_c615803d-891c-57fd-87ef-b86becfaf8cc.html",
     "location": "Queens (Flushing), New York",
     "league": "MLB",
-    "financial_impact_calculation": "$345,205 prorated sunk cost (annual salary ~$42M (contract AAV) per Spotrac \u00f7 365 \u00d7 3 days out) [assumption: day-to-day, not placed on IL, used 3-day estimate]",
+    "financial_impact_calculation": "prorated sunk cost (annual salary ~$42M (contract AAV) per Spotrac \u00f7 365 \u00d7 3 days out) [assumption: day-to-day, not placed on IL, used 3-day estimate]",
     "financial_impact_amount": 345205
   },
   {
@@ -1180,7 +1180,7 @@
     "source_url": "https://www.seattletimes.com/sports/storm/ezi-magbegor-to-miss-seattle-storms-game-vs-washington-mystics-with-face-injury/",
     "location": "Seattle, Washington",
     "league": "WNBA",
-    "financial_impact_calculation": "$47,945 prorated sunk cost (annual salary ~$1.25M per Spotrac \u00f7 365 \u00d7 14 days out) [assumption: 'reevaluated in the next couple of weeks' = 2 weeks]",
+    "financial_impact_calculation": "prorated sunk cost (annual salary ~$1.25M per Spotrac \u00f7 365 \u00d7 14 days out) [assumption: 'reevaluated in the next couple of weeks' = 2 weeks]",
     "financial_impact_amount": 47945
   },
   {
@@ -1196,7 +1196,7 @@
     "source_url": "https://www.cbssports.com/fantasy/baseball/news/pirates-konnor-griffin-moved-to-60-day-il/",
     "location": "Pittsburgh, Pennsylvania",
     "league": "MLB",
-    "financial_impact_calculation": "$172,603 prorated sunk cost (annual salary ~$1M base salary per Spotrac \u00f7 365 \u00d7 63 days out) [8-10 week recovery timeline, used midpoint of 9 weeks = 63 days; excludes one-time signing bonus from prorated base]",
+    "financial_impact_calculation": "prorated sunk cost (annual salary ~$1M base salary per Spotrac \u00f7 365 \u00d7 63 days out) [8-10 week recovery timeline, used midpoint of 9 weeks = 63 days; excludes one-time signing bonus from prorated base]",
     "financial_impact_amount": 172603
   },
   {
@@ -1212,7 +1212,7 @@
     "source_url": "https://sports.yahoo.com/articles/final-injury-report-fever-aces-210000827.html",
     "location": "Las Vegas, Nevada",
     "league": "WNBA",
-    "financial_impact_calculation": "$2,281 prorated sunk cost (annual salary ~$277,500 per Spotrac \u00f7 365 \u00d7 3 days out) [assumption: single-game absence, no timeline, day-to-day default]",
+    "financial_impact_calculation": "prorated sunk cost (annual salary ~$277,500 per Spotrac \u00f7 365 \u00d7 3 days out) [assumption: single-game absence, no timeline, day-to-day default]",
     "financial_impact_amount": 2281
   },
   {
@@ -1244,7 +1244,7 @@
     "source_url": "https://www.nbcsports.com/nba/news/magic-second-round-pick-izaiyah-nelson-will-have-surgery-on-ankle-fracture-suffered-at-summer-league",
     "location": "Orlando, Florida",
     "league": "NBA Summer League",
-    "financial_impact_calculation": "$13,020 prorated sunk cost (annual salary ~$678,882 (two-way) per Hoops Rumors \u00f7 365 \u00d7 7 days out) [assumption: ruled out for remainder of NBA Summer League (~July 13-20); true post-surgery recovery likely longer but not specified]",
+    "financial_impact_calculation": "prorated sunk cost (annual salary ~$678,882 (two-way) per Hoops Rumors \u00f7 365 \u00d7 7 days out) [assumption: ruled out for remainder of NBA Summer League (~July 13-20); true post-surgery recovery likely longer but not specified]",
     "financial_impact_amount": 13020
   },
   {
@@ -1260,7 +1260,7 @@
     "source_url": "https://www.si.com/nba/jazz/onsi/ace-bailey-s-latest-injury-could-end-his-jazz-summer-league-run",
     "location": "Salt Lake City, Utah",
     "league": "NBA Summer League",
-    "financial_impact_calculation": "$78,272 prorated sunk cost (annual salary ~$9.52M per Spotrac \u00f7 365 \u00d7 3 days out) [assumption: held out as precaution, no formal diagnosis/timeline, day-to-day default]",
+    "financial_impact_calculation": "prorated sunk cost (annual salary ~$9.52M per Spotrac \u00f7 365 \u00d7 3 days out) [assumption: held out as precaution, no formal diagnosis/timeline, day-to-day default]",
     "financial_impact_amount": 78272
   },
   {
@@ -1276,7 +1276,7 @@
     "source_url": "https://sports.yahoo.com/articles/san-antonio-spurs-rookie-jayden-184347004.html",
     "location": "San Antonio, Texas",
     "league": "NBA Summer League",
-    "financial_impact_calculation": "$106,925 prorated sunk cost (annual salary ~$3.9M per Spotrac \u00f7 365 \u00d7 10 days out) [assumption: ruled out for entire 2026 NBA Summer League, ~July 10-20]",
+    "financial_impact_calculation": "prorated sunk cost (annual salary ~$3.9M per Spotrac \u00f7 365 \u00d7 10 days out) [assumption: ruled out for entire 2026 NBA Summer League, ~July 10-20]",
     "financial_impact_amount": 106925
   },
   {
@@ -1292,7 +1292,7 @@
     "source_url": "https://www.espn.com/wnba/story/_/id/49098901/sparks-cameron-brink-undetermined-ankle-sprain",
     "location": "Los Angeles, California",
     "league": "WNBA",
-    "financial_impact_calculation": "$18,942 prorated sunk cost (annual salary ~$493,851 per Spotrac \u00f7 365 \u00d7 14 days out) [expected out at least two weeks]",
+    "financial_impact_calculation": "prorated sunk cost (annual salary ~$493,851 per Spotrac \u00f7 365 \u00d7 14 days out) [expected out at least two weeks]",
     "financial_impact_amount": 18942
   },
   {
@@ -1308,7 +1308,7 @@
     "source_url": "https://www.yardbarker.com/mlb/articles/2026_injury_report_updates_on_bichette_lodolo_misiorowski/s1_17653_44053323",
     "location": "Atlanta (Cumberland), Georgia",
     "league": "MLB",
-    "financial_impact_calculation": "$246,575 prorated sunk cost (annual salary ~$9M per Spotrac \u00f7 365 \u00d7 10 days out)",
+    "financial_impact_calculation": "prorated sunk cost (annual salary ~$9M per Spotrac \u00f7 365 \u00d7 10 days out)",
     "financial_impact_amount": 246575
   },
   {
@@ -1324,7 +1324,7 @@
     "source_url": "https://www.yardbarker.com/mlb/articles/2026_injury_report_updates_on_bichette_lodolo_misiorowski/s1_17653_44053323",
     "location": "Milwaukee, Wisconsin",
     "league": "MLB",
-    "financial_impact_calculation": "$32,305 prorated sunk cost (annual salary ~$786,100 per Spotrac \u00f7 365 \u00d7 15 days out)",
+    "financial_impact_calculation": "prorated sunk cost (annual salary ~$786,100 per Spotrac \u00f7 365 \u00d7 15 days out)",
     "financial_impact_amount": 32305
   },
   {
@@ -1420,7 +1420,7 @@
     "source_url": "https://www.mlssoccer.com/news/mlssoccer-com-injury-report",
     "location": "New York (Bronx), New York",
     "league": "MLS",
-    "financial_impact_calculation": "$1,553 prorated sunk cost (annual salary ~$113,400 per Capology \u00f7 365 \u00d7 5 days out; no specific recovery timeline disclosed, conservative 5-day default used)",
+    "financial_impact_calculation": "prorated sunk cost (annual salary ~$113,400 per Capology \u00f7 365 \u00d7 5 days out; no specific recovery timeline disclosed, conservative 5-day default used)",
     "financial_impact_amount": 1553
   },
   {
@@ -1436,7 +1436,7 @@
     "source_url": "https://www.mlssoccer.com/news/mlssoccer-com-injury-report",
     "location": "Seattle, Washington",
     "league": "MLS",
-    "financial_impact_calculation": "$30,822 prorated sunk cost (annual salary ~$2.25M per Capology \u00f7 365 \u00d7 5 days out; no specific recovery timeline disclosed, conservative 5-day default used)",
+    "financial_impact_calculation": "prorated sunk cost (annual salary ~$2.25M per Capology \u00f7 365 \u00d7 5 days out; no specific recovery timeline disclosed, conservative 5-day default used)",
     "financial_impact_amount": 30822
   },
   {
@@ -1452,7 +1452,7 @@
     "source_url": "https://www.mlssoccer.com/news/mlssoccer-com-injury-report",
     "location": "Seattle, Washington",
     "league": "MLS",
-    "financial_impact_calculation": "$64,658 prorated sunk cost (annual salary cap hit ~$200,000 per Capology \u00f7 365 \u00d7 118 days out; days out estimated from date reported to 2026 MLS regular season end ~Nov 7)",
+    "financial_impact_calculation": "prorated sunk cost (annual salary cap hit ~$200,000 per Capology \u00f7 365 \u00d7 118 days out; days out estimated from date reported to 2026 MLS regular season end ~Nov 7)",
     "financial_impact_amount": 64658
   },
   {
@@ -1500,7 +1500,7 @@
     "source_url": "https://www.mlb.com/news/giants-injuries-and-roster-moves",
     "location": "San Francisco, California",
     "league": "MLB",
-    "financial_impact_calculation": "$8,219 prorated sunk cost (annual salary ~$300,000 per Spotrac \u00f7 365 \u00d7 10 days out)",
+    "financial_impact_calculation": "prorated sunk cost (annual salary ~$300,000 per Spotrac \u00f7 365 \u00d7 10 days out)",
     "financial_impact_amount": 8219
   },
   {
@@ -1516,7 +1516,7 @@
     "source_url": "https://www.mlb.com/news/giants-injuries-and-roster-moves",
     "location": "San Francisco, California",
     "league": "MLB",
-    "financial_impact_calculation": "$65,205 prorated sunk cost (annual salary ~$850,000 per Spotrac \u00f7 365 \u00d7 28 days out)",
+    "financial_impact_calculation": "prorated sunk cost (annual salary ~$850,000 per Spotrac \u00f7 365 \u00d7 28 days out)",
     "financial_impact_amount": 65205
   },
   {
@@ -1532,7 +1532,7 @@
     "source_url": "https://www.mlb.com/news/giants-injuries-and-roster-moves",
     "location": "San Francisco, California",
     "league": "MLB",
-    "financial_impact_calculation": "$684,932 prorated sunk cost (annual salary ~$25M per Spotrac \u00f7 365 \u00d7 10 days out)",
+    "financial_impact_calculation": "prorated sunk cost (annual salary ~$25M per Spotrac \u00f7 365 \u00d7 10 days out)",
     "financial_impact_amount": 684932
   },
   {
@@ -1548,7 +1548,7 @@
     "source_url": "https://www.mlb.com/news/giants-injuries-and-roster-moves",
     "location": "San Francisco, California",
     "league": "MLB",
-    "financial_impact_calculation": "$10,685 prorated sunk cost (annual salary ~$780,000 per Spotrac \u00f7 365 \u00d7 5 days out; recovery timeline undisclosed, conservative 5-day default used)",
+    "financial_impact_calculation": "prorated sunk cost (annual salary ~$780,000 per Spotrac \u00f7 365 \u00d7 5 days out; recovery timeline undisclosed, conservative 5-day default used)",
     "financial_impact_amount": 10685
   },
   {
@@ -1564,7 +1564,7 @@
     "source_url": "https://www.cbssports.com/mlb/teams/LAA/los-angeles-angels/injuries/",
     "location": "Anaheim, California",
     "league": "MLB",
-    "financial_impact_calculation": "$356,164 prorated sunk cost (annual salary ~$13M per Spotrac \u00f7 365 \u00d7 10 days out)",
+    "financial_impact_calculation": "prorated sunk cost (annual salary ~$13M per Spotrac \u00f7 365 \u00d7 10 days out)",
     "financial_impact_amount": 356164
   },
   {
@@ -1580,7 +1580,7 @@
     "source_url": "https://www.mlb.com/news/mariners-injuries-and-roster-moves",
     "location": "Seattle, Washington",
     "league": "MLB",
-    "financial_impact_calculation": "$6,520 prorated sunk cost (annual salary ~$793,300 per Spotrac \u00f7 365 \u00d7 3 days out)",
+    "financial_impact_calculation": "prorated sunk cost (annual salary ~$793,300 per Spotrac \u00f7 365 \u00d7 3 days out)",
     "financial_impact_amount": 6520
   },
   {
@@ -1596,7 +1596,7 @@
     "source_url": "https://www.mlb.com/news/mariners-injuries-and-roster-moves",
     "location": "Seattle, Washington",
     "league": "MLB",
-    "financial_impact_calculation": "$166,685 prorated sunk cost (annual salary ~$780,000 per Spotrac \u00f7 365 \u00d7 78 days out; possible season-ending surgery, days out estimated from date reported to MLB regular season end ~Sept 28)",
+    "financial_impact_calculation": "prorated sunk cost (annual salary ~$780,000 per Spotrac \u00f7 365 \u00d7 78 days out; possible season-ending surgery, days out estimated from date reported to MLB regular season end ~Sept 28)",
     "financial_impact_amount": 166685
   },
   {
@@ -1612,7 +1612,7 @@
     "source_url": "https://www.cbssports.com/mlb/teams/KC/kansas-city-royals/injuries/",
     "location": "Kansas City, Missouri",
     "league": "MLB",
-    "financial_impact_calculation": "$4,068,493 prorated sunk cost (annual salary ~$4.5M per Spotrac \u00f7 365 \u00d7 330 days out; 10-12 month recovery timeline, midpoint of 11 months used)",
+    "financial_impact_calculation": "prorated sunk cost (annual salary ~$4.5M per Spotrac \u00f7 365 \u00d7 330 days out; 10-12 month recovery timeline, midpoint of 11 months used)",
     "financial_impact_amount": 4068493
   },
   {
@@ -1724,7 +1724,7 @@
     "source_url": "https://www.yardbarker.com/nba/articles/collin_murray_boyles_alijah_martin_to_miss_raptors_summer_league_opener/s1_17733_44049064",
     "location": "Toronto, Ontario, Canada (team); Las Vegas, Nevada (Summer League site)",
     "league": "NBA Summer League",
-    "financial_impact_calculation": "$17,961 prorated sunk cost (annual salary ~$2.19M per Spotrac [2026-27 base salary on new 2-year deal] \u00f7 365 \u00d7 3 days out) [assumption: single-game absence, no diagnosis timeline given, day-to-day default]",
+    "financial_impact_calculation": "prorated sunk cost (annual salary ~$2.19M per Spotrac [2026-27 base salary on new 2-year deal] \u00f7 365 \u00d7 3 days out) [assumption: single-game absence, no diagnosis timeline given, day-to-day default]",
     "financial_impact_amount": 17961
   },
   {
@@ -1756,7 +1756,7 @@
     "source_url": "https://www.forbes.com/sites/brucelee/2026/07/11/kylian-mbapp-ankle-injury-update-before-frances-world-cup-semi-vs-spain/",
     "location": "Madrid, Spain",
     "league": "La Liga",
-    "financial_impact_calculation": "$277,397 prorated sunk cost (annual salary ~\u20ac31.25M / ~$33.75M per Capology [EUR\u2192USD @1.08] \u00f7 365 \u00d7 3 days out) [day-to-day default; reporting indicates no games were actually missed]",
+    "financial_impact_calculation": "prorated sunk cost (annual salary ~\u20ac31.25M / ~$33.75M per Capology [EUR\u2192USD @1.08] \u00f7 365 \u00d7 3 days out) [day-to-day default; reporting indicates no games were actually missed]",
     "financial_impact_amount": 277397
   },
   {
@@ -1772,7 +1772,7 @@
     "source_url": "https://www.nhl.com/news/max-domi-has-complications-after-surgery-out-indefinitely-for-maple-leafs",
     "location": "Toronto, Ontario, Canada",
     "league": "NHL",
-    "financial_impact_calculation": "$616,438 prorated sunk cost (annual salary ~$3.75M AAV per Spotrac \u00f7 365 \u00d7 60 days out) [assumption: 60 days used as the near-term horizon to the September training-camp re-evaluation date; reporting indicates his full 2026-27 season could be at risk if complications persist, which would raise this figure substantially]",
+    "financial_impact_calculation": "prorated sunk cost (annual salary ~$3.75M AAV per Spotrac \u00f7 365 \u00d7 60 days out) [assumption: 60 days used as the near-term horizon to the September training-camp re-evaluation date; reporting indicates his full 2026-27 season could be at risk if complications persist, which would raise this figure substantially]",
     "financial_impact_amount": 616438
   },
   {
@@ -1788,7 +1788,7 @@
     "source_url": "https://www.mlb.com/news/baseball-injury-updates",
     "location": "New York, New York (Bronx)",
     "league": "MLB",
-    "financial_impact_calculation": "$1,109,589 prorated sunk cost (annual salary ~$27M per Spotrac \u00f7 365 \u00d7 15 days out) [estimate: ~15 days from July 13 to a \"late July\" return target]",
+    "financial_impact_calculation": "prorated sunk cost (annual salary ~$27M per Spotrac \u00f7 365 \u00d7 15 days out) [estimate: ~15 days from July 13 to a \"late July\" return target]",
     "financial_impact_amount": 1109589
   },
   {
@@ -1804,7 +1804,7 @@
     "source_url": "https://dknetwork.draftkings.com/2026/07/14/what-happened-to-junior-caminero-injury-updates-for-2026-mlb-all-star-game/",
     "location": "St. Petersburg, Florida",
     "league": "MLB",
-    "financial_impact_calculation": "$6,532 prorated sunk cost (annual salary ~$794,800 per Spotrac \u00f7 365 \u00d7 3 days out)",
+    "financial_impact_calculation": "prorated sunk cost (annual salary ~$794,800 per Spotrac \u00f7 365 \u00d7 3 days out)",
     "financial_impact_amount": 6532
   },
   {
@@ -1820,7 +1820,7 @@
     "source_url": "https://www.mlbtraderumors.com/2026/07/orioles-blaze-alexander-suffers-fractured-hand-on-hbp.html",
     "location": "Baltimore, Maryland",
     "league": "MLB",
-    "financial_impact_calculation": "$65,178 prorated sunk cost (annual salary ~$792,800 per Spotrac \u00f7 365 \u00d7 30 days out) [estimate: 'at least a month' minimum]",
+    "financial_impact_calculation": "prorated sunk cost (annual salary ~$792,800 per Spotrac \u00f7 365 \u00d7 30 days out) [estimate: 'at least a month' minimum]",
     "financial_impact_amount": 65178
   },
   {
@@ -1836,7 +1836,7 @@
     "source_url": "https://athlonsports.com/mlb/tampa-bay-rays/rays-jake-fraley-rehab-injury-setback",
     "location": "St. Petersburg, Florida",
     "league": "MLB",
-    "financial_impact_calculation": "$41,096 prorated sunk cost (annual salary ~$3.0M per Spotrac \u00f7 365 \u00d7 5 days out) [undetermined additional recovery time following the rehab setback]",
+    "financial_impact_calculation": "prorated sunk cost (annual salary ~$3.0M per Spotrac \u00f7 365 \u00d7 5 days out) [undetermined additional recovery time following the rehab setback]",
     "financial_impact_amount": 41096
   },
   {
@@ -1852,7 +1852,7 @@
     "source_url": "https://arizonasports.com/mlb/arizona-diamondbacks/zac-gallen-15-day-il-recall-mitch-bratt",
     "location": "Phoenix, Arizona",
     "league": "MLB",
-    "financial_impact_calculation": "$905,205 prorated sunk cost (annual salary ~$22.025M per Spotrac \u00f7 365 \u00d7 15 days out)",
+    "financial_impact_calculation": "prorated sunk cost (annual salary ~$22.025M per Spotrac \u00f7 365 \u00d7 15 days out)",
     "financial_impact_amount": 905205
   },
   {
@@ -1868,7 +1868,7 @@
     "source_url": "https://athlonsports.com/wnba/chicago-sky/final-injury-report-for-storm-sky-will-kamilla-cardoso-skylar-diggins-play",
     "location": "Chicago, Illinois",
     "league": "WNBA",
-    "financial_impact_calculation": "$706 prorated sunk cost (annual salary ~$85,873 per Spotrac \u00f7 365 \u00d7 3 days out) [questionable status, day-to-day default]",
+    "financial_impact_calculation": "prorated sunk cost (annual salary ~$85,873 per Spotrac \u00f7 365 \u00d7 3 days out) [questionable status, day-to-day default]",
     "financial_impact_amount": 706
   },
   {
@@ -1884,7 +1884,7 @@
     "source_url": "https://sports.yahoo.com/nba/breaking-news/article/jazz-guard-trey-alexander-leaves-summer-league-game-on-stretcher-with-rib-contusion-055652310.html",
     "location": "Salt Lake City, Utah (team); Las Vegas, Nevada (Summer League site)",
     "league": "NBA Summer League",
-    "financial_impact_calculation": "$5,579 prorated sunk cost (annual salary ~$678,882 (two-way) per Hoops Rumors \u00f7 365 \u00d7 3 days out) [assumption: no timeline given, day-to-day default]",
+    "financial_impact_calculation": "prorated sunk cost (annual salary ~$678,882 (two-way) per Hoops Rumors \u00f7 365 \u00d7 3 days out) [assumption: no timeline given, day-to-day default]",
     "financial_impact_amount": 5579
   },
   {
